@@ -4,6 +4,14 @@ const summaryFile = fs.existsSync("video-summary-summary.json")
   ? "video-summary-summary.json"
   : "video-summary-gemini-output.json";
 const summary = JSON.parse(fs.readFileSync(summaryFile, "utf8"));
+
+const unclassifiedOutputFile = "video-summary-unclassified-output.json";
+if (fs.existsSync(unclassifiedOutputFile)) {
+  const unclassifiedOutput = JSON.parse(fs.readFileSync(unclassifiedOutputFile, "utf8"));
+  if (Array.isArray(unclassifiedOutput.items)) {
+    summary.items = [...(summary.items || []), ...unclassifiedOutput.items];
+  }
+}
 const geminiInput = JSON.parse(fs.readFileSync("video-summary-gemini-input.json", "utf8"));
 const existing = JSON.parse(fs.readFileSync("bilibili-ai-video-content-notes.json", "utf8"));
 const byBvid = new Map(existing.map((item) => [item.bvid, item]));
