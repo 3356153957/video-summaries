@@ -110,8 +110,10 @@ function normalize(item, index) {
   const bvid = item.source_id || `${item.platform}-${index}`;
   
   let dateAdded = new Date().toISOString().slice(0, 10);
+  let cover = platformCover(item);
   if (prevByBvid.has(bvid)) {
     dateAdded = prevByBvid.get(bvid).date_added || dateAdded;
+    cover = prevByBvid.get(bvid).cover || cover;
   }
 
   return {
@@ -120,7 +122,7 @@ function normalize(item, index) {
     title: item.title,
     author: meta.author || item.author || "",
     url: item.url || "",
-    cover: platformCover(item),
+    cover,
     category: category(item),
     value: item.value_level || "中",
     priority: index + 1,
