@@ -1,0 +1,51 @@
+{
+  "url": "https://www.youtube.com/feed/playlists",
+  "title": "(1) 播放列表 - YouTube",
+  "hasYtcfg": true,
+  "apiKey": "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+  "clientName": "WEB",
+  "clientVersion": "2.20260612.01.00",
+  "context": {
+    "client": {
+      "hl": "zh-CN",
+      "gl": "US",
+      "remoteHost": "88.210.36.109",
+      "deviceMake": "",
+      "deviceModel": "",
+      "visitorData": "CgtJRWpmOWVDWUlORSjP-rPRBjIKCgJVUxIEGgAgXmLfAgrcAjE5LllUPW1VQlk4Y3V2ZVVLaERTaHBBRWRvcEZnSGJacHBnUW94UWJhRnBBNG9RMWJUTnJqa3pHTmNPYWJZcGJvV09DTE5yV3QzaDhCNzRySGN6SzFQTEE5RWhucDBCMlNPWHg1UXppQ3hZRFA1LUxYb1RFLWFkOUtSZUl4WTVEMGlwSHhNbmFUUjA1Y3k5RzZOWUdmQUY4VEV4aTFKZ2xsZnZkQkJMaTVJOHNDUnZvc0ZpdUNrdjV6OERGa0tONXJYZ0pTVUpIVEZiRVBqdVBJOGVwdS1wOWVQQy1DT1JVeFdHTEItUHRRWmgxRUhqem1RbXRGV21oYXZ4NDdxbXBEYm53VHpfcUl2NFhwMkdZb3YzTEFiMlpsTzlJZnE0d2hEa0w0aTI2VHc2V3lpQU5pcWZnSjZNaDJRTm56Y0JvYkFiQlZlM1haaDNLSGk4OW1jLWhFQmZnY2NrZw%3D%3D",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36,gzip(gfe)",
+      "clientName": "WEB",
+      "clientVersion": "2.20260612.01.00",
+      "osName": "Windows",
+      "osVersion": "10.0",
+      "originalUrl": "https://www.youtube.com/feed/playlists",
+      "screenPixelDensity": 2,
+      "platform": "DESKTOP",
+      "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+      "windowWidthPoints": 1440,
+      "configInfo": {
+        "appInstallData": "CM_6s9EGELeGzxwQy9GxBRCOkNEcEImwzhwQvKTQHBCIkNEcEJvZ0RwQnIa4IhC-2tEcEIHNzhwQyKfRHBCCj88cEJmNsQUQ287RHBCWh9EcEJzO0RwQ5d3RHBDwnLAFEJ_PgBMQ2vfOHBCPqtEcEPG00BwQ37fRHBCzkM8cEIuP0RwQtMHQHBDgzbEFELjkzhwQ0r3QHBDM1tEcEMbI0RwQpKnRHBC9irAFENrv0BwQh6zOHBDDkdAcEKeM0RwQ_LLOHBDZhdAcEOel0RwQ3rzOHBDi1K4FEM3RsQUQ2dbRHBDrhbgiEL6E0RwQm8LQHBCowtEcEOuP0RwQieiuBRC229EcEJ3QsAUQvbauBRDj3dEcEK7WzxwQzMXRHBDXi9EcELTsgBMQzN-uBRD2q7AFEMGP0BwQs83RHBCL988cEN7Q0RwQq9DRHBCh-NAcEKaasAUQp67RHBCszdEcEICu0RwQvZmwBRCMtYATENrxgBMQiKnRHBCCz9EcKnxDQU1TV1JWUy1acS1ETGlVRXBRQ25BNzVGYjBHV09FV3FOVVAzQU84QnJ6TzN3dndzUktIVERLZ3JBUUR6ZjhGeTdjRy15YTI1QWFGRlB1Z0JPa1Rua3VDS016U0FNdEt2Sk1Fdkc0Rm5ESDdMTVRTQnZnNHl6MlREaDBIMAA%3D"
+      },
+      "screenDensityFloat": 1.5,
+      "userInterfaceTheme": "USER_INTERFACE_THEME_LIGHT",
+      "timeZone": "Asia/Shanghai",
+      "browserName": "Chrome",
+      "browserVersion": "149.0.0.0",
+      "memoryTotalKbytes": 16777216,
+      "acceptHeader": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "deviceExperimentId": "ChxOelkxTURjMk9ETTRNamd5T0RFME1EUXpOZz09EM_6s9EGGM_6s9EG",
+      "rolloutToken": "COqKmZKX_IHsfRDG28Te2bySAxiG27-Zh4KVAw%3D%3D"
+    },
+    "user": {
+      "lockedSafetyMode": false
+    },
+    "request": {
+      "useSsl": true
+    },
+    "clickTracking": {
+      "clickTrackingParams": "IhMIxMri4c+DlQMV5hX5AB2MUy3a"
+    }
+  },
+  "loggedIn": true,
+  "sessionIndex": "0"
+}

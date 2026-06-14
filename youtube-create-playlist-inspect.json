@@ -1,0 +1,662 @@
+[
+  {
+    "label": "initial",
+    "url": "https://www.youtube.com/feed/playlists",
+    "title": "(1) 播放列表 - YouTube",
+    "body": "跳过导航\n创建\n1\n首页\nShorts\n订阅\nClareee ASMR\n🇨🇳丁胖子金牌讲师\n技术爬爬虾 TechShrimp\n七尺宇\nMediastorm影视飓风\n稚晖君\n老戴在此\n我\n我的频道\n历史记录\n播放列表\n稍后观看\n赞过的视频\n我的视频\n下载内容\n更多 YouTube 产品与功能\nYouTube Premium\nYouTube TV\nYouTube Music\nYouTube Kids\n探索\n音乐\n影视\n直播\n展开\n举报记录\n关于新闻版权联系我们创作者广告开发者\n条款隐私权政策与安全YouTube 的运作方式测试新功能NFL Sunday Ticket\n© 2026 Google LLC\n播放列表\n最新添加\n播放列表\n自有\n6 个视频\n稍后观看\n私享\n•\n播放列表\n6 天前更新\n查看完整播放列表\n6 个视频\n赞过的视频\n私享\n•\n播放列表\n查看完整播放列表\n1 个视频\n全部播放\nasmr\n私享\n•\n播放列表\n查看完整播放列表",
+    "controls": [
+      {
+        "i": 2,
+        "tag": "YT-BUTTON-SHAPE",
+        "type": "",
+        "text": "跳过导航",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "跳过导航",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "tag": "INPUT",
+        "type": "text",
+        "text": "搜索",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "Search",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "搜索",
+        "visible": false
+      },
+      {
+        "i": 7,
+        "tag": "YT-BUTTON-SHAPE",
+        "type": "",
+        "text": "创建",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "创建",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "tag": "YTD-GUIDE-ENTRY-RENDERER",
+        "type": "",
+        "text": "展开",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "tag": "YTD-GUIDE-ENTRY-RENDERER",
+        "type": "",
+        "text": "隐藏部分内容",
+        "visible": false
+      },
+      {
+        "i": 15,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "最新添加",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放列表",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "自有",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "其他操作",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "点按取消静音",
+        "visible": false
+      },
+      {
+        "i": 20,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 23,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放",
+        "visible": false
+      },
+      {
+        "i": 24,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "信息购物",
+        "visible": false
+      },
+      {
+        "i": 25,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "显示信息卡",
+        "visible": false
+      },
+      {
+        "i": 26,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 27,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "更多",
+        "visible": false
+      },
+      {
+        "i": 28,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放列表",
+        "visible": false
+      },
+      {
+        "i": 35,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "取消",
+        "visible": false
+      },
+      {
+        "i": 36,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "确认",
+        "visible": false
+      },
+      {
+        "i": 37,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 38,
+        "tag": "INPUT",
+        "type": "checkbox",
+        "text": "",
+        "visible": false
+      },
+      {
+        "i": 39,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 40,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "稍后观看",
+        "visible": false
+      },
+      {
+        "i": 41,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "分享",
+        "visible": false
+      },
+      {
+        "i": 42,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "复制链接",
+        "visible": false
+      },
+      {
+        "i": 43,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 44,
+        "tag": "DIV",
+        "type": "",
+        "text": "从这个位置开始播放",
+        "visible": false
+      },
+      {
+        "i": 45,
+        "tag": "DIV",
+        "type": "",
+        "text": "退出精确跳转模式",
+        "visible": false
+      },
+      {
+        "i": 46,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放 (k)",
+        "visible": false
+      },
+      {
+        "i": 48,
+        "tag": "A",
+        "type": "",
+        "text": "下一个 (SHIFT+n)",
+        "visible": false
+      },
+      {
+        "i": 49,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "静音 (m)",
+        "visible": false
+      },
+      {
+        "i": 50,
+        "tag": "DIV",
+        "type": "",
+        "text": "/",
+        "visible": false
+      },
+      {
+        "i": 51,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "直播",
+        "visible": false
+      },
+      {
+        "i": 52,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "•",
+        "visible": false
+      },
+      {
+        "i": 53,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "•",
+        "visible": false
+      },
+      {
+        "i": 56,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "无法显示字幕",
+        "visible": false
+      },
+      {
+        "i": 57,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "设置",
+        "visible": false
+      },
+      {
+        "i": 58,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "影院模式 (t)",
+        "visible": false
+      },
+      {
+        "i": 59,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "在电视上播放",
+        "visible": false
+      },
+      {
+        "i": 60,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "全屏 (f)",
+        "visible": false
+      },
+      {
+        "i": 63,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "收起",
+        "visible": false
+      }
+    ]
+  },
+  {
+    "label": "after-create",
+    "url": "https://www.youtube.com/feed/playlists",
+    "title": "(1) 播放列表 - YouTube",
+    "body": "跳过导航\n创建\n1\n首页\nShorts\n订阅\nClareee ASMR\n🇨🇳丁胖子金牌讲师\n技术爬爬虾 TechShrimp\n七尺宇\nMediastorm影视飓风\n稚晖君\n老戴在此\n我\n我的频道\n历史记录\n播放列表\n稍后观看\n赞过的视频\n我的视频\n下载内容\n更多 YouTube 产品与功能\nYouTube Premium\nYouTube TV\nYouTube Music\nYouTube Kids\n探索\n音乐\n影视\n直播\n展开\n举报记录\n关于新闻版权联系我们创作者广告开发者\n条款隐私权政策与安全YouTube 的运作方式测试新功能NFL Sunday Ticket\n© 2026 Google LLC\n播放列表\n最新添加\n播放列表\n自有\n6 个视频\n稍后观看\n私享\n•\n播放列表\n6 天前更新\n查看完整播放列表\n6 个视频\n赞过的视频\n私享\n•\n播放列表\n查看完整播放列表\n1 个视频\nasmr\n私享\n•\n播放列表\n查看完整播放列表\n上传视频\n开始直播\n发帖",
+    "controls": [
+      {
+        "i": 2,
+        "tag": "YT-BUTTON-SHAPE",
+        "type": "",
+        "text": "跳过导航",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "跳过导航",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "tag": "INPUT",
+        "type": "text",
+        "text": "搜索",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "Search",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "搜索",
+        "visible": false
+      },
+      {
+        "i": 7,
+        "tag": "YT-BUTTON-SHAPE",
+        "type": "",
+        "text": "创建",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "创建",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "tag": "YTD-GUIDE-ENTRY-RENDERER",
+        "type": "",
+        "text": "展开",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "tag": "YTD-GUIDE-ENTRY-RENDERER",
+        "type": "",
+        "text": "隐藏部分内容",
+        "visible": false
+      },
+      {
+        "i": 15,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "最新添加",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放列表",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "自有",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "其他操作",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "点按取消静音",
+        "visible": false
+      },
+      {
+        "i": 20,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 23,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放",
+        "visible": false
+      },
+      {
+        "i": 24,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "信息购物",
+        "visible": false
+      },
+      {
+        "i": 25,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "显示信息卡",
+        "visible": false
+      },
+      {
+        "i": 26,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 27,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "更多",
+        "visible": false
+      },
+      {
+        "i": 28,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放列表",
+        "visible": false
+      },
+      {
+        "i": 35,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "取消",
+        "visible": false
+      },
+      {
+        "i": 36,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "确认",
+        "visible": false
+      },
+      {
+        "i": 37,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 38,
+        "tag": "INPUT",
+        "type": "checkbox",
+        "text": "",
+        "visible": false
+      },
+      {
+        "i": 39,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 40,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "稍后观看",
+        "visible": false
+      },
+      {
+        "i": 41,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "分享",
+        "visible": false
+      },
+      {
+        "i": 42,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "复制链接",
+        "visible": false
+      },
+      {
+        "i": 43,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "关闭",
+        "visible": false
+      },
+      {
+        "i": 44,
+        "tag": "DIV",
+        "type": "",
+        "text": "从这个位置开始播放",
+        "visible": false
+      },
+      {
+        "i": 45,
+        "tag": "DIV",
+        "type": "",
+        "text": "退出精确跳转模式",
+        "visible": false
+      },
+      {
+        "i": 46,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "播放 (k)",
+        "visible": false
+      },
+      {
+        "i": 48,
+        "tag": "A",
+        "type": "",
+        "text": "下一个 (SHIFT+n)",
+        "visible": false
+      },
+      {
+        "i": 49,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "静音 (m)",
+        "visible": false
+      },
+      {
+        "i": 50,
+        "tag": "DIV",
+        "type": "",
+        "text": "/",
+        "visible": false
+      },
+      {
+        "i": 51,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "直播",
+        "visible": false
+      },
+      {
+        "i": 52,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "•",
+        "visible": false
+      },
+      {
+        "i": 53,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "•",
+        "visible": false
+      },
+      {
+        "i": 56,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "无法显示字幕",
+        "visible": false
+      },
+      {
+        "i": 57,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "设置",
+        "visible": false
+      },
+      {
+        "i": 58,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "影院模式 (t)",
+        "visible": false
+      },
+      {
+        "i": 59,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "在电视上播放",
+        "visible": false
+      },
+      {
+        "i": 60,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "全屏 (f)",
+        "visible": false
+      },
+      {
+        "i": 63,
+        "tag": "BUTTON",
+        "type": "",
+        "text": "收起",
+        "visible": false
+      }
+    ]
+  }
+]

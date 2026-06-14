@@ -1,0 +1,273 @@
+{
+  "generated_at": "2026-06-13T14:15:00Z",
+  "policy_used": {
+    "tutorial": "侧重用途、受众与学习价值，不深挖步骤。",
+    "list_or_tool": "尽力提取具体插件/工具名称与功能，标注置信度。",
+    "case": "提取工作流、所用工具及可复用点。"
+  },
+  "platform_overview": [
+    {
+      "platform": "Bilibili",
+      "count": 40,
+      "themes": ["AI Agent/Codex", "工程建模", "软路由/NAS", "无人机"],
+      "notes": "硬核技术教程与 AI 生产力工具高度集中。"
+    },
+    {
+      "platform": "Douyin",
+      "count": 137,
+      "themes": ["VibeCoding", "AI 编程技巧", "生活碎片", "哲学感悟"],
+      "notes": "聚焦 AI 编程前沿（Codex/Claude Code）与快节奏工具推荐。"
+    },
+    {
+      "platform": "YouTube",
+      "count": 23,
+      "themes": ["网络工具", "学习方法", "ASMR"],
+      "notes": "包含科学上网教程、高效学习讲座及放松内容。"
+    }
+  ],
+  "items": [
+    {
+      "platform": "Bilibili",
+      "source_id": "BV1RcRmBbE3x",
+      "title": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
+      "url": "https://www.bilibili.com/video/BV1RcRmBbE3x",
+      "folder": "默认收藏夹",
+      "content_type": "list_or_tool",
+      "summary": "详细介绍决定 Agent 生产力上限的 4 组通用 Skill，涵盖元能力、工程开发、前端设计及内容创作。",
+      "named_items": [
+        { "name": "Skill Creator", "role": "Anthropic 官方出品，大白话自动起草测试并生成 Skill", "confidence": "high" },
+        { "name": "Fantasy Ghost", "role": "通过 skill.sh 平台自动搜索并安装最靠谱的现成 Skill", "confidence": "high" },
+        { "name": "Superpowers", "role": "强制 AI 执行测试驱动开发 (TDD) 的红绿重构循环", "confidence": "high" },
+        { "name": "JStack", "role": "内设 23 个专家角色（CEO、工程师等）进行交叉审计代码", "confidence": "high" },
+        { "name": "UI UX Pro Max", "role": "内置 160+ 行业设计规则，生成专业且无 AI 感的 UI 系统", "confidence": "high" },
+        { "name": "CoverImageSkill", "role": "具备 77 种预设组合的专业封面图生成工具", "confidence": "high" }
+      ],
+      "tools": ["Codex", "Claude Code", "MCP Skills"],
+      "actions": ["全局安装 Skill Creator", "使用 Office Hours 命令考问需求"],
+      "value_level": "高",
+      "deep_watch_needed": true,
+      "confidence": "high"
+    },
+    {
+      "platform": "Bilibili",
+      "source_id": "BV1MXLt6vE6s",
+      "title": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App",
+      "url": "https://www.bilibili.com/video/BV1MXLt6vE6s",
+      "folder": "默认收藏夹",
+      "content_type": "list_or_tool",
+      "summary": "展示 10 个提升 Codex 能力的神级插件，涵盖视频动画、产品开发及万能办公场景。",
+      "named_items": [
+        { "name": "Hyperframe", "role": "侧重创意动画和视觉包装，纯代码生成转场动画", "confidence": "high" },
+        { "name": "Remocean", "role": "侧重工程化视频，适合批量生成榜单或带数据视频", "confidence": "high" },
+        { "name": "Figma", "role": "将模糊想法转化为完整的产品设计稿和原型页面", "confidence": "high" },
+        { "name": "Web App/iOS/Android Plugin", "role": "基于设计稿快速开发网页游戏或跨平台手机 App", "confidence": "medium" },
+        { "name": "Computer Use", "role": "接管电脑操作，支持操作本地软件及跨应用协作", "confidence": "high" },
+        { "name": "Browser Use", "role": "专注浏览器网页任务，如自动整理资料库、抓取信息", "confidence": "high" },
+        { "name": "Table/PPT Plugin", "role": "一句话分析账单数据并自动生成结构清晰的汇报 PPT", "confidence": "high" }
+      ],
+      "tools": ["Codex", "Remotion", "Figma"],
+      "actions": ["在 Codex 插件页搜索并加号安装", "勾选参考记忆以提升生成精准度"],
+      "value_level": "高",
+      "deep_watch_needed": true,
+      "confidence": "high"
+    },
+    {
+      "platform": "Bilibili",
+      "source_id": "BV1q5G961Ech",
+      "title": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
+      "url": "https://www.bilibili.com/video/BV1q5G961Ech",
+      "folder": "默认收藏夹",
+      "content_type": "list_or_tool",
+      "summary": "解决 Codex 无法登录及插件系统未解锁的痛点，通过代理工具接入 DeepSeek 等第三方 API。",
+      "named_items": [
+        { "name": "CC Switch", "role": "跨平台桌面助手，用于连接和切换不同的 Agent 接口", "confidence": "high" },
+        { "name": "CCX", "role": "Claude/Codex/Gemini API 代理工具，支持模型重定向", "confidence": "high" },
+        { "name": "Codex++", "role": "GitHub 开源项目，用于解锁非官方登录状态下的插件功能", "confidence": "high" }
+      ],
+      "tools": ["DeepSeek API", "GitHub"],
+      "actions": ["配置 .env 文件设置代理端口", "通过 Codex++ 启动以解锁插件图标"],
+      "value_level": "高",
+      "deep_watch_needed": true,
+      "confidence": "high"
+    },
+    {
+      "platform": "Bilibili",
+      "source_id": "BV1DfL16WEwq",
+      "title": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
+      "url": "https://www.bilibili.com/video/BV1DfL16WEwq",
+      "folder": "默认收藏夹",
+      "content_type": "list_or_tool",
+      "summary": "对比分析 Codex 与 Claude Code，强调 Codex 具有更优雅的 UI、更充足的额度且不易封号。",
+      "named_items": [
+        { "name": "GPT Image 2", "role": "Codex 内置的图片生成插件", "confidence": "high" }
+      ],
+      "tools": ["OpenAI Codex", "Claude Code"],
+      "actions": ["使用手机远程操控电脑工作", "利用插件系统自动化 PPT 制作"],
+      "value_level": "中",
+      "deep_watch_needed": true,
+      "confidence": "high"
+    },
+    {
+      "platform": "Bilibili",
+      "source_id": "BV1Ji4y1M7mW",
+      "title": "UG12.0从入门到精通教程",
+      "url": "https://www.bilibili.com/video/BV1Ji4y1M7mW",
+      "folder": "默认收藏夹",
+      "content_type": "tutorial",
+      "summary": "25 节全套 UG12.0 精品课程，涵盖建模、装配及工程图基础，适合零基础机械设计学习者。",
+      "value_level": "中",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "Bilibili",
+      "source_id": "BV1t1gPzeErV",
+      "title": "AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训",
+      "url": "https://www.bilibili.com/video/BV1t1gPzeErV",
+      "folder": "项目",
+      "content_type": "tutorial",
+      "summary": "针对机械电子学子的全栈进修指南，讨论 AI 背景下如何整合机械、电子与算法技能。",
+      "value_level": "高",
+      "deep_watch_needed": true,
+      "confidence": "high"
+    },
+    {
+      "platform": "Bilibili",
+      "source_id": "BV1HH4y1X7fb",
+      "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+      "url": "https://www.bilibili.com/video/BV1HH4y1X7fb",
+      "folder": "项目",
+      "content_type": "tutorial",
+      "summary": "快速演示 ESP32-S3 的 Wi-Fi 连接、HTTP 获取天气及 RainMaker 云端数据交互，适合物联网新手。",
+      "value_level": "中",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "Douyin",
+      "source_id": "",
+      "title": "6.5万只用了Claude Code 30%能力？7个必装Skill",
+      "url": "https://www.douyin.com/video/7638504373409369337",
+      "folder": "AI与Codex工具",
+      "content_type": "list_or_tool",
+      "summary": "推荐 7 个让 Claude Code 进化的关键 Skill，包含提升开发质量与文档处理能力。 ",
+      "named_items": [
+        { "name": "Superpowers", "role": "开发流程正规化", "confidence": "high" },
+        { "name": "pdf", "role": "文档处理增强", "confidence": "high" },
+        { "name": "humanizer-zh", "role": "中文语境优化", "confidence": "high" }
+      ],
+      "tools": ["Claude Code"],
+      "value_level": "高",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "Douyin",
+      "source_id": "",
+      "title": "DeepSeek v4 pro模型ai自动化逆向小游戏实战",
+      "url": "https://www.douyin.com/video/7636700110763609370",
+      "folder": "AI与Codex工具",
+      "content_type": "case",
+      "summary": "演示使用 DeepSeek v4 pro 模型自动分析并破解小游戏的 JS/Python 代码逻辑。",
+      "tools": ["DeepSeek v4 pro", "Python"],
+      "actions": ["自动化逆向分析"],
+      "value_level": "中",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "Douyin",
+      "source_id": "",
+      "title": "VibeCoding大赏 | 我把 AI 的审批做到了 Apple Watch 上",
+      "url": "",
+      "folder": "AI与Codex工具",
+      "content_type": "case",
+      "summary": "通过自定义插件将 Codex/Claude Code 的危险操作审批推送到 Apple Watch，实现高效“摸鱼”。",
+      "tools": ["Codex", "Apple Watch"],
+      "value_level": "高",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "Douyin",
+      "source_id": "",
+      "title": "CAD一键出图！Codex秒变画图大师！",
+      "url": "https://www.douyin.com/video/7638858871989112091",
+      "folder": "AI与Codex工具",
+      "content_type": "case",
+      "summary": "学生实测让 Codex 根据零件描述自动生成 CAD 图纸，包含线条粗细与颜色的自动分类。",
+      "tools": ["Codex", "CAD"],
+      "value_level": "中",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "YouTube",
+      "source_id": "5-eSqP-iNnc",
+      "title": "openclash新手教程系列附加篇、DNS泄露解决",
+      "url": "https://www.youtube.com/watch?v=5-eSqP-iNnc",
+      "folder": "软件工具",
+      "content_type": "tutorial",
+      "summary": "解决 OpenClash 使用中的 DNS 泄露、AdGuardHome 配合、远程访问及订阅失败等进阶问题。",
+      "tools": ["OpenClash", "AdGuardHome"],
+      "value_level": "中",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "YouTube",
+      "source_id": "s90feRmdr9A",
+      "title": "零基础保姆级小白节点搭建教学",
+      "url": "https://www.youtube.com/watch?v=s90feRmdr9A",
+      "folder": "软件工具",
+      "content_type": "tutorial",
+      "summary": "讲解使用 x-ui 面板实现单端口多用户合租，侧重隐藏翻墙服务特征以保障稳定。",
+      "tools": ["x-ui"],
+      "value_level": "中",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    },
+    {
+      "platform": "YouTube",
+      "source_id": "5MgBikgcWnY",
+      "title": "The first 20 hours -- how to learn anything",
+      "url": "https://www.youtube.com/watch?v=5MgBikgcWnY",
+      "folder": "学习生活",
+      "content_type": "general",
+      "summary": "Josh Kaufman 著名的 TED 演讲，分享如何在最初的 20 小时内快速习得任何新技能。",
+      "value_level": "高",
+      "deep_watch_needed": true,
+      "confidence": "high"
+    },
+    {
+      "platform": "YouTube",
+      "source_id": "JuoqE2lpRUM",
+      "title": "如何记单词",
+      "url": "https://www.youtube.com/watch?v=JuoqE2lpRUM",
+      "folder": "学习生活",
+      "content_type": "general",
+      "summary": "关于词汇记忆策略的学习视频（基于标题汇总）。",
+      "value_level": "低",
+      "deep_watch_needed": false,
+      "confidence": "medium"
+    },
+    {
+      "platform": "YouTube",
+      "source_id": "7dCWt36jwjE",
+      "title": "ASMR mean girl does your makeup",
+      "url": "https://www.youtube.com/watch?v=7dCWt36jwjE",
+      "folder": "放松娱乐",
+      "content_type": "general",
+      "summary": "角色扮演类 ASMR 视频，提供沉浸式化妆体验（基于标题汇总）。",
+      "value_level": "低",
+      "deep_watch_needed": false,
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_actions": [
+    "优先部署 Codex++ 与 CC Switch 以完整解锁 AI Agent 的本地生产力。",
+    "尝试安装 Superpowers Skill 以在开发过程中强制执行 TDD 流程，提升代码鲁棒性。",
+    "关注浙大考拉工作室的机电实训系列，补齐硬件联动的短板。",
+    "利用 Gridfinity 相关教程整理物理工位，提升物理环境的工程感。"
+  ]
+}

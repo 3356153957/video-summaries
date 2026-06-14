@@ -1,0 +1,24 @@
+{
+  "id": "Douyin-71",
+  "category": "AI与Codex工具",
+  "summary": "解析Andrej Karpathy相关的Claude Code Skill开源项目，探讨极致精简文档的巨大影响力。",
+  "key_points": [
+    "Karpathy风格Skill解析",
+    "65行Markdown文档的奥秘",
+    "Claude Code提效技巧"
+  ],
+  "tools": [
+    "Claude Code",
+    "andrej-karpathy-skills",
+    "GitHub"
+  ],
+  "actions": [
+    "克隆对应的GitHub项目并应用于自己的Claude",
+    "学习如何编写高质量Skill文档"
+  ],
+  "risks": [
+    "基于标题判断，可能更偏向思维方式而非复杂功能"
+  ],
+  "value_level": "高",
+  "confidence": "high"
+}

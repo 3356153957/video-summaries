@@ -1,0 +1,846 @@
+{
+  "youtubePlaylists": {
+    "url": "https://www.youtube.com/feed/playlists",
+    "title": "(1) 播放列表 - YouTube",
+    "texts": [
+      {
+        "selector": "button",
+        "text": "跳过导航"
+      },
+      {
+        "selector": "button",
+        "text": "Search"
+      },
+      {
+        "selector": "button",
+        "text": "搜索"
+      },
+      {
+        "selector": "button",
+        "text": "创建"
+      },
+      {
+        "selector": "button",
+        "text": "1"
+      },
+      {
+        "selector": "button",
+        "text": "最新添加"
+      },
+      {
+        "selector": "button",
+        "text": "播放列表"
+      },
+      {
+        "selector": "button",
+        "text": "自有"
+      },
+      {
+        "selector": "button",
+        "text": "其他操作"
+      },
+      {
+        "selector": "button",
+        "text": "点按取消静音"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "播放"
+      },
+      {
+        "selector": "button",
+        "text": "信息购物"
+      },
+      {
+        "selector": "button",
+        "text": "显示信息卡"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "更多"
+      },
+      {
+        "selector": "button",
+        "text": "播放列表"
+      },
+      {
+        "selector": "button",
+        "text": "取消"
+      },
+      {
+        "selector": "button",
+        "text": "确认"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "稍后观看"
+      },
+      {
+        "selector": "button",
+        "text": "分享"
+      },
+      {
+        "selector": "button",
+        "text": "复制链接"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "播放 (k)"
+      },
+      {
+        "selector": "button",
+        "text": "静音 (m)"
+      },
+      {
+        "selector": "button",
+        "text": "直播"
+      },
+      {
+        "selector": "button",
+        "text": "•"
+      },
+      {
+        "selector": "button",
+        "text": "•"
+      },
+      {
+        "selector": "button",
+        "text": "无法显示字幕"
+      },
+      {
+        "selector": "button",
+        "text": "设置"
+      },
+      {
+        "selector": "button",
+        "text": "影院模式 (t)"
+      },
+      {
+        "selector": "button",
+        "text": "在电视上播放"
+      },
+      {
+        "selector": "button",
+        "text": "全屏 (f)"
+      },
+      {
+        "selector": "button",
+        "text": "收起"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "跳过导航"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "创建"
+      },
+      {
+        "selector": "ytd-button-renderer",
+        "text": "跳过导航"
+      },
+      {
+        "selector": "ytd-button-renderer",
+        "text": "创建"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "播放列表"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "稍后观看"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "赞过的视频"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "查看完整播放列表"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "查看完整播放列表"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "1 个视频全部播放"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "asmr"
+      },
+      {
+        "selector": "a[href*='playlist']",
+        "text": "查看完整播放列表"
+      }
+    ]
+  },
+  "youtubeWatchLater": {
+    "url": "https://www.youtube.com/playlist?list=WL",
+    "title": "(1) 稍后观看 - YouTube",
+    "texts": [
+      {
+        "selector": "button",
+        "text": "跳过导航"
+      },
+      {
+        "selector": "button",
+        "text": "Search"
+      },
+      {
+        "selector": "button",
+        "text": "搜索"
+      },
+      {
+        "selector": "button",
+        "text": "通过语音搜索内容"
+      },
+      {
+        "selector": "button",
+        "text": "创建"
+      },
+      {
+        "selector": "button",
+        "text": "1"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "手动"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "操作菜单"
+      },
+      {
+        "selector": "button",
+        "text": "点按取消静音"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "播放"
+      },
+      {
+        "selector": "button",
+        "text": "信息购物"
+      },
+      {
+        "selector": "button",
+        "text": "显示信息卡"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "更多"
+      },
+      {
+        "selector": "button",
+        "text": "播放列表"
+      },
+      {
+        "selector": "button",
+        "text": "取消"
+      },
+      {
+        "selector": "button",
+        "text": "确认"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "稍后观看"
+      },
+      {
+        "selector": "button",
+        "text": "分享"
+      },
+      {
+        "selector": "button",
+        "text": "复制链接"
+      },
+      {
+        "selector": "button",
+        "text": "关闭"
+      },
+      {
+        "selector": "button",
+        "text": "播放 (k)"
+      },
+      {
+        "selector": "button",
+        "text": "静音 (m)"
+      },
+      {
+        "selector": "button",
+        "text": "直播"
+      },
+      {
+        "selector": "button",
+        "text": "•"
+      },
+      {
+        "selector": "button",
+        "text": "•"
+      },
+      {
+        "selector": "button",
+        "text": "无法显示字幕"
+      },
+      {
+        "selector": "button",
+        "text": "设置"
+      },
+      {
+        "selector": "button",
+        "text": "影院模式 (t)"
+      },
+      {
+        "selector": "button",
+        "text": "在电视上播放"
+      },
+      {
+        "selector": "button",
+        "text": "全屏 (f)"
+      },
+      {
+        "selector": "button",
+        "text": "收起"
+      },
+      {
+        "selector": "ytd-menu-renderer",
+        "text": "随机播放"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "跳过导航"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "创建"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "全部播放"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "随机播放"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "全部播放"
+      },
+      {
+        "selector": "yt-button-shape",
+        "text": "随机播放"
+      },
+      {
+        "selector": "a#video-title",
+        "text": "如何记单词"
+      },
+      {
+        "selector": "a#video-title",
+        "text": "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU"
+      },
+      {
+        "selector": "a#video-title",
+        "text": "No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes"
+      },
+      {
+        "selector": "a#video-title",
+        "text": "openclash新手教程系列附加篇、DNS泄露、openclash搭配Adguardhome、openclash远程访问、订阅失败、BT直连等问题解决"
+      },
+      {
+        "selector": "a#video-title",
+        "text": "【归档】零基础保姆级小白节点搭建教学，目前最安全最稳定的搭建方式，将可能暴露翻墙的服务全部隐藏，操作一次即可安心使用自己专属的节点，跳出翻墙出来学翻墙的怪圈，通过x-ui面板实现单端口多用户合租"
+      },
+      {
+        "selector": "a#video-title",
+        "text": "ASMR mean girl does your makeup in school bathroom"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "全部播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "稍后观看"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "随机播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "全部播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "全部播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "随机播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "全部播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "随机播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "已观看8:50 8:50 正在播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "如何记单词"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "已观看19:27 19:27 正在播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "已观看5:40 5:40 正在播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "已观看46:20 46:20 正在播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "openclash新手教程系列附加篇、DNS泄露、openclash搭配Adguardhome、openclash远程访问、订阅失败、BT直连等问题解决"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "19:21 19:21 正在播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "【归档】零基础保姆级小白节点搭建教学，目前最安全最稳定的搭建方式，将可能暴露翻墙的服务全部隐藏，操作一次即可安心使用自己专属的节点，跳出翻墙出来学翻墙的怪圈，通过x-ui面板实现单端口多用户合租"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "已观看11:15 11:15 正在播放"
+      },
+      {
+        "selector": "a[href*='watch?v=']",
+        "text": "ASMR mean girl does your makeup in school bathroom"
+      }
+    ]
+  },
+  "douyinLike": {
+    "url": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+    "title": "17的抖音 - 抖音",
+    "texts": [
+      {
+        "selector": "button",
+        "text": "开启读屏标签"
+      },
+      {
+        "selector": "button",
+        "text": "搜索"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "841报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "44.8万Photoshop无痕改字技巧 #ps教程 #p图教程 #PS #无痕改字 #P图Photoshop无痕改字技巧 #ps教程 #p图教程 #PS #无痕改字 #P图"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "9048Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "共创111.6万#法润平安文明相伴#摩托车#社死现场男子玩翘头摩托炫技直播，交警匆匆赶来合拍 #法润平安文明相伴 #摩托车 #社死现场#法润平安文明相伴#摩托车#社死现场男子玩翘头摩托炫技直播，交警匆匆赶来合拍 #法润平安文明相伴 #摩托车 #社死现场"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1.6万CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1.0万前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "19.6万美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1.4万#3d打印 #f1#3d打印 #f1"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "14.6万反反发布一条日常反反发布一条日常"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "35.8万你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "2.4万请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "3166神奇小物件，充满自己会拔插头#手机充电器神奇小物件，充满自己会拔插头#手机充电器"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "11.2万人生建议：不要与母亲结盟攻击父亲 #情感 #情感共鸣 #心理学 #自我提升 #亲密关系人生建议：不要与母亲结盟攻击父亲 #情感 #情感共鸣 #心理学 #自我提升 #亲密关系"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1.7万你真的需要一段恋爱吗？说明你只是想要一个精神寄托而已# #情感心理 #情感共鸣#共鸣你真的需要一段恋爱吗？说明你只是想要一个精神寄托而已# #情感心理 #情感共鸣#共鸣"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "8.3万一个三甲医院医生说:“人只有在即将死亡的时候才能够明白这一切。人生其实就是一场骗局，最主要的任务根本不是买房买车，也不是即时行乐，这其实是欲望，不是真相。”人生就是一个梦，虚无缥缈并不真实。我们不要给自己那么多的使命感和过剩的责任感，在这个世界上，活着的我们和一只蚂蚁，一只昆虫，一只蚊子，一只甲壳虫，没有任何区"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "3.1万幻术的世界有什么不好的#幻术的世界有什么不好 #劳动人民最光荣 #剪辑幻术的世界有什么不好的#幻术的世界有什么不好 #劳动人民最光荣 #剪辑"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "9.6万SpaceX精彩的火箭回收#民营航天#火箭回收#星舰#火箭回收SpaceX精彩的火箭回收#民营航天#火箭回收#星舰#火箭回收"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "8.6万当作文题目是“反思”时 #猫meme #猫meme日常 #大爱仙尊 #配音木成当作文题目是“反思”时 #猫meme #猫meme日常 #大爱仙尊 #配音木成"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "18.1万【漫士-无痛高数】一个游戏直观理解极限和连续 #前沿知识派对 #数学 #数学思维 #高等数学 #考研【漫士-无痛高数】一个游戏直观理解极限和连续 #前沿知识派对 #数学 #数学思维 #高等数学 #考研"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "5.0万#拟音#拟音"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "24.8万我跟垃圾短信“死磕”，没想到居然赚了3600块钱！ （双手叉腰，蹦跶出场）哟嗬～本堂主最近跟垃圾短信斗智斗勇，居然赚了整整3600块！是不是很厉害呀？ （掏出一叠小本本）以前收到这种烦人短信都是随手删掉，后来发现——它们居然都是违法的！本堂主一拍桌子：这不得让它们好好赔偿我的精神损失？ （掰着手指数数）让我给"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1370SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作过程 #教程 #干货分享 #技术分享SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "151.4万生命律动！#治愈系风景 #旅行推荐官 #川西美景生命律动！#治愈系风景 #旅行推荐官 #川西美景"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "132#艾跃进 永远都不要忘记阶级斗争#艾跃进 永远都不要忘记阶级斗争"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "353#rc遥控车 #穿越机fpv 两栖无人机第二集，有兴趣的朋友主页加粉丝群#rc遥控车 #穿越机fpv 两栖无人机第二集，有兴趣的朋友主页加粉丝群"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "718陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "18.5万每日情感小故事23#神力科莎 #地平线 #海岸线 #情感故事每日情感小故事23#神力科莎 #地平线 #海岸线 #情感故事"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "8.7万从哪找这么可爱的女朋友啊#情侣日常 #可爱到爆炸💥 #周周饼干 @周周饼干从哪找这么可爱的女朋友啊#情侣日常 #可爱到爆炸💥 #周周饼干 @周周饼干"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "60.7万“幸福让人江郎才尽，痛苦让人文思泉涌”#刘楚昕#泥潭 #漓江文学奖 #余华“幸福让人江郎才尽，痛苦让人文思泉涌”#刘楚昕#泥潭 #漓江文学奖 #余华"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "6.4万找对象，陌陌靠谱，快来评论区看 视频文件过大，配字幕的时候软件崩溃了，有些错别字大家甄别#陌陌 #单身姑娘找对象，陌陌靠谱，快来评论区看 视频文件过大，配字幕的时候软件崩溃了，有些错别字大家甄别#陌陌 #单身姑娘"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "27.9万什么是爱 于是我想起了初次见面的拘谨 聊到深夜的语音和第一次牵手拥抱 #钢琴什么是爱 于是我想起了初次见面的拘谨 聊到深夜的语音和第一次牵手拥抱 #钢琴"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "23.0万“我有新房子了”#牛马 #房贷压力 #三十年 “我有新房子了”#牛马 #房贷压力 #三十年"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "229.7万@niny 谁女朋友这么好呢#男友视角@niny 谁女朋友这么好呢#男友视角"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "6.8万钟表能回到原点 但再也不是昨天 #地平线5 #漂移 #神龙大学习钟表能回到原点 但再也不是昨天 #地平线5 #漂移 #神龙大学习"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "乘客高铁上得知母亲去世 列车员安抚"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "蛙姐不在家，奶奶亲自教小宇做泡藕带炒鸡胗，快来尝尝吧~ #蛙姐的女儿 #星城蛙姐 #泡藕带 #百香果"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "妈妈的忌日，我的葬礼》前文+后续已完结！ 完整版，大结局，配享太庙，全文！【周倩，沈静】#全文已完结 #文荒推荐 #小说推荐 #一口气看完 #配享太庙"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "拍摄俩小时嗓子要冒烟了，剪辑5个小时眼睛都哭红了，开始于2019初秋，结束于2025盛夏，最火热的季节却承载着最盛大的告别，和课桌，黑板，操场，和吹过教室走廊的最后那阵风，和那某一段回不去的青春好好告个别吧 #毕业季"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "听说 很多人喜欢这首歌#翻唱老歌 #吉他弹唱 #抖音音乐人"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "恋爱一个月男友找你借10w怎么办？更多人间真实，晚上直播间等你…#说真话 #希望能帮到你 #干货分享 #原创 #情感"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "换季孩子该怎么穿！童装合集来咯 有李宁 安德玛 NBA 乔丹童装四家品牌哦！回复 @haoo的评论 #童装 #童鞋 #宝妈推荐 #宝妈必看 #奥莱"
+      }
+    ]
+  },
+  "douyinCollection": {
+    "url": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+    "title": "17的抖音 - 抖音",
+    "texts": [
+      {
+        "selector": "button",
+        "text": "开启读屏标签"
+      },
+      {
+        "selector": "button",
+        "text": "搜索"
+      },
+      {
+        "selector": "button",
+        "text": "新建收藏夹"
+      },
+      {
+        "selector": "button",
+        "text": "新建收藏夹"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "25.7万肩胛缝总有按不到的酸胀？3个动作精准拉伸上背部 如果你经常觉得后背酸胀，甚至有一个根本碰不到的卡点在反复折磨你，花两分钟跟着视频做完这三个动作，找回背部的轻松！ #背部拉伸 #肩胛缝 #功能性训练 #拉伸动作 #拉伸放松肌肉肩胛缝总有按不到的酸胀？3个动作精准拉伸上背部 如果你经常觉得后背酸胀，甚至有一个根本"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "5826deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "4248上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "热点 6.5万只用了Claude Code 30%能力？7个必装Skill 如果你用Claude Code只发挥了30%能力，一定要看这7个必装Skill！附官方英文名：Superpowers、pdf、humanizer-zh等，覆盖开发、文档、前端、代码质量，最后一个能让AI变成懂行队友，直接搜名就能装。#claud"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1350几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "11.0万在codex，Claude code等的帮助下，感觉我变成了一个designer，指挥多个agent给我干活，而不是一个worker在codex，Claude code等的帮助下，感觉我变成了一个designer，指挥多个agent给我干活，而不是一个worker"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "25github今日最快增长-2026-06-10 #github优质项目 #ai编程 #信息差 #程序员github今日最快增长-2026-06-10 #github优质项目 #ai编程 #信息差 #程序员"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "23第一次让 Codex 动文件，千万别直接说\"帮我整理一下\" 很多人第一次用 Codex 处理文件，最容易犯的错，就是上来一句： “帮我整理一下。” 听起来没问题，但对 AI Agent 来说，这句话太危险了。 你没说目标是什么，材料在哪里，规则怎么定，哪些文件不能碰，最后怎么验收。 它再聪明，也只能按自己的理解去猜"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "64用 Claude 写代码画讲解动画｜手搓了个自动化出片流 总有人问我有没有更省力的视频制作方式，我最近用 Claude 捣鼓了个小东西：让它一行行代码帮我画讲解动画。 ✨ 这不是那种模板套路，Claude 会根据我的脚本实时生成画面，每次都是“现场编排”。 原理也不复杂：视频就是一张张图连起来，Claude 负责把"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "2654心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时显示。 #心率广播 #心率推送 #心率带 #蓝牙心率广播 #心率监测心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "189机器人关节减速器Demo！行星、谐波和摆线 Vibecoding做了一个机器人关节减速器demo，主要是行星、谐波和摆线三种，并准备联合其他工程软件给出仿真分析报告，目前刚刚开始做，还不成熟，存在很多问题；但是这个demo效果看着倒是挺好看哈哈，大体轮廓也是有了，后续我会多做一些研究，继续推进，争取实现真正落地！"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "9846让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1874Solidworks一键批量自动出图自动标注尺寸最新版插件 升级后的插件支持sw格式图纸标注同步支持中性格式转化来的实体零件标注，也支持用户选择基准标注丨坐标标注丨尺寸链标注丨可单个零件出图丨也可以多个零件出图 #中新智能装备 #solidworks自动标注 #solidworks机械设计 #自动出图 #Sol"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "27746月1日GitHub涨星最快的6个项目 6月1日GitHub涨星榜出炉，6个项目单日狂揽上万星。微软的Markitdown一天涨2759星，总星134K——任何文件一键变Markdown，不是编辑器是转换器。MoneyPrinterTurbo 74K星，文字直接出视频配字幕全搞定。VoxCPM跳过分词器做语音合"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "7.0万GitHub 杀疯了！6 个 AI 工具接管你的工作流 一夜爆 6 个 AI 项目，方向出奇一致：Claude Code、CodeGraph、Understand Anything、Presenton、NVIDIA LongLive 全在抢一件事——接管你的工作流。看完收藏开干。#AI工具 #ClaudeCod"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "10.6万不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "3.5万普通大四学生手搓的万物预测引擎 #vibecoding大赏 #ai新星计划 @抖音科技 #ai #编程普通大四学生手搓的万物预测引擎 #vibecoding大赏 #ai新星计划 @抖音科技 #ai #编程"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "951如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "75SolidWorks 通过三旋翼无人机讲解爆炸动画的制作SolidWorks 通过三旋翼无人机讲解爆炸动画的制作"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1.0万什么是人权？ #世界人权宣言 #人类权利 #哲学 #政治哲学 #科普一下什么是人权？ #世界人权宣言 #人类权利 #哲学 #政治哲学 #科普一下"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "77.9万有生之年。我还能感受到你掌心的纹路。#梦女 #梦女向 #ai电子皮肤有生之年。我还能感受到你掌心的纹路。#梦女 #梦女向 #ai电子皮肤"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "5.7万解构主义 很多你以为正确的观点在某种层面上也只是另一种刻板印象罢了 质疑才是迈向哲理的第一步 本期视频背景图片来自画师：a6 #哲学 #情感 #心理学 #解构主义 #青年创作者成长计划解构主义 很多你以为正确的观点在某种层面上也只是另一种刻板印象罢了 质疑才是迈向哲理的第一步 本期视频背景图片来自画师：a6 #"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "2919#扣合 #solidworks教学 #solidworks#扣合 #solidworks教学 #solidworks"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1.7万Solidworks如何自动生成链条？ #solidworks建模 #三维建模 #机械设计 #嘉立创ican工具箱Solidworks如何自动生成链条？ #solidworks建模 #三维建模 #机械设计 #嘉立创ican工具箱"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "3231天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "1430SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "单词应该这样背，掌握拼读规则，就像拼拼音一样快#小学英语 900多个词汇都按音节拆分好了#背单词#单词速记#自然拼读"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "李彦宏谈AI时代的度量衡"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "switch选购指南 #任天堂switch"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "奋斗青春 强国有我，巾帼不让须眉#军事训练 #军训时光 #军训进行时"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "初中物理实验器材全套电路实验套装物理实验套装电学实验箱全套#初中物理 #实验器材 #电路实验 #电学实验箱 #学习帮手"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "【进化演示】SCSA二代D3暴龙机进化过程！#数码宝贝 #数码暴龙 #数码宝贝02剧场版 #暴龙机 #SCSA暴龙机 #D3暴龙机"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "胡雪岩破产之时，左宗棠到底有没有出手相救？#历史 #历史故事 #知识分享 #涨知识 #人物故事 #左宗棠"
+      },
+      {
+        "selector": "a[href*='/video/']",
+        "text": "95年的普信男和01年温柔贤惠的妹妹到底合不合适呢？#相亲 #农村相亲"
+      }
+    ]
+  }
+}

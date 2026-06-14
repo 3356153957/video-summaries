@@ -1,0 +1,1052 @@
+{
+  "execute": true,
+  "generatedAt": "2026-06-13T05:53:31.679Z",
+  "folders": [
+    {
+      "id": 426970342,
+      "title": "默认收藏夹",
+      "media_count": 38
+    },
+    {
+      "id": 3736072842,
+      "title": "垂起",
+      "media_count": 5
+    },
+    {
+      "id": 1532595742,
+      "title": "项目",
+      "media_count": 15
+    }
+  ],
+  "moves": [
+    {
+      "rid": 116540062041120,
+      "type": 2,
+      "bvid": "BV1RcRmBbE3x",
+      "title": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
+      "author": "Juang_42号搭车客",
+      "description": "如果Skill没有配置好，那么Agent使用起来的效果就会事倍功半。 我尝试了十几个Agent和几十个Skill，这些Skill是我每天都在用的，而且不依赖特定的Agent。 无论你是在用 Claude Code 还是 Codex，这套通用的 Skill 组合都能让你的 AI 助手瞬间进化。",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1RcRmBbE3x",
+      "targetFolderTitle": "AI工具-Codex"
+    },
+    {
+      "rid": 116612506065525,
+      "type": 2,
+      "bvid": "BV1MXLt6vE6s",
+      "title": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App，快速上手AI",
+      "author": "松小鼠呀ya",
+      "description": "实测 Codex 10 个必装插件，从酷炫动画、视频生成，到网页游戏、手机 App、PPT 报告、表格分析和浏览器自动化，一次看懂 AI Agent 到底能替你完成多少工作。无论是学习、办公、创作、开发，还是整理资料和处理重复任务，都能直接用上。 本频道持续分享创富案例 & AI 前沿应用 关于 7 步实现财富自由，会员内容以专题形式呈现，系统梳理从财富认知、全球趋势，到投资理念与实操策略的完整方法论，帮助你构建稳健而清晰的投资思维体系。 欢迎订阅。 热门推荐： 小白速通！10分钟掌控AI编程之王【C",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1MXLt6vE6s",
+      "targetFolderTitle": "AI工具-Codex"
+    },
+    {
+      "rid": 116650523231987,
+      "type": 2,
+      "bvid": "BV1q5G961Ech",
+      "title": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
+      "author": "Yin_Code",
+      "description": "CC Switch：farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io CCX：BenedictKing/ccx: Claude / Codex / Gemini API Proxy - CCX Codex Plu",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1q5G961Ech",
+      "targetFolderTitle": "AI工具-Codex"
+    },
+    {
+      "rid": 116605845507007,
+      "type": 2,
+      "bvid": "BV1DfL16WEwq",
+      "title": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
+      "author": "HexUp",
+      "description": "Codex是OpenAI官方的Agent桌面应用，不光能写代码，还能做PPT、搜网页、调用GPT Image 2生成图片，甚至用手机远程操控电脑工作。这期视频从零开始拆解Codex的核心概念、插件系统和自动化任务，配上完整的实操演示。比起Claude Code经常封号，Codex不封号、额度充足、App设计优雅，20美元起步就能满足日常需要。",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1DfL16WEwq",
+      "targetFolderTitle": "AI工具-Codex"
+    },
+    {
+      "rid": 908967565,
+      "type": 2,
+      "bvid": "BV1SM4y1B7iF",
+      "title": "坐上火车去拉萨，被认为是最浪漫的进藏方式，超详细的保姆级攻略",
+      "author": "开心酒好好",
+      "description": "",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1SM4y1B7iF",
+      "targetFolderTitle": "旅行历史风景"
+    },
+    {
+      "rid": 116463138573299,
+      "type": 2,
+      "bvid": "BV16UomB5EKS",
+      "title": "Lumina 2.0前瞻",
+      "author": "Lumina猫猫",
+      "description": "Lumina2.0已经进入内测阶段了，很快就会进入公测，让我们一起看看更新了什么吧~",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV16UomB5EKS",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 541863204,
+      "type": 2,
+      "bvid": "BV1Ji4y1M7mW",
+      "title": "UG12.0从入门到精通教程，25节课全面了解UG",
+      "author": "沙僧设计礼诚",
+      "description": "课程来源管家课堂，进行二创，已获得管家课堂授权。 UG12.0全套精品课程，共25节课,适合零基础的同学系统的学习UG，也适合有基础的同学巩固提高。 点赞加关注，然后私信我”UG“即可领取UG12.0安装包和课程练习素材。",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1Ji4y1M7mW",
+      "targetFolderTitle": "课程数学考试"
+    },
+    {
+      "rid": 116401348019373,
+      "type": 2,
+      "bvid": "BV1EtQiBhE8b",
+      "title": "如何用真实地形数据打印一座雪山？【拓竹X2D首发体验】",
+      "author": "咔哧一下_Cliclack",
+      "description": "这是一期新手向的干货分享，手把手带你3D打印一座在真实世界中存在的雪山！ 另外你如果学会了你就会发现，用这个办法可以打印这个地球上的任何地方！ ※ 应大家要求，珠穆朗玛峰模型已经上传MakerWorld，模型编号 2389515，大家可以搜索下载。 本期视频用的是拓竹新上市的双头打印机X2D，用一个较低的价格实现双头多色打印是一种什么体验？双挤出机分置设置，纯机械结构切换喷嘴，稳定输出！ 视频中喷火龙模型作者：IXPatch",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1EtQiBhE8b",
+      "targetFolderTitle": "3D打印DIY"
+    },
+    {
+      "rid": 116407220049087,
+      "type": 2,
+      "bvid": "BV1pUQjBLEFP",
+      "title": "4月最新！UG NX12.0软件安装（附安装包）UG免费下载安装激活教程，UG NX 12安装包免费下载安装激活详细教程",
+      "author": "UG下载安装教程zz",
+      "description": "UG：https://pan.quark.cn/s/fee4d60e896c",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1pUQjBLEFP",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 116238105707865,
+      "type": 2,
+      "bvid": "BV1qpwEzTEa9",
+      "title": "【全网首发】白嫖Google AI Pro 12个月| 无需Pixel设备 | 解决谷歌邮箱注册、账号设备认证、绑卡等问题 | 从注册到订阅全过程演示",
+      "author": "Porter科技迷",
+      "description": "视频制作不易，希望大家三连支持，如果喜欢我的内容，欢迎订阅我的频道，请在评论区留下评论，我会挨个私发文档",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1qpwEzTEa9",
+      "targetFolderTitle": "AI工具-Codex"
+    },
+    {
+      "rid": 116033004308061,
+      "type": 2,
+      "bvid": "BV13hFfzTEks",
+      "title": "告别杂乱！超实用定制收纳教程",
+      "author": "葫芦～",
+      "description": "建模网站：https://gridfinity.perplexinglabs.com/ Gridfinity 底座计算器：https://pan.baidu.com/s/1vlDxHk0j5p87ozY6LC84cA?pwd=1234 提取码: 1234 fusion360 插件 GridfinityGenerator 官网地址：https://apps.autodesk.com/FUSION/en/Detail/Index?id=7197558650811789&os=Win64&appLang=en",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV13hFfzTEks",
+      "targetFolderTitle": "3D打印DIY"
+    },
+    {
+      "rid": 115910648006964,
+      "type": 2,
+      "bvid": "BV1CPrXBREFa",
+      "title": "[橙服]不删档的百人在线1.21.11服务器寒假招生啦！来体验一下原版生存的魅力？",
+      "author": "OrangeMC服务器",
+      "description": "🌈 ===== 欢迎来到橙服 · 纯净不删档生存 ===== 🌐 服务器官网：orangecraftmc.top（想了解服务器请查看官网） 🐧 Q群：994601868（入群发三连+关注截图即可过白） 🎮 服务器版本：1.21.11 💻 Java兼容：1.16.X - 1.21.X｜基岩版兼容：1.21.111 - 1.21.130 🏕️ 我们致力于打造一个沉浸、生动、自由的 Minecraft 世界。 🔥 ===== 在这里，你能体验到什么 ===== ⚒️ 突破原版极限的强化附魔，全程可免费获取 🏰",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1CPrXBREFa",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 115628556027050,
+      "type": 2,
+      "bvid": "BV1Y5SnBMEzR",
+      "title": "继续展示下我们的wbrov开源案例，自主管道巡检",
+      "author": "拓渊智能水下机器人",
+      "description": "wbrov开源案例之自主管道巡检，感兴趣的小伙伴可一键三连后私聊发我们的开源资料",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1Y5SnBMEzR",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 977772666,
+      "type": 2,
+      "bvid": "BV1j44y1E7ot",
+      "title": "【高等数学（上）】6小时从0基础直追满绩！",
+      "author": "李天意Providence",
+      "description": "请大家下载讲义，最好打印成纸质版，然后配合该视频食用哦~ 讲义下载地址：微信搜索公众号“意数家”，发送”讲义“或”高数资料“，即可获取对应视频的讲义文件啦~ 祝大家2022平安喜乐，考试顺利。",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1j44y1E7ot",
+      "targetFolderTitle": "课程数学考试"
+    },
+    {
+      "rid": 114114546372324,
+      "type": 2,
+      "bvid": "BV1TeRPYBEX8",
+      "title": "【成图大赛】16届国赛机械手，挑战一小时讲课带建模，卷王之王~~大饱眼福",
+      "author": "一点创绘工作室",
+      "description": "持续更新作品，只为大家做精品教学。成图大赛16届国赛机械手，挑战一小时讲课带建模，卷王之王~~",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1TeRPYBEX8",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 1901546272,
+      "type": 2,
+      "bvid": "BV1km411Z73x",
+      "title": "Pixhawk与ROS强强联合，打造更强的地面小车!",
+      "author": "GundaSmart",
+      "description": "pixhawk社区历史悠久，积攒了丰富资源，尤其是硬件资源，无需编码，可以快速上手！与ROS联姻，可以优势互补，缩短我们搭建小车平台的时间和精力，是我们更专注于算法研究和理论验证! 配套文档资料浏览地址：https://gitee.com/gwmunan/ros2/wikis/pages",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1km411Z73x",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 845532888,
+      "type": 2,
+      "bvid": "BV1S54y157Gt",
+      "title": "Pix/Ardupilot使用ExpressLRS--教程",
+      "author": "-蓝色枫叶-",
+      "description": "ELRS高频头新用户教程。 此教程适用于Ardupilot/Pix用户。 因为up手里没有完整版本的高频头设备，抱歉没有实物特写镜头，视频中高频头和接收机设备均为手工焊接的工程版本。 视频下方自带时间轴方便大家跳转观看，祝爽飞：)",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1S54y157Gt",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 114137363386145,
+      "type": 2,
+      "bvid": "BV1HnRGYJE6Z",
+      "title": "看电视最佳方案：免费、流畅、无广告！GitHub大神开源作品！手机 + TV 全支持！",
+      "author": "陶渊xiao明",
+      "description": "👉 电视APP下载：https://pan.quark.cn/s/86d5a59ee4e1 👉 GitHub项目：https://github.com/lizongying/my-tv-0 👉 直播源项目1：https://github.com/fanmingming/live 👉 直播源项目2：https://github.com/suxuang/myIPTV 👉 IPV6 检测：https://test-ipv6.com/index.html.zh_CN",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1HnRGYJE6Z",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 1652908854,
+      "type": 2,
+      "bvid": "BV1ZE421M7p7",
+      "title": "【FYS飞舜极创】PIX飞控四轴飞行器组装调试及试飞教程/保姆级教程/F450多旋翼悬停返航GPS定位/遥控模型飞机/DIY组装/初学入门/技巧分享",
+      "author": "FYS飞舜极创",
+      "description": "PIX教程资料下载链接 链接：https://pan.baidu.com/s/1cyFGxTszwNXHnpVSJVHTQg?pwd=ejrg 提取码：ejrg",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1ZE421M7p7",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 47950231,
+      "type": 2,
+      "bvid": "BV1Ub411s7N5",
+      "title": "Pixhawk基础视频教程全12讲",
+      "author": "王菊花fa",
+      "description": "https://www.youtube.com/watch?v=pJK78G27qTM 视频来源见出处，应该是国内某位同学出的，只不过在国内视频网站没找到一整套教程，特从YouTube搬运过来。",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1Ub411s7N5",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 672816556,
+      "type": 2,
+      "bvid": "BV1cU4y187J2",
+      "title": "【2021最新制作】FPV穿越机教程 入门教学 新人入坑必看 从小白到大神（持续更新）",
+      "author": "X-FLY无人机竞速",
+      "description": "穿越机又称“FPV四旋翼无人机”，是近年在全球范围内兴起的航模极限运动。 如果你下定决心要入坑，这系列的视频将事无巨细地为你整理好所有技能点，先让你用最安全的室内微型穿越机飞起来，配合模拟器慢慢磨练你的飞行技能，同时掌握各种机械，电子和软件的相关知识。",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1cU4y187J2",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 94882041,
+      "type": 2,
+      "bvid": "BV1bE411u7nv",
+      "title": "【无人机教程】从零开始学习无人机原理及组装",
+      "author": "云雀AI学工台",
+      "description": "禾木编程无人机原理及组装课程，适合零基础同学入门学习，同时快速制作属于自己的无人机",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1bE411u7nv",
+      "targetFolderTitle": "课程数学考试"
+    },
+    {
+      "rid": 113229984501716,
+      "type": 2,
+      "bvid": "BV1CAxaeHEeH",
+      "title": "《高等数学》全程教学视频 2.0版【宋浩老师】（下册增加了黑板版）",
+      "author": "宋浩老师官方",
+      "description": "《高等数学》全程教学视频 2.0版【宋浩老师】，高等数学讲义（上册）：https://detail.tmall.com/item.htm?id=682340641970",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1CAxaeHEeH",
+      "targetFolderTitle": "课程数学考试"
+    },
+    {
+      "rid": 757586785,
+      "type": 2,
+      "bvid": "BV1U64y1S7xq",
+      "title": "【F450套装四轴】F450套装四轴多旋翼无人机SolidWorks三维造型-CAD实训营",
+      "author": "CAD实训营",
+      "description": "第五期-F450套装四轴无人机，由我的技术助教给大家录制，老规矩—素材的索取需要提供一键三连(点赞、投币、收藏)，三连缺一不可，如果需要系统学习CAE/CAD，可联系小慧：SWEDU123/LFJYmomo（备注b站sw），希望备注来意，谢谢大家的支持。 1、55小时全套ANSYSWorkbenchFluent2023软件进阶教：BV1sp4y1i7L1 2、Fluent 2023超级学习手册 BV1Ui4y1h7Et 3、ANSYS Workbench中文版典型案例合辑 BV11y4y137Eq 4",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1U64y1S7xq",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 114833399745560,
+      "type": 2,
+      "bvid": "BV1rYuMzNEi2",
+      "title": "已失效视频",
+      "author": "bili_3546901121075220",
+      "description": "学习资料已经全部打包好啦！来拿！不要米， 免费领取！ 需要机械设计货软件资料、Solidworks软件安装包、插件、面试题、就业信息、设计图纸等等， 都可以在评论区一键三连 扣666或者私信我免费领取！ 真心希望大家看过后给个【一键三连】当作学费~ 以后还会出更多的优质内容，谢谢！",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1rYuMzNEi2",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 59658520,
+      "type": 2,
+      "bvid": "BV1Ft41137JV",
+      "title": "CAD制图练习合集，一天一张图，贵在坚持",
+      "author": "大梦空间_",
+      "description": "使用的CAD版本为2020，部分图形增加“参数化”的绘制方法。 更新完毕，剔除相似图形后，最后剩下39张图。 如有遗漏，欢迎补充。 加油！努力！奋斗！",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1Ft41137JV",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 655376571,
+      "type": 2,
+      "bvid": "BV1ua4y1V7yK",
+      "title": "【必收藏·全套CaTICs网络赛题·每日一练】SolidWorks下的CaTICs网络3D大赛超详解析(1-19届)",
+      "author": "SolidWorks老白",
+      "description": "第一至第十九届CaTICs网络大赛赛题全面解析，每天一更=每日一练，建模搞起来，需要全套请加UP猪微信laobai052，记得一键三连哟，一键三连之后才能免费白嫖全部图纸~",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1ua4y1V7yK",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 114618550787249,
+      "type": 2,
+      "bvid": "BV1Yq7bzaEuM",
+      "title": "【共136集已完结】大佬爆肝！2026年B站最全最细自学机械设计教程！从电机选型、材料到公差与配合，涵盖了所有机械设计知识，你想学的这里都有！再发最后一遍！",
+      "author": "云飞说机械",
+      "description": "希望大家可以多多【一键三连】关注支持一下！机械方面的很多资料我都有，需要的同学戳→：https://www.bilibili.com/opus/1092684961947844629?spm_id_from=333.1387.0.0",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1Yq7bzaEuM",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 886850022,
+      "type": 2,
+      "bvid": "BV1DK4y1E7At",
+      "title": "机械学霸讲SolidWorks每日一练初级篇合集（后50题）",
+      "author": "机械百宝箱",
+      "description": "此号为机械学霸小号，旨在分P 机械学霸讲SolidWorks每日一练初级篇合集（后50题），此号为机械学霸小号，旨在分P",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1DK4y1E7At",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 289281856,
+      "type": 2,
+      "bvid": "BV1df4y1z7iR",
+      "title": "机械学霸讲SolidWorks每日一练初级篇100题合集（前50）",
+      "author": "机械百宝箱",
+      "description": "此号为机械学霸小号，为了做分P 机械学霸讲SolidWorks每日一练初级篇100题合集（前50），希望对初学者有一定的帮助！",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1df4y1z7iR",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 939009617,
+      "type": 2,
+      "bvid": "BV1aT4y1B7oY",
+      "title": "【全CAD教学合集】零基础教学、绘图手法提升、制图知识讲解",
+      "author": "Tutor南洋",
+      "description": "快速学习CAD系列的合集，有什么不懂的可以评论区留言或者直接私信我（每条新评论都有看，楼中楼的话几乎没办法回复，除非@Tutor南洋 我才能看到） 如有需要深入学习和更完整的up解答教学，可以考虑考虑B站课堂的《Tutor南洋CAD工作技能实战教程》~比入门教程更丝滑柔顺的上课体验和更深入的技巧讲解！",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1aT4y1B7oY",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 401676086,
+      "type": 2,
+      "bvid": "BV1uo4y1M73t",
+      "title": "从数字电路到单片机程序|为什么敲两行代码灯就能亮？摆脱单片机恐惧从理解原理开始【考拉工作室】",
+      "author": "喵星考拉",
+      "description": "我们的单片机基本原理来了！这节课力求在十几分钟之内把计算机原理的概念抽象出来让大家去理解代码控制单片机的原理，单片机控制的本质就是通过写寄存器改变电路运行状态达到运算或输出的效果，后来才被封装成了库函数形式。由于照顾小白，所以有一些地方不太严谨，比如我们没有把时钟的概念引入，所以没有讲clock和触发器的概念，也没有讲时序、超前进位加法器等。指令集就更不可能讲完了（笑），不过还是那句话，新手入门先把握基本概念，希望大家看完之后不要对单片机有恐惧和迷惑的心理，这段内容还是很有参考价值的~也欢迎内行大佬们多批",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1uo4y1M73t",
+      "targetFolderTitle": "单片机电控"
+    },
+    {
+      "rid": 612344889,
+      "type": 2,
+      "bvid": "BV1384y1M76j",
+      "title": "我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI",
+      "author": "调皮的王登科",
+      "description": "我的数字克隆在线聊天：https://ai.greatdk.com 我使用和参考的项目： WechatExporter：BlueMatthew/WechatExporter: Wechat Chat History Exporter 微信聊天记录导出备份程序 (github.com) chatglm-6b：THUDM/ChatGLM-6B: ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model (github.com) zer",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1384y1M76j",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 1250016871,
+      "type": 2,
+      "bvid": "BV1PJ4m1b7Wz",
+      "title": "40元制作一个Augelight氛围灯",
+      "author": "23盒子怪",
+      "description": "材料清单 1.高硼硅玻璃筒一个直径 50mm高100mm厚5mm 2.一块602040锂电池500mAh 3.电阻一个5欧~10欧越小越亮 4.TP4056充电模块一个type-c口 5.开关一个SS12D00柄高4mm 2档3脚 6.6mm球形磁铁一个或者钢珠 7.4mm球形磁铁一个 8.LED柔性灯条正负极同端3V长110mm一根 9.M2X5自攻螺丝5颗 10.3D打印外壳 外壳模型地址：https://makerworld.com/zh/models/169602#profileId-18623",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1PJ4m1b7Wz",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 983790819,
+      "type": 2,
+      "bvid": "BV1Mt4y1L73Q",
+      "title": "【洋垃圾】这真是电子名片?! Orasaifu电子钱包",
+      "author": "比尔盖子SergySonono",
+      "description": "做工精美，性能合适，当小玩具还是很不错的！！！",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1Mt4y1L73Q",
+      "targetFolderTitle": "其他待整理"
+    },
+    {
+      "rid": 247409725,
+      "type": 2,
+      "bvid": "BV1fv41187qE",
+      "title": "一天不看难受，一看难受一天",
+      "author": "浮云流水终须尽",
+      "description": "-",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1fv41187qE",
+      "targetFolderTitle": "其他待整理"
+    },
+    {
+      "rid": 50292015,
+      "type": 2,
+      "bvid": "BV1tb411G7bS",
+      "title": "油管大神教你制作32键DIY模拟赛车中控盒",
+      "author": "Silv3RMOON口蘑工作室",
+      "description": "转自https://www.youtube.com/watch?v=Z7Sc4MJ8RPM 油管大神AMSTUDIO制作的32键DIY模拟赛车中控盒 转自https://www.youtube.com/watch?v=Z7Sc4MJ8RPM 请自备工具和元件（某宝都有哦） Arduino程序下载地址：https://github.com/AM-STUDIO/32-FUNCTION-BUTTON-BOX",
+      "sourceFolderId": 426970342,
+      "sourceFolderTitle": "默认收藏夹",
+      "url": "https://www.bilibili.com/video/BV1tb411G7bS",
+      "targetFolderTitle": "单片机电控"
+    },
+    {
+      "rid": 113419365646680,
+      "type": 2,
+      "bvid": "BV1zQSUYKECo",
+      "title": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
+      "author": "会上树的菜鸡",
+      "description": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
+      "sourceFolderId": 3736072842,
+      "sourceFolderTitle": "垂起",
+      "url": "https://www.bilibili.com/video/BV1zQSUYKECo",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 114625395821330,
+      "type": 2,
+      "bvid": "BV1vbTJzSERa",
+      "title": "泰坦眼镜蛇，手搓全3D打印件2米翼展4+1垂直起降固定翼e VTOL，航程可达140公里，飞行2小时，可用于巡航检测，侦察、作战。",
+      "author": "国哥FPV",
+      "description": "-",
+      "sourceFolderId": 3736072842,
+      "sourceFolderTitle": "垂起",
+      "url": "https://www.bilibili.com/video/BV1vbTJzSERa",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 1550209951,
+      "type": 2,
+      "bvid": "BV1Uy421a7mn",
+      "title": "INAV7.0正式版垂起VTOL4+1固定翼调参配置教程",
+      "author": "idea-fpv",
+      "description": "inav固件终于迎来支持垂起的固件，简化垂起的调参配置，本人亲测摸索了一个月多，终于捋清垂起的设置要点技巧，这里做成视频教程，希望能帮助到大家配置自己的小大型垂起vtol4+1固定翼，如果对你有所帮助，麻烦一键三连，点赞投币并转发，您的支持将是我持续更新教程与分享diy经验的最大动力",
+      "sourceFolderId": 3736072842,
+      "sourceFolderTitle": "垂起",
+      "url": "https://www.bilibili.com/video/BV1Uy421a7mn",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 114874956906602,
+      "type": 2,
+      "bvid": "BV15zumzeEre",
+      "title": "垂直起降固定翼无人机",
+      "author": "D多无影",
+      "description": "",
+      "sourceFolderId": 3736072842,
+      "sourceFolderTitle": "垂起",
+      "url": "https://www.bilibili.com/video/BV15zumzeEre",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 115474843114661,
+      "type": 2,
+      "bvid": "BV1HQyDBdEEK",
+      "title": "【垂起固定翼,系统教程】2.2 _INAV完全调试，Y3垂起固定翼",
+      "author": "荒地厨师",
+      "description": "嗯，完结了",
+      "sourceFolderId": 3736072842,
+      "sourceFolderTitle": "垂起",
+      "url": "https://www.bilibili.com/video/BV1HQyDBdEEK",
+      "targetFolderTitle": "无人机飞控FPV"
+    },
+    {
+      "rid": 52628485,
+      "type": 2,
+      "bvid": "BV164411J7GE",
+      "title": "【太极创客】零基础入门学用Arduino 第一部分 合辑",
+      "author": "太极创客",
+      "description": "为了便于朋友们观看太极创客制作的教程，我们将自制的Arduino教程 制作了合辑。 太极创客团队自制的教程全部是免费开源的，我们这么做是想将更好的中文创客教程提供给广大创客朋友。 近日我们发现在网上有盗用我们的教程存在。这些教程很多存在质量问题甚至有些会插播广告。 我们诚恳的希望您不要观看盗用我们的教程，请到我们的B站频道观看原版高质的教程内容。 非常感谢您的支持！",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV164411J7GE",
+      "targetFolderTitle": "单片机电控"
+    },
+    {
+      "rid": 114868480905994,
+      "type": 2,
+      "bvid": "BV1t1gPzeErV",
+      "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+      "author": "喵星考拉",
+      "description": "",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1t1gPzeErV",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 960708729,
+      "type": 2,
+      "bvid": "BV1HH4y1X7fb",
+      "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+      "author": "ESP_Friends",
+      "description": "本视频展示如何使用 Arduino IDE 快速开发一个简单的物联网项目。通过手机 APP 远程控制开关，显示实时的天气信息还有发送提醒。知识点包括：Arduino IDE 的环境搭建、简单的 Wi-Fi 连接、通过 HTTP 获取实时的天气信息、GPIO 按键、RainMaker 云端的数据交互、GPIO 输出。 Arduino IDE 下载：arduino.cc/en/software 乐鑫 Arduino ESP32 文档：docs.espressif.com/projects/arduino-e",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1HH4y1X7fb",
+      "targetFolderTitle": "单片机电控"
+    },
+    {
+      "rid": 398879804,
+      "type": 2,
+      "bvid": "BV1xo4y1G7ZA",
+      "title": "【考拉工作室】单片机入门——Arduino控制步进电机拖动直线模组",
+      "author": "喵星考拉",
+      "description": "Arduino控制步进电机。虽然是最最最简单的电机控制案例之一，但是还是很多人不会。录个视频分享给大家，这里只是入门让电机动起来哦，后面还有后续进阶教程，欢迎一键三连！粉丝群247278751欢迎大家~",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1xo4y1G7ZA",
+      "targetFolderTitle": "单片机电控"
+    },
+    {
+      "rid": 912006995,
+      "type": 2,
+      "bvid": "BV1RM4y1a7J5",
+      "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
+      "author": "罗大富Bigrich",
+      "description": "本套教程致力于让您通过学习 ESP32 单片机掌握单片机原理和 Arduino 的用法，边玩边学，玩到专业！ 有什么问题，欢迎小伙伴们留言私信➕群：441203097 开发套件已上架，欢迎选购：https://item.taobao.com/item.htm?ft=t&id=734212351280 课程资料的百度网盘链接：https://pan.baidu.com/s/1BpjvshNTFozBd0ubIseWWw?pwd=geek 提取码：geek 教程文档放在了这里，方便大家查阅：http",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1RM4y1a7J5",
+      "targetFolderTitle": "单片机电控"
+    },
+    {
+      "rid": 333492253,
+      "type": 2,
+      "bvid": "BV1iw411Z7HZ",
+      "title": "SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1",
+      "author": "阿奇设计分享",
+      "description": "快速清晰地介绍SOLIDWORKS 草图、零件、装配体、工程图的常用功能！ 由浅入深地掌握SOLIDWORKS，手把手设计出有意思的小作品，还能3D打印出来，并且完全免费！ 教程适用2012-2024的各个版本",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 1302523492,
+      "type": 2,
+      "bvid": "BV1BM4m1R7sJ",
+      "title": "DIY3D打印机：极端抠门的白嫖怪用voron0造三叉戟-OrcaSlicer基础操作，切片软件，操作教学，保姆教学，orcaSlicer2.0",
+      "author": "风中的樱花树",
+      "description": "本篇视频为DIY Voron 三叉戟 3D打印机-OrcaSlicer基础操作 该项目预估成本1500左右 BOM单可加群获取 QQ交流群942732706",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1BM4m1R7sJ",
+      "targetFolderTitle": "3D打印DIY"
+    },
+    {
+      "rid": 566857503,
+      "type": 2,
+      "bvid": "BV1uv4y1x7Fs",
+      "title": "保姆教程:klipper安装后配置文件、限位测试、归零测试、PID、挤出机步进值、调平、软件使用 吐血推荐",
+      "author": "小辰DIY",
+      "description": "本期讲解klipper安装后的一系列操作，保姆级教程，剪视频剪到吐血，开源地址：https://gitee.com/pangqc/voron-tiny-m 配置文件、prusa软件、测试方块等都在交流群里，三连在我动态置顶扫码进 使用软件：prusa、Pr、Au 视频录制：一加9RT 操作平台：Windows 11",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1uv4y1x7Fs",
+      "targetFolderTitle": "3D打印DIY"
+    },
+    {
+      "rid": 411413331,
+      "type": 2,
+      "bvid": "BV1CV411X7hG",
+      "title": "2024B站最新的Kali入门教程！！Kali Linux渗透测试远控木马技术，全程手把手教你从入门到精通，7天学会",
+      "author": "渗透测试官方教程",
+      "description": "本视频仅用于信息安全教学，请遵守相关法律法规，严禁用于非法途径。若观众因此作出任何危害网络安全的行为，后果自负，与UP主及讲师无关。",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1CV411X7hG",
+      "targetFolderTitle": "课程数学考试"
+    },
+    {
+      "rid": 712897882,
+      "type": 2,
+      "bvid": "BV17D4y1X7AT",
+      "title": "【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【软核】",
+      "author": "稚晖君",
+      "description": "这是UP最近为了解决个人痛点设计制作的一个便携口袋显示器（&充电宝），害，在颜值上已经没有进步的空间了~ 项目已经开源，喜欢的话记得三连关注支持~~ GitHub地址：https://github.com/peng-zhihui/PocketLCD 也麻烦记得给仓库点星星哦",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV17D4y1X7AT",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 1250016871,
+      "type": 2,
+      "bvid": "BV1PJ4m1b7Wz",
+      "title": "40元制作一个Augelight氛围灯",
+      "author": "23盒子怪",
+      "description": "材料清单 1.高硼硅玻璃筒一个直径 50mm高100mm厚5mm 2.一块602040锂电池500mAh 3.电阻一个5欧~10欧越小越亮 4.TP4056充电模块一个type-c口 5.开关一个SS12D00柄高4mm 2档3脚 6.6mm球形磁铁一个或者钢珠 7.4mm球形磁铁一个 8.LED柔性灯条正负极同端3V长110mm一根 9.M2X5自攻螺丝5颗 10.3D打印外壳 外壳模型地址：https://makerworld.com/zh/models/169602#profileId-18623",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1PJ4m1b7Wz",
+      "targetFolderTitle": "CAD机械设计"
+    },
+    {
+      "rid": 411544006,
+      "type": 2,
+      "bvid": "BV1WV411977W",
+      "title": "单网口主机畅玩ALL IN ONE！PVE虚拟机下部署OpenWRT软路由+群晖7.2 NAS+Windows+Linux等，实现NAS存储+路由+虚拟机完全体",
+      "author": "我是阿皮啊-",
+      "description": "往期出过多网口版本的PVE和ESXI搭建AIO的教程，借这个机会，本期就来演示一下，使用一台单网口主机，在PVE系统上部署软路由、群晖NAS、Windows和Linux系统的完整教程。 PVE虚拟机系统开源免费，并且对大小核兼容完美，非常适合用来实现AIO功能。 如果你手上有单网口的高性能主机，也想尝试AIO，那么不妨跟着视频来搭建，搭建效果如图所求、 首先是软路由OpenWRT，因为是单网口，所以以旁路由形式来搭建，接着搭建群晖NAS系统，也是家用NAS系统天花板了，群晖系统可以帮你存储资料、照片管",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1WV411977W",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 366367464,
+      "type": 2,
+      "bvid": "BV1S94y1J79J",
+      "title": "低功耗、全都要，bt、HA、jellyfin、游戏服务器。基于ubuntu的家庭服务器部署全过程",
+      "author": "索拉里斯风",
+      "description": "其实现在普通人家里闲置电脑的概率，比你我想象中的高，基本上大学毕业就是一个节点、归其缘由我认为是源自windows的尿性，一台普通电脑在不优化的情况下很难用超过4年。 但是当我们换一个思路安装好linux。无论多久远的电脑都可以是你的流媒体服务器，在局域网内任何设备上用海报墙播放下载电影，或者变成homeassistant智能家居中枢、远程控制家里的灯光、监测路由器状态、远程开关电视盒子等等， 甚至你可以托管自己的游戏服务器并与和朋友一起回味几十款老游戏，比如这个98版的《仙剑剑奇侠传》、或者是大航海时代",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1S94y1J79J",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 921827717,
+      "type": 2,
+      "bvid": "BV1zu4y1g7LY",
+      "title": "办公、NAS我都要 虚拟机&Docker一个不能少 基于Debian 12深度Deepin系统下一键部署”DIY NAS“ All in One 方案",
+      "author": "悟空的日常",
+      "description": "https://github.com/wukongdaily/diy-nas-onescript 其他地址会补充到评论区置顶。",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1zu4y1g7LY",
+      "targetFolderTitle": "软件工具开源"
+    },
+    {
+      "rid": 920210389,
+      "type": 2,
+      "bvid": "BV1bu4y1E7Yh",
+      "title": "旧电脑变身NAS保姆级教程(1/2)，文件共享、相册备份、多功能全自动媒体库全搞定，Jellyfin、Alist、黑群晖 7.2媒体服务器，N1盒子方案升级版",
+      "author": "大鹅体验",
+      "description": "使用老旧电脑安装NAS系统，实现完整的文件共享、相册备份、和多功能、全自动媒体库的保姆级教程。",
+      "sourceFolderId": 1532595742,
+      "sourceFolderTitle": "项目",
+      "url": "https://www.bilibili.com/video/BV1bu4y1E7Yh",
+      "targetFolderTitle": "软件工具开源"
+    }
+  ],
+  "skippedAlreadyInTarget": [],
+  "executed": [
+    {
+      "ok": true,
+      "title": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
+      "from": "默认收藏夹",
+      "to": "AI工具-Codex"
+    },
+    {
+      "ok": true,
+      "title": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App，快速上手AI",
+      "from": "默认收藏夹",
+      "to": "AI工具-Codex"
+    },
+    {
+      "ok": true,
+      "title": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
+      "from": "默认收藏夹",
+      "to": "AI工具-Codex"
+    },
+    {
+      "ok": true,
+      "title": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
+      "from": "默认收藏夹",
+      "to": "AI工具-Codex"
+    },
+    {
+      "ok": true,
+      "title": "坐上火车去拉萨，被认为是最浪漫的进藏方式，超详细的保姆级攻略",
+      "from": "默认收藏夹",
+      "to": "旅行历史风景"
+    },
+    {
+      "ok": true,
+      "title": "Lumina 2.0前瞻",
+      "from": "默认收藏夹",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "UG12.0从入门到精通教程，25节课全面了解UG",
+      "from": "默认收藏夹",
+      "to": "课程数学考试"
+    },
+    {
+      "ok": true,
+      "title": "如何用真实地形数据打印一座雪山？【拓竹X2D首发体验】",
+      "from": "默认收藏夹",
+      "to": "3D打印DIY"
+    },
+    {
+      "ok": true,
+      "title": "4月最新！UG NX12.0软件安装（附安装包）UG免费下载安装激活教程，UG NX 12安装包免费下载安装激活详细教程",
+      "from": "默认收藏夹",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "【全网首发】白嫖Google AI Pro 12个月| 无需Pixel设备 | 解决谷歌邮箱注册、账号设备认证、绑卡等问题 | 从注册到订阅全过程演示",
+      "from": "默认收藏夹",
+      "to": "AI工具-Codex"
+    },
+    {
+      "ok": true,
+      "title": "告别杂乱！超实用定制收纳教程",
+      "from": "默认收藏夹",
+      "to": "3D打印DIY"
+    },
+    {
+      "ok": true,
+      "title": "[橙服]不删档的百人在线1.21.11服务器寒假招生啦！来体验一下原版生存的魅力？",
+      "from": "默认收藏夹",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "继续展示下我们的wbrov开源案例，自主管道巡检",
+      "from": "默认收藏夹",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "【高等数学（上）】6小时从0基础直追满绩！",
+      "from": "默认收藏夹",
+      "to": "课程数学考试"
+    },
+    {
+      "ok": true,
+      "title": "【成图大赛】16届国赛机械手，挑战一小时讲课带建模，卷王之王~~大饱眼福",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "Pixhawk与ROS强强联合，打造更强的地面小车!",
+      "from": "默认收藏夹",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "Pix/Ardupilot使用ExpressLRS--教程",
+      "from": "默认收藏夹",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "看电视最佳方案：免费、流畅、无广告！GitHub大神开源作品！手机 + TV 全支持！",
+      "from": "默认收藏夹",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "【FYS飞舜极创】PIX飞控四轴飞行器组装调试及试飞教程/保姆级教程/F450多旋翼悬停返航GPS定位/遥控模型飞机/DIY组装/初学入门/技巧分享",
+      "from": "默认收藏夹",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "Pixhawk基础视频教程全12讲",
+      "from": "默认收藏夹",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "【2021最新制作】FPV穿越机教程 入门教学 新人入坑必看 从小白到大神（持续更新）",
+      "from": "默认收藏夹",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "【无人机教程】从零开始学习无人机原理及组装",
+      "from": "默认收藏夹",
+      "to": "课程数学考试"
+    },
+    {
+      "ok": true,
+      "title": "《高等数学》全程教学视频 2.0版【宋浩老师】（下册增加了黑板版）",
+      "from": "默认收藏夹",
+      "to": "课程数学考试"
+    },
+    {
+      "ok": true,
+      "title": "【F450套装四轴】F450套装四轴多旋翼无人机SolidWorks三维造型-CAD实训营",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "已失效视频",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "CAD制图练习合集，一天一张图，贵在坚持",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "【必收藏·全套CaTICs网络赛题·每日一练】SolidWorks下的CaTICs网络3D大赛超详解析(1-19届)",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "【共136集已完结】大佬爆肝！2026年B站最全最细自学机械设计教程！从电机选型、材料到公差与配合，涵盖了所有机械设计知识，你想学的这里都有！再发最后一遍！",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "机械学霸讲SolidWorks每日一练初级篇合集（后50题）",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "机械学霸讲SolidWorks每日一练初级篇100题合集（前50）",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "【全CAD教学合集】零基础教学、绘图手法提升、制图知识讲解",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "从数字电路到单片机程序|为什么敲两行代码灯就能亮？摆脱单片机恐惧从理解原理开始【考拉工作室】",
+      "from": "默认收藏夹",
+      "to": "单片机电控"
+    },
+    {
+      "ok": true,
+      "title": "我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI",
+      "from": "默认收藏夹",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "40元制作一个Augelight氛围灯",
+      "from": "默认收藏夹",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "【洋垃圾】这真是电子名片?! Orasaifu电子钱包",
+      "from": "默认收藏夹",
+      "to": "其他待整理"
+    },
+    {
+      "ok": true,
+      "title": "一天不看难受，一看难受一天",
+      "from": "默认收藏夹",
+      "to": "其他待整理"
+    },
+    {
+      "ok": true,
+      "title": "油管大神教你制作32键DIY模拟赛车中控盒",
+      "from": "默认收藏夹",
+      "to": "单片机电控"
+    },
+    {
+      "ok": true,
+      "title": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
+      "from": "垂起",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "泰坦眼镜蛇，手搓全3D打印件2米翼展4+1垂直起降固定翼e VTOL，航程可达140公里，飞行2小时，可用于巡航检测，侦察、作战。",
+      "from": "垂起",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "INAV7.0正式版垂起VTOL4+1固定翼调参配置教程",
+      "from": "垂起",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "垂直起降固定翼无人机",
+      "from": "垂起",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "【垂起固定翼,系统教程】2.2 _INAV完全调试，Y3垂起固定翼",
+      "from": "垂起",
+      "to": "无人机飞控FPV"
+    },
+    {
+      "ok": true,
+      "title": "【太极创客】零基础入门学用Arduino 第一部分 合辑",
+      "from": "项目",
+      "to": "单片机电控"
+    },
+    {
+      "ok": true,
+      "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+      "from": "项目",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+      "from": "项目",
+      "to": "单片机电控"
+    },
+    {
+      "ok": true,
+      "title": "【考拉工作室】单片机入门——Arduino控制步进电机拖动直线模组",
+      "from": "项目",
+      "to": "单片机电控"
+    },
+    {
+      "ok": true,
+      "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
+      "from": "项目",
+      "to": "单片机电控"
+    },
+    {
+      "ok": true,
+      "title": "SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1",
+      "from": "项目",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "DIY3D打印机：极端抠门的白嫖怪用voron0造三叉戟-OrcaSlicer基础操作，切片软件，操作教学，保姆教学，orcaSlicer2.0",
+      "from": "项目",
+      "to": "3D打印DIY"
+    },
+    {
+      "ok": true,
+      "title": "保姆教程:klipper安装后配置文件、限位测试、归零测试、PID、挤出机步进值、调平、软件使用 吐血推荐",
+      "from": "项目",
+      "to": "3D打印DIY"
+    },
+    {
+      "ok": true,
+      "title": "2024B站最新的Kali入门教程！！Kali Linux渗透测试远控木马技术，全程手把手教你从入门到精通，7天学会",
+      "from": "项目",
+      "to": "课程数学考试"
+    },
+    {
+      "ok": true,
+      "title": "【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【软核】",
+      "from": "项目",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "40元制作一个Augelight氛围灯",
+      "from": "项目",
+      "to": "CAD机械设计"
+    },
+    {
+      "ok": true,
+      "title": "单网口主机畅玩ALL IN ONE！PVE虚拟机下部署OpenWRT软路由+群晖7.2 NAS+Windows+Linux等，实现NAS存储+路由+虚拟机完全体",
+      "from": "项目",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "低功耗、全都要，bt、HA、jellyfin、游戏服务器。基于ubuntu的家庭服务器部署全过程",
+      "from": "项目",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "办公、NAS我都要 虚拟机&Docker一个不能少 基于Debian 12深度Deepin系统下一键部署”DIY NAS“ All in One 方案",
+      "from": "项目",
+      "to": "软件工具开源"
+    },
+    {
+      "ok": true,
+      "title": "旧电脑变身NAS保姆级教程(1/2)，文件共享、相册备份、多功能全自动媒体库全搞定，Jellyfin、Alist、黑群晖 7.2媒体服务器，N1盒子方案升级版",
+      "from": "项目",
+      "to": "软件工具开源"
+    }
+  ]
+}

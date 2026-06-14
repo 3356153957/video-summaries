@@ -1,0 +1,2658 @@
+[
+  {
+    "bvid": "BV1RcRmBbE3x",
+    "title": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
+    "author": "Juang_42号搭车客",
+    "description": "如果Skill没有配置好，那么Agent使用起来的效果就会事倍功半。 我尝试了十几个Agent和几十个Skill，这些Skill是我每天都在用的，而且不依赖特定的Agent。 无论你是在用 Claude Code 还是 Codex，这套通用的 Skill 组合都能让你的 AI 助手瞬间进化。",
+    "folder": "AI工具-Codex",
+    "url": "https://www.bilibili.com/video/BV1RcRmBbE3x",
+    "duration": 753,
+    "pubdate": 1778260320,
+    "stat": {
+      "aid": 116540062041120,
+      "view": 311338,
+      "danmaku": 96,
+      "reply": 1636,
+      "favorite": 22549,
+      "coin": 3301,
+      "share": 1864,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 7326,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 38197201623,
+        "page": 1,
+        "part": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
+        "duration": 753
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1MXLt6vE6s",
+    "title": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App，快速上手AI",
+    "author": "松小鼠呀ya",
+    "description": "实测 Codex 10 个必装插件，从酷炫动画、视频生成，到网页游戏、手机 App、PPT 报告、表格分析和浏览器自动化，一次看懂 AI Agent 到底能替你完成多少工作。无论是学习、办公、创作、开发，还是整理资料和处理重复任务，都能直接用上。 本频道持续分享创富案例 & AI 前沿应用 关于 7 步实现财富自由，会员内容以专题形式呈现，系统梳理从财富认知、全球趋势，到投资理念与实操策略的完整方法论，帮助你构建稳健而清晰的投资思维体系。 欢迎订阅。 热门推荐： 小白速通！10分钟掌控AI编程之王【Codex超级入门教程】：BV1vsZWBiEyM 【建议收藏】2026 最实用的 Skills 清单：BV1N5foBjE5K 【AI副业思路】小龙虾5个最新赚钱案例｜0人公司，年入百万？：BV1xfXYBiEd8",
+    "folder": "AI工具-Codex",
+    "url": "https://www.bilibili.com/video/BV1MXLt6vE6s",
+    "duration": 691,
+    "pubdate": 1779365818,
+    "stat": {
+      "aid": 116612506065525,
+      "view": 39902,
+      "danmaku": 104,
+      "reply": 87,
+      "favorite": 1959,
+      "coin": 327,
+      "share": 237,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 828,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 38504238574,
+        "page": 1,
+        "part": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App，快速上手AI",
+        "duration": 691
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1q5G961Ech",
+    "title": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
+    "author": "Yin_Code",
+    "description": "CC Switch：farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io CCX：BenedictKing/ccx: Claude / Codex / Gemini API Proxy - CCX Codex Plus Plus：BigPizzaV3/CodexPlusPlus: An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 CCX .env文件配置： PROXY_ACCESS_KEY=123456 PORT=3688 ENABLE_WEB_UI=true APP_UI_LANGUAGE=zh config.toml声明上下文窗口和压缩阈值： model_context_window = 1000000 model_auto_compact_token_limit = 900000",
+    "folder": "AI工具-Codex",
+    "url": "https://www.bilibili.com/video/BV1q5G961Ech",
+    "duration": 318,
+    "pubdate": 1779957000,
+    "stat": {
+      "aid": 116650523231987,
+      "view": 88674,
+      "danmaku": 17,
+      "reply": 596,
+      "favorite": 2737,
+      "coin": 880,
+      "share": 517,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1494,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 38667288992,
+        "page": 1,
+        "part": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
+        "duration": 318
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1DfL16WEwq",
+    "title": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
+    "author": "HexUp",
+    "description": "Codex是OpenAI官方的Agent桌面应用，不光能写代码，还能做PPT、搜网页、调用GPT Image 2生成图片，甚至用手机远程操控电脑工作。这期视频从零开始拆解Codex的核心概念、插件系统和自动化任务，配上完整的实操演示。比起Claude Code经常封号，Codex不封号、额度充足、App设计优雅，20美元起步就能满足日常需要。",
+    "folder": "AI工具-Codex",
+    "url": "https://www.bilibili.com/video/BV1DfL16WEwq",
+    "duration": 1000,
+    "pubdate": 1779271200,
+    "stat": {
+      "aid": 116605845507007,
+      "view": 92990,
+      "danmaku": 15,
+      "reply": 250,
+      "favorite": 4070,
+      "coin": 525,
+      "share": 362,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1475,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 38472322654,
+        "page": 1,
+        "part": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
+        "duration": 1000
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1qpwEzTEa9",
+    "title": "【全网首发】白嫖Google AI Pro 12个月| 无需Pixel设备 | 解决谷歌邮箱注册、账号设备认证、绑卡等问题 | 从注册到订阅全过程演示",
+    "author": "Porter科技迷",
+    "description": "视频制作不易，希望大家三连支持，如果喜欢我的内容，欢迎订阅我的频道，请在评论区留下评论，我会挨个私发文档",
+    "folder": "AI工具-Codex",
+    "url": "https://www.bilibili.com/video/BV1qpwEzTEa9",
+    "duration": 1200,
+    "pubdate": 1773655200,
+    "stat": {
+      "aid": 116238105707865,
+      "view": 87673,
+      "danmaku": 137,
+      "reply": 2808,
+      "favorite": 4826,
+      "coin": 2833,
+      "share": 1614,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2820,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 36738829704,
+        "page": 1,
+        "part": "【全网首发】白嫖Google AI Pro 12个月| 无需Pixel设备 | 解决谷歌邮箱注册、账号设备认证、绑卡等问题 | 从注册到订阅全过程演示",
+        "duration": 1200
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV13hFfzTEks",
+    "title": "告别杂乱！超实用定制收纳教程",
+    "author": "葫芦～",
+    "description": "建模网站：https://gridfinity.perplexinglabs.com/ Gridfinity 底座计算器：https://pan.baidu.com/s/1vlDxHk0j5p87ozY6LC84cA?pwd=1234 提取码: 1234 fusion360 插件 GridfinityGenerator 官网地址：https://apps.autodesk.com/FUSION/en/Detail/Index?id=7197558650811789&os=Win64&appLang=en fusion360 插件下载地址（备用）： https://pan.baidu.com/s/1gcVlSOwCeHhgWzOh7bzRzw?pwd=1234 提取码: 1234",
+    "folder": "3D打印DIY",
+    "url": "https://www.bilibili.com/video/BV13hFfzTEks",
+    "duration": 458,
+    "pubdate": 1770523268,
+    "stat": {
+      "aid": 116033004308061,
+      "view": 5387,
+      "danmaku": 0,
+      "reply": 22,
+      "favorite": 518,
+      "coin": 115,
+      "share": 16,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 171,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 35903701561,
+        "page": 1,
+        "part": "告别杂乱！超实用定制收纳教程",
+        "duration": 458
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1ZE421M7p7",
+    "title": "【FYS飞舜极创】PIX飞控四轴飞行器组装调试及试飞教程/保姆级教程/F450多旋翼悬停返航GPS定位/遥控模型飞机/DIY组装/初学入门/技巧分享",
+    "author": "FYS飞舜极创",
+    "description": "PIX教程资料下载链接 链接：https://pan.baidu.com/s/1cyFGxTszwNXHnpVSJVHTQg?pwd=ejrg 提取码：ejrg",
+    "folder": "无人机飞控FPV",
+    "url": "https://www.bilibili.com/video/BV1ZE421M7p7",
+    "duration": 1932,
+    "pubdate": 1712561885,
+    "stat": {
+      "aid": 1652908854,
+      "view": 37552,
+      "danmaku": 10,
+      "reply": 201,
+      "favorite": 1713,
+      "coin": 293,
+      "share": 741,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 697,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 1497948168,
+        "page": 1,
+        "part": "【FYS飞舜极创】PIX飞控四轴飞行器组装调试及试飞教程/保姆级教程/F450多旋翼悬停返航GPS定位/遥控模型飞机/DIY组装/初学入门/技巧分享",
+        "duration": 1932
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1CAxaeHEeH",
+    "title": "《高等数学》全程教学视频 2.0版【宋浩老师】（下册增加了黑板版）",
+    "author": "宋浩老师官方",
+    "description": "《高等数学》全程教学视频 2.0版【宋浩老师】，高等数学讲义（上册）：https://detail.tmall.com/item.htm?id=682340641970",
+    "folder": "课程数学考试",
+    "url": "https://www.bilibili.com/video/BV1CAxaeHEeH",
+    "duration": 389358,
+    "pubdate": 1727753617,
+    "stat": {
+      "aid": 113229984501716,
+      "view": 104240233,
+      "danmaku": 595850,
+      "reply": 33679,
+      "favorite": 1018858,
+      "coin": 673025,
+      "share": 196032,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 957269,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 26087195706,
+        "page": 1,
+        "part": "1 映射",
+        "duration": 2076
+      },
+      {
+        "cid": 30099509153,
+        "page": 2,
+        "part": "视频与图书介绍",
+        "duration": 307
+      },
+      {
+        "cid": 26090538280,
+        "page": 3,
+        "part": "2 函数",
+        "duration": 3941
+      },
+      {
+        "cid": 26091257968,
+        "page": 4,
+        "part": "3 初等函数（补充了cot x 和反三角函数）",
+        "duration": 1817
+      },
+      {
+        "cid": 26099909317,
+        "page": 5,
+        "part": "4 数列的极限",
+        "duration": 3130
+      },
+      {
+        "cid": 26100171661,
+        "page": 6,
+        "part": "5 收敛数列的性质",
+        "duration": 1583
+      },
+      {
+        "cid": 26100042685,
+        "page": 7,
+        "part": "6 函数极限定义",
+        "duration": 3432
+      },
+      {
+        "cid": 26206602758,
+        "page": 8,
+        "part": "7 函数极限的性质",
+        "duration": 1177
+      },
+      {
+        "cid": 26206604526,
+        "page": 9,
+        "part": "8 无穷小与无穷大",
+        "duration": 1406
+      },
+      {
+        "cid": 26206668218,
+        "page": 10,
+        "part": "9 极限运算法则",
+        "duration": 2652
+      },
+      {
+        "cid": 26206735225,
+        "page": 11,
+        "part": "10 极限存在准则第一第二重要极限",
+        "duration": 2539
+      },
+      {
+        "cid": 26242253433,
+        "page": 12,
+        "part": "11 无穷小的比较 等价无穷小替换",
+        "duration": 3007
+      },
+      {
+        "cid": 26244746639,
+        "page": 13,
+        "part": "12 连续",
+        "duration": 1227
+      },
+      {
+        "cid": 26429688037,
+        "page": 14,
+        "part": "13 间断点",
+        "duration": 1658
+      },
+      {
+        "cid": 26249658928,
+        "page": 15,
+        "part": "14 连续函数运算 反函数复合函数的连续",
+        "duration": 1779
+      },
+      {
+        "cid": 26308509806,
+        "page": 16,
+        "part": "15 闭区间连续函数的性质",
+        "duration": 1372
+      },
+      {
+        "cid": 26308512238,
+        "page": 17,
+        "part": "16 导数的定义",
+        "duration": 2840
+      },
+      {
+        "cid": 26308641156,
+        "page": 18,
+        "part": "17 导数几何含义",
+        "duration": 790
+      },
+      {
+        "cid": 26308643733,
+        "page": 19,
+        "part": "18 可导与连续关系",
+        "duration": 739
+      },
+      {
+        "cid": 26308708428,
+        "page": 20,
+        "part": "19 求导公式",
+        "duration": 1433
+      },
+      {
+        "cid": 26386697930,
+        "page": 21,
+        "part": "20 反函数求导",
+        "duration": 1030
+      },
+      {
+        "cid": 26386958507,
+        "page": 22,
+        "part": "21 复合函数求导",
+        "duration": 1317
+      },
+      {
+        "cid": 26386762293,
+        "page": 23,
+        "part": "22 基本求导法则与公式",
+        "duration": 721
+      },
+      {
+        "cid": 26429687651,
+        "page": 24,
+        "part": "23高阶导数",
+        "duration": 1936
+      },
+      {
+        "cid": 26387087890,
+        "page": 25,
+        "part": "24 隐函数求导对数求导",
+        "duration": 2116
+      },
+      {
+        "cid": 26427592519,
+        "page": 26,
+        "part": "25 参数方程求导",
+        "duration": 1355
+      },
+      {
+        "cid": 26418414288,
+        "page": 27,
+        "part": "26 微分",
+        "duration": 1933
+      },
+      {
+        "cid": 26418482505,
+        "page": 28,
+        "part": "27 微分在近似计算应用",
+        "duration": 1094
+      },
+      {
+        "cid": 26454066043,
+        "page": 29,
+        "part": "28 微分中值定理",
+        "duration": 2331
+      },
+      {
+        "cid": 26473336526,
+        "page": 30,
+        "part": "29 洛必达法则",
+        "duration": 3460
+      },
+      {
+        "cid": 26526027020,
+        "page": 31,
+        "part": "30 泰勒公式",
+        "duration": 2694
+      },
+      {
+        "cid": 26474316010,
+        "page": 32,
+        "part": "31 函数单调性",
+        "duration": 1797
+      },
+      {
+        "cid": 26526289654,
+        "page": 33,
+        "part": "32 凸凹性拐点",
+        "duration": 2542
+      },
+      {
+        "cid": 26534281909,
+        "page": 34,
+        "part": "33 极值",
+        "duration": 1962
+      },
+      {
+        "cid": 26633963945,
+        "page": 35,
+        "part": "34 最值",
+        "duration": 738
+      },
+      {
+        "cid": 26634027682,
+        "page": 36,
+        "part": "35 函数图形的绘制",
+        "duration": 1562
+      },
+      {
+        "cid": 26634291424,
+        "page": 37,
+        "part": "36 曲率",
+        "duration": 174
+      },
+      {
+        "cid": 26630557130,
+        "page": 38,
+        "part": "37 不定积分的定义",
+        "duration": 2409
+      },
+      {
+        "cid": 26631800573,
+        "page": 39,
+        "part": "38 不定积分的性质",
+        "duration": 1153
+      },
+      {
+        "cid": 26756383126,
+        "page": 40,
+        "part": "39 第一换元积分法",
+        "duration": 3240
+      },
+      {
+        "cid": 26763595281,
+        "page": 41,
+        "part": "40 第二换元积分法",
+        "duration": 3709
+      },
+      {
+        "cid": 26731089279,
+        "page": 42,
+        "part": "41 分部积分法",
+        "duration": 2953
+      },
+      {
+        "cid": 26769884447,
+        "page": 43,
+        "part": "42 有理函数的积分（上集）",
+        "duration": 2597
+      },
+      {
+        "cid": 26772178614,
+        "page": 44,
+        "part": "43 有理函数的积分（下集）",
+        "duration": 2833
+      },
+      {
+        "cid": 26842237773,
+        "page": 45,
+        "part": "44 定积分的定义",
+        "duration": 2158
+      },
+      {
+        "cid": 26844728583,
+        "page": 46,
+        "part": "45 定积分的性质",
+        "duration": 2239
+      },
+      {
+        "cid": 26909476942,
+        "page": 47,
+        "part": "46 变上限积分函数",
+        "duration": 2471
+      },
+      {
+        "cid": 26907312911,
+        "page": 48,
+        "part": "47 牛顿-莱布尼兹定理",
+        "duration": 2329
+      },
+      {
+        "cid": 27044089322,
+        "page": 49,
+        "part": "48 定积分的换元法（上集）",
+        "duration": 2580
+      },
+      {
+        "cid": 27045986370,
+        "page": 50,
+        "part": "49 定积分的换元法（下集）",
+        "duration": 2505
+      },
+      {
+        "cid": 27089112548,
+        "page": 51,
+        "part": "50 定积分分部积分法",
+        "duration": 1681
+      },
+      {
+        "cid": 27090618465,
+        "page": 52,
+        "part": "51 无穷限的反常积分",
+        "duration": 2122
+      },
+      {
+        "cid": 27158514581,
+        "page": 53,
+        "part": "52 无界函数的反常积分",
+        "duration": 3246
+      },
+      {
+        "cid": 27168473151,
+        "page": 54,
+        "part": "53 定积分应用（求面积）",
+        "duration": 1864
+      },
+      {
+        "cid": 27230405000,
+        "page": 55,
+        "part": "54 微元法",
+        "duration": 177
+      },
+      {
+        "cid": 27229947357,
+        "page": 56,
+        "part": "55 定积分应用（求面积-极坐标）",
+        "duration": 574
+      },
+      {
+        "cid": 27233289868,
+        "page": 57,
+        "part": "56 求旋转体的体积",
+        "duration": 1816
+      },
+      {
+        "cid": 27233816332,
+        "page": 58,
+        "part": "57 壳法求旋转体的体积",
+        "duration": 865
+      },
+      {
+        "cid": 27233028179,
+        "page": 59,
+        "part": "58 求体积非旋转体的体积",
+        "duration": 1093
+      },
+      {
+        "cid": 27276216864,
+        "page": 60,
+        "part": "59 定积分应用（求平面曲线的弧长）",
+        "duration": 1936
+      },
+      {
+        "cid": 27298104209,
+        "page": 61,
+        "part": "60 微分方程的基本概念",
+        "duration": 1901
+      },
+      {
+        "cid": 27305248867,
+        "page": 62,
+        "part": "61 可分离变量的微分方程",
+        "duration": 1726
+      },
+      {
+        "cid": 27312197399,
+        "page": 63,
+        "part": "62 齐次方程",
+        "duration": 1365
+      },
+      {
+        "cid": 27323009036,
+        "page": 64,
+        "part": "63 一阶线性微分方程",
+        "duration": 2634
+      },
+      {
+        "cid": 27324779307,
+        "page": 65,
+        "part": "64 伯努利方程",
+        "duration": 750
+      },
+      {
+        "cid": 27325632098,
+        "page": 66,
+        "part": "65 可降阶的高阶微分方程",
+        "duration": 2026
+      },
+      {
+        "cid": 27330219147,
+        "page": 67,
+        "part": "66 二阶常系数齐次线性微分方程（理论）",
+        "duration": 2498
+      },
+      {
+        "cid": 27329824216,
+        "page": 68,
+        "part": "67 二阶常系数齐次线性微分方程（做题）",
+        "duration": 1075
+      },
+      {
+        "cid": 27354859670,
+        "page": 69,
+        "part": "68 常系数非齐次线性微分方程（观察法）",
+        "duration": 595
+      },
+      {
+        "cid": 28471397608,
+        "page": 70,
+        "part": "69 向量 线性运算 空间直角坐标系 向量模",
+        "duration": 4412
+      },
+      {
+        "cid": 28475000193,
+        "page": 71,
+        "part": "70 方向角 方向余弦 数量积 向量积",
+        "duration": 3790
+      },
+      {
+        "cid": 28479850816,
+        "page": 72,
+        "part": "71 曲面方程 平面方程 直线方程",
+        "duration": 5885
+      },
+      {
+        "cid": 37350148716,
+        "page": 73,
+        "part": "习题讲解1【向量代数与空间解析几何】",
+        "duration": 4234
+      },
+      {
+        "cid": 28488959713,
+        "page": 74,
+        "part": "72 曲面基本问题 旋转曲面 柱面",
+        "duration": 2927
+      },
+      {
+        "cid": 28513470807,
+        "page": 75,
+        "part": "73 平面点集 多元函数概念 极限 连续",
+        "duration": 2484
+      },
+      {
+        "cid": 29070264763,
+        "page": 76,
+        "part": "偏导数",
+        "duration": 2077
+      },
+      {
+        "cid": 29070328448,
+        "page": 77,
+        "part": "高阶偏导数",
+        "duration": 1112
+      },
+      {
+        "cid": 28513538040,
+        "page": 78,
+        "part": "全微分",
+        "duration": 2243
+      },
+      {
+        "cid": 29186787149,
+        "page": 79,
+        "part": "多元复合函数求导",
+        "duration": 4051
+      },
+      {
+        "cid": 28611248417,
+        "page": 80,
+        "part": "全微分形式不变性",
+        "duration": 735
+      },
+      {
+        "cid": 28611316064,
+        "page": 81,
+        "part": "隐函数求导",
+        "duration": 2439
+      },
+      {
+        "cid": 28618982712,
+        "page": 82,
+        "part": "一元向量值函数及其导数",
+        "duration": 836
+      },
+      {
+        "cid": 28618981597,
+        "page": 83,
+        "part": "空间曲线的切线和法平面",
+        "duration": 1136
+      },
+      {
+        "cid": 28619112529,
+        "page": 84,
+        "part": "曲面的切平面和法线",
+        "duration": 1786
+      },
+      {
+        "cid": 28619311748,
+        "page": 85,
+        "part": "方向导数与梯度",
+        "duration": 6598
+      },
+      {
+        "cid": 28620164724,
+        "page": 86,
+        "part": "多元函数的极值",
+        "duration": 2115
+      },
+      {
+        "cid": 28674162693,
+        "page": 87,
+        "part": "二重积分的定义与性质",
+        "duration": 2142
+      },
+      {
+        "cid": 28674428084,
+        "page": 88,
+        "part": "二重积分｜直角坐标",
+        "duration": 5321
+      },
+      {
+        "cid": 28675148156,
+        "page": 89,
+        "part": "二重积分｜极坐标",
+        "duration": 3165
+      },
+      {
+        "cid": 29934422699,
+        "page": 90,
+        "part": "二重积分的换元法",
+        "duration": 1977
+      },
+      {
+        "cid": 28675476968,
+        "page": 91,
+        "part": "三重积分",
+        "duration": 5428
+      },
+      {
+        "cid": 28677308451,
+        "page": 92,
+        "part": "第一二曲线积分",
+        "duration": 5767
+      },
+      {
+        "cid": 28695068704,
+        "page": 93,
+        "part": "两类曲线积分之间的联系",
+        "duration": 3039
+      },
+      {
+        "cid": 29021900580,
+        "page": 94,
+        "part": "格林公式&积分与路径无关条件",
+        "duration": 3385
+      },
+      {
+        "cid": 29431959321,
+        "page": 95,
+        "part": "对面积的曲面积分",
+        "duration": 3017
+      },
+      {
+        "cid": 29433266784,
+        "page": 96,
+        "part": "对坐标的曲面积分",
+        "duration": 4740
+      },
+      {
+        "cid": 29434645042,
+        "page": 97,
+        "part": "两种曲面积分之间的联系",
+        "duration": 2432
+      },
+      {
+        "cid": 29435232378,
+        "page": 98,
+        "part": "高斯公式与斯托克斯公式",
+        "duration": 4816
+      },
+      {
+        "cid": 29019144193,
+        "page": 99,
+        "part": "常数项级数的概念与性质",
+        "duration": 2784
+      },
+      {
+        "cid": 29019341262,
+        "page": 100,
+        "part": "常数项级数的敛散性判断",
+        "duration": 6515
+      },
+      {
+        "cid": 29964767127,
+        "page": 101,
+        "part": "幂级数（1）",
+        "duration": 4553
+      },
+      {
+        "cid": 30051600999,
+        "page": 102,
+        "part": "幂级数（2）",
+        "duration": 4679
+      },
+      {
+        "cid": 30087184926,
+        "page": 103,
+        "part": "函数的幂级数展开",
+        "duration": 4159
+      },
+      {
+        "cid": 29100148341,
+        "page": 104,
+        "part": "【黑板】定积分的定义与性质",
+        "duration": 4368
+      },
+      {
+        "cid": 29102047294,
+        "page": 105,
+        "part": "【黑板】积分上限函数与牛顿莱布尼兹公式",
+        "duration": 3349
+      },
+      {
+        "cid": 29103097088,
+        "page": 106,
+        "part": "【黑板】定积分的换元法与分部积分法",
+        "duration": 5333
+      },
+      {
+        "cid": 29103950153,
+        "page": 107,
+        "part": "【黑板】反常积分",
+        "duration": 3938
+      },
+      {
+        "cid": 29105128626,
+        "page": 108,
+        "part": "【黑板】元素法和求平面图形的面积",
+        "duration": 2076
+      },
+      {
+        "cid": 29106374347,
+        "page": 109,
+        "part": "【黑板】极坐标下图形面积",
+        "duration": 1617
+      },
+      {
+        "cid": 29108275615,
+        "page": 110,
+        "part": "【黑板】求体积",
+        "duration": 3614
+      },
+      {
+        "cid": 29110503009,
+        "page": 111,
+        "part": "【黑板】平面曲线的弧长",
+        "duration": 1540
+      },
+      {
+        "cid": 29123349766,
+        "page": 112,
+        "part": "【黑板】微分方程的基本概念",
+        "duration": 659
+      },
+      {
+        "cid": 29123809265,
+        "page": 113,
+        "part": "【黑板】可分离变量和齐次方程",
+        "duration": 1980
+      },
+      {
+        "cid": 29125577159,
+        "page": 114,
+        "part": "【黑板】可降阶的高阶微分方程",
+        "duration": 1594
+      },
+      {
+        "cid": 29126558305,
+        "page": 115,
+        "part": "【黑板】二阶线性微分方程",
+        "duration": 1564
+      },
+      {
+        "cid": 29127477936,
+        "page": 116,
+        "part": "【黑板】常系数齐次线性微分方程",
+        "duration": 2232
+      },
+      {
+        "cid": 29131407426,
+        "page": 117,
+        "part": "【黑板】向量的概念运算和空间直角坐标系",
+        "duration": 3298
+      },
+      {
+        "cid": 29130296996,
+        "page": 118,
+        "part": "【黑板】向量的模｜方向角｜方向余弦｜投影",
+        "duration": 2408
+      },
+      {
+        "cid": 29142092843,
+        "page": 119,
+        "part": "【黑板】数量积与向量积",
+        "duration": 3024
+      },
+      {
+        "cid": 29136127606,
+        "page": 120,
+        "part": "【黑板】平面及其方程",
+        "duration": 2749
+      },
+      {
+        "cid": 29181087295,
+        "page": 121,
+        "part": "【黑板】直线及其方程",
+        "duration": 4409
+      },
+      {
+        "cid": 29218571165,
+        "page": 122,
+        "part": "【黑板】曲面",
+        "duration": 3282
+      },
+      {
+        "cid": 29220930412,
+        "page": 123,
+        "part": "【黑板】空间曲线",
+        "duration": 1440
+      },
+      {
+        "cid": 29224076655,
+        "page": 124,
+        "part": "【黑板】平面点集",
+        "duration": 1450
+      },
+      {
+        "cid": 29293478105,
+        "page": 125,
+        "part": "【黑板】二元函数定义 极限 连续",
+        "duration": 2232
+      },
+      {
+        "cid": 29293805923,
+        "page": 126,
+        "part": "【黑板】偏导数",
+        "duration": 2640
+      },
+      {
+        "cid": 29294201392,
+        "page": 127,
+        "part": "【黑板】高阶偏导数",
+        "duration": 1215
+      },
+      {
+        "cid": 29321660963,
+        "page": 128,
+        "part": "【黑板】全微分",
+        "duration": 2807
+      },
+      {
+        "cid": 29436019154,
+        "page": 129,
+        "part": "【黑板】多元复合函数求导（1）",
+        "duration": 2243
+      },
+      {
+        "cid": 29436674890,
+        "page": 130,
+        "part": "【黑板】多元复合函数求导（2）",
+        "duration": 2846
+      },
+      {
+        "cid": 29591736191,
+        "page": 131,
+        "part": "【补充】克莱姆法则",
+        "duration": 490
+      },
+      {
+        "cid": 29455945687,
+        "page": 132,
+        "part": "【黑板】隐函数求导",
+        "duration": 2310
+      },
+      {
+        "cid": 29463088902,
+        "page": 133,
+        "part": "【黑板】多元函数微分学的几何应用",
+        "duration": 4814
+      },
+      {
+        "cid": 29547761357,
+        "page": 134,
+        "part": "【黑板】方向导数与梯度",
+        "duration": 5140
+      },
+      {
+        "cid": 29590029781,
+        "page": 135,
+        "part": "【黑板】极值",
+        "duration": 4628
+      },
+      {
+        "cid": 29680207412,
+        "page": 136,
+        "part": "【黑板】二重积分的定义和性质",
+        "duration": 2904
+      },
+      {
+        "cid": 29862528874,
+        "page": 137,
+        "part": "【黑板】二重积分{直角坐标系}",
+        "duration": 6007
+      },
+      {
+        "cid": 29972299811,
+        "page": 138,
+        "part": "【黑板】二重积分{极坐标}",
+        "duration": 5249
+      },
+      {
+        "cid": 29976431579,
+        "page": 139,
+        "part": "【黑板】三重积分",
+        "duration": 5378
+      },
+      {
+        "cid": 30085940417,
+        "page": 140,
+        "part": "【黑板】多重积分的应用",
+        "duration": 2494
+      },
+      {
+        "cid": 30089217845,
+        "page": 141,
+        "part": "【黑板】第一型曲线积分",
+        "duration": 3526
+      },
+      {
+        "cid": 30091444830,
+        "page": 142,
+        "part": "【黑板】第二型曲线积分",
+        "duration": 3476
+      },
+      {
+        "cid": 30203710944,
+        "page": 143,
+        "part": "【黑板】格林公式及应用",
+        "duration": 6484
+      },
+      {
+        "cid": 30204365110,
+        "page": 144,
+        "part": "【黑板】常数项级数的概念和性质",
+        "duration": 3440
+      },
+      {
+        "cid": 30327638634,
+        "page": 145,
+        "part": "【黑板】正项级数的敛散性",
+        "duration": 5347
+      },
+      {
+        "cid": 30407266071,
+        "page": 146,
+        "part": "【黑板】交错级数",
+        "duration": 1570
+      },
+      {
+        "cid": 30408509791,
+        "page": 147,
+        "part": "【黑板】幂级数求收敛半径和收敛域",
+        "duration": 3362
+      },
+      {
+        "cid": 30499016269,
+        "page": 148,
+        "part": "【黑板】幂级数求和函数",
+        "duration": 2880
+      },
+      {
+        "cid": 30515855778,
+        "page": 149,
+        "part": "【黑板】函数的幂级数展开",
+        "duration": 2386
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1ua4y1V7yK",
+    "title": "【必收藏·全套CaTICs网络赛题·每日一练】SolidWorks下的CaTICs网络3D大赛超详解析(1-19届)",
+    "author": "SolidWorks老白",
+    "description": "第一至第十九届CaTICs网络大赛赛题全面解析，每天一更=每日一练，建模搞起来，需要全套请加UP猪微信laobai052，记得一键三连哟，一键三连之后才能免费白嫖全部图纸~",
+    "folder": "CAD机械设计",
+    "url": "https://www.bilibili.com/video/BV1ua4y1V7yK",
+    "duration": 123023,
+    "pubdate": 1682433767,
+    "stat": {
+      "aid": 655376571,
+      "view": 161993,
+      "danmaku": 309,
+      "reply": 550,
+      "favorite": 7462,
+      "coin": 4096,
+      "share": 2241,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3953,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 1108945869,
+        "page": 1,
+        "part": "第1届·3D01·01",
+        "duration": 716
+      },
+      {
+        "cid": 1109105570,
+        "page": 2,
+        "part": "第1届·3D01·02",
+        "duration": 1236
+      },
+      {
+        "cid": 1110114440,
+        "page": 3,
+        "part": "第1届·3D01·03",
+        "duration": 485
+      },
+      {
+        "cid": 1110115185,
+        "page": 4,
+        "part": "第1届·3D01·04",
+        "duration": 684
+      },
+      {
+        "cid": 1111882923,
+        "page": 5,
+        "part": "第2届·3D02·01",
+        "duration": 604
+      },
+      {
+        "cid": 1111883332,
+        "page": 6,
+        "part": "第2届·3D02·02",
+        "duration": 533
+      },
+      {
+        "cid": 1114414468,
+        "page": 7,
+        "part": "第2届·3D02·03",
+        "duration": 671
+      },
+      {
+        "cid": 1115293408,
+        "page": 8,
+        "part": "第2届·3D02·04",
+        "duration": 664
+      },
+      {
+        "cid": 1115293610,
+        "page": 9,
+        "part": "第2届·3D02·05",
+        "duration": 547
+      },
+      {
+        "cid": 1116204785,
+        "page": 10,
+        "part": "第2届·3D02·06",
+        "duration": 803
+      },
+      {
+        "cid": 1117132821,
+        "page": 11,
+        "part": "第2届·3D02·07",
+        "duration": 683
+      },
+      {
+        "cid": 1117132890,
+        "page": 12,
+        "part": "第3届·3D03·01",
+        "duration": 271
+      },
+      {
+        "cid": 1117132980,
+        "page": 13,
+        "part": "第3届·3D03·02",
+        "duration": 416
+      },
+      {
+        "cid": 1118352769,
+        "page": 14,
+        "part": "第3届·3D03·03",
+        "duration": 313
+      },
+      {
+        "cid": 1118400363,
+        "page": 15,
+        "part": "第3届·3D03·04",
+        "duration": 442
+      },
+      {
+        "cid": 1118416397,
+        "page": 16,
+        "part": "第3届·3D03·05",
+        "duration": 463
+      },
+      {
+        "cid": 1120755218,
+        "page": 17,
+        "part": "第3届·3D03·06",
+        "duration": 807
+      },
+      {
+        "cid": 1121457996,
+        "page": 18,
+        "part": "第3届·3D03·07",
+        "duration": 381
+      },
+      {
+        "cid": 1121845233,
+        "page": 19,
+        "part": "第4届·3D04·01",
+        "duration": 255
+      },
+      {
+        "cid": 1122496100,
+        "page": 20,
+        "part": "第4届·3D04·02",
+        "duration": 424
+      },
+      {
+        "cid": 1122496367,
+        "page": 21,
+        "part": "第4届·3D04·03",
+        "duration": 500
+      },
+      {
+        "cid": 1123987633,
+        "page": 22,
+        "part": "第4届·3D04·04",
+        "duration": 574
+      },
+      {
+        "cid": 1124649083,
+        "page": 23,
+        "part": "第4届·3D04·05",
+        "duration": 402
+      },
+      {
+        "cid": 1124649179,
+        "page": 24,
+        "part": "第4届·3D04·06",
+        "duration": 432
+      },
+      {
+        "cid": 1125138236,
+        "page": 25,
+        "part": "第5届·3D05·01",
+        "duration": 427
+      },
+      {
+        "cid": 1126443345,
+        "page": 26,
+        "part": "第5届·3D05·02",
+        "duration": 227
+      },
+      {
+        "cid": 1126468290,
+        "page": 27,
+        "part": "第5届·3D05·03",
+        "duration": 536
+      },
+      {
+        "cid": 1128350857,
+        "page": 28,
+        "part": "第5届·3D05·04",
+        "duration": 588
+      },
+      {
+        "cid": 1130441877,
+        "page": 29,
+        "part": "第5届·3D05·05",
+        "duration": 373
+      },
+      {
+        "cid": 1130455624,
+        "page": 30,
+        "part": "第5届·3D05·06",
+        "duration": 366
+      },
+      {
+        "cid": 1131953369,
+        "page": 31,
+        "part": "第5届·3D05·07",
+        "duration": 423
+      },
+      {
+        "cid": 1134176627,
+        "page": 32,
+        "part": "第5届·3D05·08",
+        "duration": 467
+      },
+      {
+        "cid": 1137416525,
+        "page": 33,
+        "part": "第5届·3D05·09",
+        "duration": 589
+      },
+      {
+        "cid": 1137432495,
+        "page": 34,
+        "part": "第5届·3D05·10",
+        "duration": 583
+      },
+      {
+        "cid": 1137907812,
+        "page": 35,
+        "part": "第5届·3D05·11",
+        "duration": 268
+      },
+      {
+        "cid": 1141433346,
+        "page": 36,
+        "part": "第5届·3D05·12",
+        "duration": 746
+      },
+      {
+        "cid": 1142262859,
+        "page": 37,
+        "part": "第5届·3D05·13",
+        "duration": 478
+      },
+      {
+        "cid": 1143564156,
+        "page": 38,
+        "part": "第5届·3D05·14",
+        "duration": 384
+      },
+      {
+        "cid": 1146404494,
+        "page": 39,
+        "part": "第5届·3D05·15",
+        "duration": 786
+      },
+      {
+        "cid": 1149120906,
+        "page": 40,
+        "part": "第5届·3D05·16",
+        "duration": 787
+      },
+      {
+        "cid": 1149456202,
+        "page": 41,
+        "part": "第5届·3D05·17",
+        "duration": 548
+      },
+      {
+        "cid": 1151982795,
+        "page": 42,
+        "part": "第6届·3D06·01",
+        "duration": 590
+      },
+      {
+        "cid": 1152590192,
+        "page": 43,
+        "part": "第6届·3D06·02",
+        "duration": 477
+      },
+      {
+        "cid": 1153285179,
+        "page": 44,
+        "part": "第6届·3D06·03",
+        "duration": 432
+      },
+      {
+        "cid": 1159676051,
+        "page": 45,
+        "part": "第6届·3D06·04",
+        "duration": 700
+      },
+      {
+        "cid": 1161068589,
+        "page": 46,
+        "part": "第6届·3D06·05",
+        "duration": 393
+      },
+      {
+        "cid": 1164174875,
+        "page": 47,
+        "part": "第6届·3D06·06",
+        "duration": 789
+      },
+      {
+        "cid": 1167540049,
+        "page": 48,
+        "part": "第6届·3D06·07",
+        "duration": 846
+      },
+      {
+        "cid": 1183710307,
+        "page": 49,
+        "part": "第6届·3D06·08",
+        "duration": 384
+      },
+      {
+        "cid": 1183726363,
+        "page": 50,
+        "part": "第6届·3D06·09",
+        "duration": 402
+      },
+      {
+        "cid": 1191603776,
+        "page": 51,
+        "part": "第6届·3D06·10",
+        "duration": 529
+      },
+      {
+        "cid": 1191616578,
+        "page": 52,
+        "part": "第6届·3D06·11",
+        "duration": 319
+      },
+      {
+        "cid": 1198162248,
+        "page": 53,
+        "part": "第6届·3D06·12",
+        "duration": 631
+      },
+      {
+        "cid": 1198189481,
+        "page": 54,
+        "part": "第6届·3D06·13",
+        "duration": 700
+      },
+      {
+        "cid": 1211005389,
+        "page": 55,
+        "part": "第6届·3D06·14",
+        "duration": 719
+      },
+      {
+        "cid": 1212708965,
+        "page": 56,
+        "part": "第7届·3D07·01",
+        "duration": 410
+      },
+      {
+        "cid": 1214012561,
+        "page": 57,
+        "part": "第7届·3D07·02",
+        "duration": 418
+      },
+      {
+        "cid": 1215180611,
+        "page": 58,
+        "part": "第7届·3D07·03",
+        "duration": 426
+      },
+      {
+        "cid": 1215831480,
+        "page": 59,
+        "part": "第7届·3D07·04",
+        "duration": 626
+      },
+      {
+        "cid": 1217037847,
+        "page": 60,
+        "part": "第7届·3D07·05",
+        "duration": 389
+      },
+      {
+        "cid": 1218101093,
+        "page": 61,
+        "part": "第7届·3D07·06",
+        "duration": 392
+      },
+      {
+        "cid": 1219346856,
+        "page": 62,
+        "part": "第7届·3D07·07",
+        "duration": 544
+      },
+      {
+        "cid": 1220434690,
+        "page": 63,
+        "part": "第7届·3D07·08",
+        "duration": 844
+      },
+      {
+        "cid": 1221916150,
+        "page": 64,
+        "part": "第7届·3D07·09",
+        "duration": 1252
+      },
+      {
+        "cid": 1223853497,
+        "page": 65,
+        "part": "第7届·3D07·10",
+        "duration": 1020
+      },
+      {
+        "cid": 1224127748,
+        "page": 66,
+        "part": "第7届·3D07·11",
+        "duration": 390
+      },
+      {
+        "cid": 1224135970,
+        "page": 67,
+        "part": "第7届·3D07·12",
+        "duration": 445
+      },
+      {
+        "cid": 1225753905,
+        "page": 68,
+        "part": "第8届·3D08·01",
+        "duration": 638
+      },
+      {
+        "cid": 1226606346,
+        "page": 69,
+        "part": "第8届·3D08·02",
+        "duration": 279
+      },
+      {
+        "cid": 1227749981,
+        "page": 70,
+        "part": "第8届·3D08·03",
+        "duration": 283
+      },
+      {
+        "cid": 1228861053,
+        "page": 71,
+        "part": "第8届·3D08·04",
+        "duration": 542
+      },
+      {
+        "cid": 1229669168,
+        "page": 72,
+        "part": "第8届·3D08·05",
+        "duration": 645
+      },
+      {
+        "cid": 1230052685,
+        "page": 73,
+        "part": "第8届·3D08·06",
+        "duration": 637
+      },
+      {
+        "cid": 1231220410,
+        "page": 74,
+        "part": "第8届·3D08·07",
+        "duration": 582
+      },
+      {
+        "cid": 1232287480,
+        "page": 75,
+        "part": "第8届·3D08·08",
+        "duration": 517
+      },
+      {
+        "cid": 1234640160,
+        "page": 76,
+        "part": "第8届·3D08·09",
+        "duration": 611
+      },
+      {
+        "cid": 1234640555,
+        "page": 77,
+        "part": "第8届·3D08·10",
+        "duration": 568
+      },
+      {
+        "cid": 1235744043,
+        "page": 78,
+        "part": "第8届·3D08·11",
+        "duration": 2348
+      },
+      {
+        "cid": 1235760242,
+        "page": 79,
+        "part": "第8届·3D08·12",
+        "duration": 1917
+      },
+      {
+        "cid": 1235745410,
+        "page": 80,
+        "part": "第8届·3D08·13",
+        "duration": 1823
+      },
+      {
+        "cid": 1237691940,
+        "page": 81,
+        "part": "第9届·3D09·01",
+        "duration": 616
+      },
+      {
+        "cid": 1241002659,
+        "page": 82,
+        "part": "第9届·3D09·02",
+        "duration": 779
+      },
+      {
+        "cid": 1236894485,
+        "page": 83,
+        "part": "第9届·3D09·03",
+        "duration": 1254
+      },
+      {
+        "cid": 1241936031,
+        "page": 84,
+        "part": "第9届·3D09·04",
+        "duration": 799
+      },
+      {
+        "cid": 1242640927,
+        "page": 85,
+        "part": "第9届·3D09·05",
+        "duration": 769
+      },
+      {
+        "cid": 1236895405,
+        "page": 86,
+        "part": "第9届·3D09·06",
+        "duration": 1708
+      },
+      {
+        "cid": 1244855550,
+        "page": 87,
+        "part": "第9届·3D09·07",
+        "duration": 1148
+      },
+      {
+        "cid": 1237426295,
+        "page": 88,
+        "part": "第9届·3D09·08",
+        "duration": 1001
+      },
+      {
+        "cid": 1243815599,
+        "page": 89,
+        "part": "第9届·3D09·09",
+        "duration": 481
+      },
+      {
+        "cid": 1238077912,
+        "page": 90,
+        "part": "第9届·3D09·10",
+        "duration": 1840
+      },
+      {
+        "cid": 1246023534,
+        "page": 91,
+        "part": "第9届·3D09·11",
+        "duration": 569
+      },
+      {
+        "cid": 1246046544,
+        "page": 92,
+        "part": "第9届·3D09·12",
+        "duration": 908
+      },
+      {
+        "cid": 1239247596,
+        "page": 93,
+        "part": "第9届·3D09·13",
+        "duration": 2832
+      },
+      {
+        "cid": 1239278291,
+        "page": 94,
+        "part": "第9届·3D09·14",
+        "duration": 4787
+      },
+      {
+        "cid": 1247143890,
+        "page": 95,
+        "part": "第10届·3D10·01",
+        "duration": 614
+      },
+      {
+        "cid": 1245973084,
+        "page": 96,
+        "part": "第11届·3D11·02",
+        "duration": 1227
+      },
+      {
+        "cid": 1250282244,
+        "page": 97,
+        "part": "第10届·3D10·02",
+        "duration": 417
+      },
+      {
+        "cid": 1251393578,
+        "page": 98,
+        "part": "第10届·3D10·03",
+        "duration": 1002
+      },
+      {
+        "cid": 1252423402,
+        "page": 99,
+        "part": "第10届·3D10·04",
+        "duration": 683
+      },
+      {
+        "cid": 1258734100,
+        "page": 100,
+        "part": "第10届·3D10·05",
+        "duration": 953
+      },
+      {
+        "cid": 1256602097,
+        "page": 101,
+        "part": "第10届·3D10·06",
+        "duration": 835
+      },
+      {
+        "cid": 1259661066,
+        "page": 102,
+        "part": "第10届·3D10·07",
+        "duration": 1245
+      },
+      {
+        "cid": 1257713840,
+        "page": 103,
+        "part": "第10届·3D10·08",
+        "duration": 448
+      },
+      {
+        "cid": 1260631967,
+        "page": 104,
+        "part": "第10届·3D10·09",
+        "duration": 810
+      },
+      {
+        "cid": 1262079528,
+        "page": 105,
+        "part": "第10届·3D10·10",
+        "duration": 738
+      },
+      {
+        "cid": 1262644958,
+        "page": 106,
+        "part": "第10届·3D10·11",
+        "duration": 554
+      },
+      {
+        "cid": 1263661778,
+        "page": 107,
+        "part": "第11届·3D11·01",
+        "duration": 762
+      },
+      {
+        "cid": 1263663037,
+        "page": 108,
+        "part": "第11届·3D11·02",
+        "duration": 1227
+      },
+      {
+        "cid": 1247170319,
+        "page": 109,
+        "part": "第11届·3D11·03",
+        "duration": 1547
+      },
+      {
+        "cid": 1248133486,
+        "page": 110,
+        "part": "第11届·3D11·04",
+        "duration": 1241
+      },
+      {
+        "cid": 1265831164,
+        "page": 111,
+        "part": "第11届·3D11·05",
+        "duration": 719
+      },
+      {
+        "cid": 1267502292,
+        "page": 112,
+        "part": "第11届·3D11·06",
+        "duration": 1428
+      },
+      {
+        "cid": 1249086204,
+        "page": 113,
+        "part": "第11届·3D11·07",
+        "duration": 1325
+      },
+      {
+        "cid": 1268506792,
+        "page": 114,
+        "part": "第11届·3D11·08",
+        "duration": 801
+      },
+      {
+        "cid": 1270877965,
+        "page": 115,
+        "part": "第11届·3D11·09",
+        "duration": 614
+      },
+      {
+        "cid": 1275061828,
+        "page": 116,
+        "part": "第11届·3D11·10",
+        "duration": 899
+      },
+      {
+        "cid": 1257726733,
+        "page": 117,
+        "part": "第11届·3D11·11",
+        "duration": 4293
+      },
+      {
+        "cid": 1279898623,
+        "page": 118,
+        "part": "第11届·3D11·12",
+        "duration": 1513
+      },
+      {
+        "cid": 1280918613,
+        "page": 119,
+        "part": "第12届·3D12·01",
+        "duration": 607
+      },
+      {
+        "cid": 1283760218,
+        "page": 120,
+        "part": "第12届·3D12·02",
+        "duration": 400
+      },
+      {
+        "cid": 1284023169,
+        "page": 121,
+        "part": "第12届·3D12·03",
+        "duration": 489
+      },
+      {
+        "cid": 1304013000,
+        "page": 122,
+        "part": "第12届·3D12·04",
+        "duration": 1009
+      },
+      {
+        "cid": 1317004783,
+        "page": 123,
+        "part": "第12届·3D12·05",
+        "duration": 936
+      },
+      {
+        "cid": 1324168485,
+        "page": 124,
+        "part": "第12届·3D12·06",
+        "duration": 1195
+      },
+      {
+        "cid": 1320368847,
+        "page": 125,
+        "part": "第12届·3D12·07",
+        "duration": 257
+      },
+      {
+        "cid": 1326260434,
+        "page": 126,
+        "part": "第12届·3D12·08",
+        "duration": 403
+      },
+      {
+        "cid": 1328582329,
+        "page": 127,
+        "part": "第12届·3D12·09",
+        "duration": 244
+      },
+      {
+        "cid": 1328817351,
+        "page": 128,
+        "part": "第12届·3D12·10",
+        "duration": 426
+      },
+      {
+        "cid": 1334319283,
+        "page": 129,
+        "part": "第12届·3D12·11",
+        "duration": 363
+      },
+      {
+        "cid": 1334814326,
+        "page": 130,
+        "part": "第12届·3D12·12",
+        "duration": 519
+      },
+      {
+        "cid": 1337489825,
+        "page": 131,
+        "part": "第12届·3D12·13",
+        "duration": 697
+      },
+      {
+        "cid": 1337501525,
+        "page": 132,
+        "part": "第13届·3D13·01",
+        "duration": 307
+      },
+      {
+        "cid": 1340734471,
+        "page": 133,
+        "part": "第13届·3D13·02",
+        "duration": 649
+      },
+      {
+        "cid": 1340734969,
+        "page": 134,
+        "part": "第13届·3D13·03",
+        "duration": 873
+      },
+      {
+        "cid": 1340748983,
+        "page": 135,
+        "part": "第13届·3D13·04",
+        "duration": 389
+      },
+      {
+        "cid": 1342006019,
+        "page": 136,
+        "part": "第13届·3D13·05",
+        "duration": 650
+      },
+      {
+        "cid": 1344768844,
+        "page": 137,
+        "part": "第13届·3D13·06",
+        "duration": 955
+      },
+      {
+        "cid": 1347617836,
+        "page": 138,
+        "part": "第13届·3D13·07",
+        "duration": 1450
+      },
+      {
+        "cid": 1348184883,
+        "page": 139,
+        "part": "第13届·3D13·08",
+        "duration": 357
+      },
+      {
+        "cid": 1351576499,
+        "page": 140,
+        "part": "第13届·3D13·09",
+        "duration": 439
+      },
+      {
+        "cid": 1355226850,
+        "page": 141,
+        "part": "第13届·3D13·10",
+        "duration": 513
+      },
+      {
+        "cid": 1355243741,
+        "page": 142,
+        "part": "第13届·3D13·11",
+        "duration": 201
+      },
+      {
+        "cid": 1361739543,
+        "page": 143,
+        "part": "第13届·3D13·12",
+        "duration": 615
+      },
+      {
+        "cid": 1361739823,
+        "page": 144,
+        "part": "第13届·3D13·13",
+        "duration": 309
+      },
+      {
+        "cid": 1371826865,
+        "page": 145,
+        "part": "第14届·3D14·01",
+        "duration": 534
+      },
+      {
+        "cid": 1371844447,
+        "page": 146,
+        "part": "第14届·3D14·02",
+        "duration": 609
+      },
+      {
+        "cid": 1376301850,
+        "page": 147,
+        "part": "第14届·3D14·03",
+        "duration": 275
+      },
+      {
+        "cid": 1378761789,
+        "page": 148,
+        "part": "第14届·3D14·04",
+        "duration": 831
+      },
+      {
+        "cid": 1379461001,
+        "page": 149,
+        "part": "第14届·3D14·05",
+        "duration": 436
+      },
+      {
+        "cid": 1384483139,
+        "page": 150,
+        "part": "第14届·3D14·06",
+        "duration": 778
+      },
+      {
+        "cid": 1390544192,
+        "page": 151,
+        "part": "第14届·3D14·07",
+        "duration": 1705
+      },
+      {
+        "cid": 1392203453,
+        "page": 152,
+        "part": "第14届·3D14·08",
+        "duration": 195
+      },
+      {
+        "cid": 1392203637,
+        "page": 153,
+        "part": "第14届·3D14·09",
+        "duration": 323
+      },
+      {
+        "cid": 1407451552,
+        "page": 154,
+        "part": "第14届·3D14·10",
+        "duration": 384
+      },
+      {
+        "cid": 1472413097,
+        "page": 155,
+        "part": "第14届·3D14·11",
+        "duration": 776
+      },
+      {
+        "cid": 1631601765,
+        "page": 156,
+        "part": "第14届·3D14·12",
+        "duration": 1480
+      },
+      {
+        "cid": 1632725052,
+        "page": 157,
+        "part": "第14届·3D14·13",
+        "duration": 1398
+      },
+      {
+        "cid": 1633862976,
+        "page": 158,
+        "part": "第14届·3D14·14",
+        "duration": 1369
+      },
+      {
+        "cid": 1635012007,
+        "page": 159,
+        "part": "第15届·3D15·01",
+        "duration": 745
+      },
+      {
+        "cid": 26579308390,
+        "page": 160,
+        "part": "第15届·3D15·02",
+        "duration": 1063
+      },
+      {
+        "cid": 27073972569,
+        "page": 161,
+        "part": "第15届·3D15·03",
+        "duration": 1145
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1384y1M76j",
+    "title": "我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI",
+    "author": "调皮的王登科",
+    "description": "我的数字克隆在线聊天：https://ai.greatdk.com 我使用和参考的项目： WechatExporter：BlueMatthew/WechatExporter: Wechat Chat History Exporter 微信聊天记录导出备份程序 (github.com) chatglm-6b：THUDM/ChatGLM-6B: ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model (github.com) zero_nlp：yuanzhoulvpi2017/zero_nlp: 中文nlp应用(大模型、数据、模型、训练、推理) (github.com) chatglm_finetuning：https://github.com/ssbuild/chatglm_finetuning MoeChat：Fzoss/MoeChat: 一个比较好看的WEB聊天界面UI (github.com) Alpaca: A Strong, Replicable Instruction-Following Model：Stanford CRFM LLAMA：facebookresearch/llama: Inference code for LLaMA models (github.com)",
+    "folder": "软件工具开源",
+    "url": "https://www.bilibili.com/video/BV1384y1M76j",
+    "duration": 902,
+    "pubdate": 1681044871,
+    "stat": {
+      "aid": 612344889,
+      "view": 12340,
+      "danmaku": 9,
+      "reply": 79,
+      "favorite": 750,
+      "coin": 215,
+      "share": 234,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 316,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 1089220243,
+        "page": 1,
+        "part": "我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI",
+        "duration": 902
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1Mt4y1L73Q",
+    "title": "【洋垃圾】这真是电子名片?! Orasaifu电子钱包",
+    "author": "比尔盖子SergySonono",
+    "description": "做工精美，性能合适，当小玩具还是很不错的！！！",
+    "folder": "其他待整理",
+    "url": "https://www.bilibili.com/video/BV1Mt4y1L73Q",
+    "duration": 324,
+    "pubdate": 1658635434,
+    "stat": {
+      "aid": 983790819,
+      "view": 213187,
+      "danmaku": 281,
+      "reply": 540,
+      "favorite": 3061,
+      "coin": 852,
+      "share": 327,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 5042,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 782369459,
+        "page": 1,
+        "part": "【洋垃圾】这TM是电子名片?! Orasaifu电子钱包",
+        "duration": 324
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1t1gPzeErV",
+    "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+    "author": "喵星考拉",
+    "description": "",
+    "folder": "CAD机械设计",
+    "url": "https://www.bilibili.com/video/BV1t1gPzeErV",
+    "duration": 5613,
+    "pubdate": 1752754782,
+    "stat": {
+      "aid": 114868480905994,
+      "view": 50453,
+      "danmaku": 111,
+      "reply": 178,
+      "favorite": 3223,
+      "coin": 1146,
+      "share": 541,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2276,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 31106728677,
+        "page": 1,
+        "part": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+        "duration": 5613
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1HH4y1X7fb",
+    "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+    "author": "ESP_Friends",
+    "description": "本视频展示如何使用 Arduino IDE 快速开发一个简单的物联网项目。通过手机 APP 远程控制开关，显示实时的天气信息还有发送提醒。知识点包括：Arduino IDE 的环境搭建、简单的 Wi-Fi 连接、通过 HTTP 获取实时的天气信息、GPIO 按键、RainMaker 云端的数据交互、GPIO 输出。 Arduino IDE 下载：arduino.cc/en/software 乐鑫 Arduino ESP32 文档：docs.espressif.com/projects/arduino-esp32/en/latest/index.html 稳定版本ESP32库 URL：espressif.github.io/arduino-esp32/package_esp32_index.json 百度地图 API 天气查询接口文档：lbsyun.baidu.com/faq/api?title=webapi/weather/base Arduino ESP RainMaker API 文档：docs.espressif.com/projects/arduino-esp32/en/latest/api/rainmaker.html ESP32 官方论坛：esp32.com Arduino ESP32 Github：github.com/espressif/arduino-esp32/issues",
+    "folder": "单片机电控",
+    "url": "https://www.bilibili.com/video/BV1HH4y1X7fb",
+    "duration": 1182,
+    "pubdate": 1694083219,
+    "stat": {
+      "aid": 960708729,
+      "view": 35227,
+      "danmaku": 19,
+      "reply": 226,
+      "favorite": 1597,
+      "coin": 427,
+      "share": 160,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 687,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 1260104130,
+        "page": 1,
+        "part": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+        "duration": 1182
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1RM4y1a7J5",
+    "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
+    "author": "罗大富Bigrich",
+    "description": "本套教程致力于让您通过学习 ESP32 单片机掌握单片机原理和 Arduino 的用法，边玩边学，玩到专业！ 有什么问题，欢迎小伙伴们留言私信➕群：441203097 开发套件已上架，欢迎选购：https://item.taobao.com/item.htm?ft=t&id=734212351280 课程资料的百度网盘链接：https://pan.baidu.com/s/1BpjvshNTFozBd0ubIseWWw?pwd=geek 提取码：geek 教程文档放在了这里，方便大家查阅：https://docs.geeksman.com/esp32",
+    "folder": "单片机电控",
+    "url": "https://www.bilibili.com/video/BV1RM4y1a7J5",
+    "duration": 31021,
+    "pubdate": 1686307387,
+    "stat": {
+      "aid": 912006995,
+      "view": 1390606,
+      "danmaku": 3339,
+      "reply": 1787,
+      "favorite": 62871,
+      "coin": 14165,
+      "share": 9743,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 21629,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 1158233199,
+        "page": 1,
+        "part": "1. Arduino 开发 ESP32 简介",
+        "duration": 196
+      },
+      {
+        "cid": 1158236369,
+        "page": 2,
+        "part": "2. 安装 ESP32 Arduino 开发环境",
+        "duration": 208
+      },
+      {
+        "cid": 1158239798,
+        "page": 3,
+        "part": "3. 注释与变量",
+        "duration": 306
+      },
+      {
+        "cid": 1158244709,
+        "page": 4,
+        "part": "4. 条件语句与循环语句",
+        "duration": 375
+      },
+      {
+        "cid": 1158250326,
+        "page": 5,
+        "part": "5. 数组和函数",
+        "duration": 455
+      },
+      {
+        "cid": 1316346195,
+        "page": 6,
+        "part": "6. 面包板与杜邦线",
+        "duration": 373
+      },
+      {
+        "cid": 1315194563,
+        "page": 7,
+        "part": "7. 点亮一颗 LED",
+        "duration": 324
+      },
+      {
+        "cid": 1160389535,
+        "page": 8,
+        "part": "8. LED 流水灯",
+        "duration": 634
+      },
+      {
+        "cid": 1161503761,
+        "page": 9,
+        "part": "9. 数码管显示",
+        "duration": 1045
+      },
+      {
+        "cid": 1162628951,
+        "page": 10,
+        "part": "10. 4位数码管显示",
+        "duration": 1255
+      },
+      {
+        "cid": 1163643862,
+        "page": 11,
+        "part": "11. 动态扫描",
+        "duration": 420
+      },
+      {
+        "cid": 1164684561,
+        "page": 12,
+        "part": "12. 按键实验",
+        "duration": 960
+      },
+      {
+        "cid": 1164685673,
+        "page": 13,
+        "part": "13. 宏定义",
+        "duration": 219
+      },
+      {
+        "cid": 1165758405,
+        "page": 14,
+        "part": "14. PWM 呼吸灯",
+        "duration": 706
+      },
+      {
+        "cid": 1166865096,
+        "page": 15,
+        "part": "15. ADC 模数转换器实验",
+        "duration": 1102
+      },
+      {
+        "cid": 1237443540,
+        "page": 16,
+        "part": "16. I2C 控制 LCD1602",
+        "duration": 1133
+      },
+      {
+        "cid": 1170077124,
+        "page": 17,
+        "part": "17. 在 VSCode 中使用 PlatformIO 开发",
+        "duration": 1130
+      },
+      {
+        "cid": 1172203991,
+        "page": 18,
+        "part": "18. SPI 控制 OLED 液晶屏",
+        "duration": 1699
+      },
+      {
+        "cid": 1173080516,
+        "page": 19,
+        "part": "19. 动态进度条动画",
+        "duration": 443
+      },
+      {
+        "cid": 1176281734,
+        "page": 20,
+        "part": "20. U8G2 控制 OLED",
+        "duration": 1362
+      },
+      {
+        "cid": 1177561755,
+        "page": 21,
+        "part": "21. OLED 按键控制菜单",
+        "duration": 1029
+      },
+      {
+        "cid": 1178326672,
+        "page": 22,
+        "part": "22. 外部中断",
+        "duration": 1020
+      },
+      {
+        "cid": 1179468941,
+        "page": 23,
+        "part": "23. 定时器中断",
+        "duration": 1005
+      },
+      {
+        "cid": 1315271951,
+        "page": 24,
+        "part": "24. 舵机实验",
+        "duration": 1064
+      },
+      {
+        "cid": 1182678264,
+        "page": 25,
+        "part": "25. WiFi 模块",
+        "duration": 1108
+      },
+      {
+        "cid": 1183777886,
+        "page": 26,
+        "part": "26. 发送网络请求",
+        "duration": 1583
+      },
+      {
+        "cid": 1184943511,
+        "page": 27,
+        "part": "27. ULN2003 控制步进电机",
+        "duration": 1649
+      },
+      {
+        "cid": 1187402796,
+        "page": 28,
+        "part": "28. PS2 双轴摇杆模块",
+        "duration": 1021
+      },
+      {
+        "cid": 1188442902,
+        "page": 29,
+        "part": "29. 8x8 点阵屏",
+        "duration": 705
+      },
+      {
+        "cid": 1189543516,
+        "page": 30,
+        "part": "30. 点阵屏显示图像",
+        "duration": 555
+      },
+      {
+        "cid": 1191793474,
+        "page": 31,
+        "part": "31. PS2 摇杆控制点阵屏",
+        "duration": 548
+      },
+      {
+        "cid": 1333225609,
+        "page": 32,
+        "part": "32. 继电器模块",
+        "duration": 434
+      },
+      {
+        "cid": 1196473485,
+        "page": 33,
+        "part": "33. 蜂鸣器实验",
+        "duration": 1165
+      },
+      {
+        "cid": 1203652870,
+        "page": 34,
+        "part": "34. 4x4 矩阵键盘(上)",
+        "duration": 981
+      },
+      {
+        "cid": 1203666142,
+        "page": 35,
+        "part": "35. 4x4 矩阵键盘(下)",
+        "duration": 798
+      },
+      {
+        "cid": 1207070424,
+        "page": 36,
+        "part": "36. SD 卡模块",
+        "duration": 1489
+      },
+      {
+        "cid": 1208276696,
+        "page": 37,
+        "part": "37. 串口通信",
+        "duration": 522
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1WV411977W",
+    "title": "单网口主机畅玩ALL IN ONE！PVE虚拟机下部署OpenWRT软路由+群晖7.2 NAS+Windows+Linux等，实现NAS存储+路由+虚拟机完全体",
+    "author": "我是阿皮啊-",
+    "description": "往期出过多网口版本的PVE和ESXI搭建AIO的教程，借这个机会，本期就来演示一下，使用一台单网口主机，在PVE系统上部署软路由、群晖NAS、Windows和Linux系统的完整教程。 PVE虚拟机系统开源免费，并且对大小核兼容完美，非常适合用来实现AIO功能。 如果你手上有单网口的高性能主机，也想尝试AIO，那么不妨跟着视频来搭建，搭建效果如图所求、 首先是软路由OpenWRT，因为是单网口，所以以旁路由形式来搭建，接着搭建群晖NAS系统，也是家用NAS系统天花板了，群晖系统可以帮你存储资料、照片管理、Docker容器等、至于Windows系统，可以实现远程桌面，想怎么玩都行，还有Linxu系统等等都可以部署。 本期视频将近一小时，看在我这么辛苦水视频，看在我这么辛苦肝视频的份上，彦祖们来个关注、点个赞，投个币就更好了。 详看视频~三连~",
+    "folder": "软件工具开源",
+    "url": "https://www.bilibili.com/video/BV1WV411977W",
+    "duration": 3375,
+    "pubdate": 1705810177,
+    "stat": {
+      "aid": 411544006,
+      "view": 47923,
+      "danmaku": 144,
+      "reply": 425,
+      "favorite": 2393,
+      "coin": 1152,
+      "share": 181,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1465,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 1413878254,
+        "page": 1,
+        "part": "单网口主机畅玩ALL IN ONE！PVE虚拟机下部署OpenWRT软路由+群晖7.2 NAS+Windows+Linux等，实现NAS存储+路由+虚拟机完全体",
+        "duration": 3375
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  },
+  {
+    "bvid": "BV1zu4y1g7LY",
+    "title": "办公、NAS我都要 虚拟机&Docker一个不能少 基于Debian 12深度Deepin系统下一键部署”DIY NAS“ All in One 方案",
+    "author": "悟空的日常",
+    "description": "https://github.com/wukongdaily/diy-nas-onescript 其他地址会补充到评论区置顶。",
+    "folder": "软件工具开源",
+    "url": "https://www.bilibili.com/video/BV1zu4y1g7LY",
+    "duration": 1984,
+    "pubdate": 1701872049,
+    "stat": {
+      "aid": 921827717,
+      "view": 154031,
+      "danmaku": 384,
+      "reply": 707,
+      "favorite": 6681,
+      "coin": 3504,
+      "share": 411,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 4320,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "pages": [
+      {
+        "cid": 1356737096,
+        "page": 1,
+        "part": "办公、NAS我都要 虚拟机&Docker一个不能少 基于Debian 12深度Deepin系统下一键部署”DIY NAS“ All in One 方案",
+        "duration": 1984
+      }
+    ],
+    "tag": "",
+    "subtitle": null,
+    "transcriptCharCount": 0,
+    "transcriptSample": ""
+  }
+]

@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>视频收藏看板</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="筛选">
+        <div class="brand">
+          <div class="brand-mark">AI</div>
+          <div>
+            <h1>视频收藏</h1>
+            <p>多平台收藏看板</p>
+          </div>
+        </div>
+
+        <label class="search">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="Codex / MCP / 工程" />
+        </label>
+
+        <section class="filter-group">
+          <div class="filter-title">平台</div>
+          <div id="platformFilters" class="filter-list"></div>
+        </section>
+
+        <section class="filter-group">
+          <div class="filter-title">分类</div>
+          <div id="categoryFilters" class="filter-list"></div>
+        </section>
+
+        <section class="filter-group">
+          <div class="filter-title">价值</div>
+          <div id="valueFilters" class="filter-list"></div>
+        </section>
+
+        <section class="filter-group">
+          <div class="filter-title">更新时间</div>
+          <div id="dateFilters" class="filter-list"></div>
+        </section>
+
+        <section class="stats">
+          <div><strong id="statCount">0</strong><span>视频</span></div>
+          <div><strong id="statHours">0h</strong><span>总时长</span></div>
+          <div><strong id="statHigh">0</strong><span>高价值</span></div>
+          <div><strong id="statTranscript">0</strong><span>转写稿</span></div>
+        </section>
+
+        <button id="themeToggle" class="theme-toggle" type="button" aria-label="切换明暗模式">
+          <span class="theme-icon">☾</span>
+          <span id="themeText">暗色</span>
+        </button>
+      </aside>
+
+      <main class="content">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Video Collection Review</p>
+            <h2>收藏内容工作台</h2>
+          </div>
+          <div class="toolbar">
+            <button id="sortPriority" class="tool-button active" type="button">优先级</button>
+            <button id="sortViews" class="tool-button" type="button">播放量</button>
+            <button id="sortDuration" class="tool-button" type="button">时长</button>
+          </div>
+        </header>
+
+        <section id="videoList" class="video-list" aria-label="视频列表"></section>
+      </main>
+
+      <aside class="detail" aria-label="视频详情">
+        <button id="closeDetail" class="close-detail" type="button" aria-label="关闭详情">×</button>
+        <div class="detail-cover-wrap">
+          <img id="detailCover" class="detail-cover" alt="" />
+          <div id="detailValue" class="value-badge"></div>
+        </div>
+        <div class="detail-body">
+          <div class="detail-meta">
+            <span id="detailCategory"></span>
+            <span id="detailDuration"></span>
+          </div>
+          <h2 id="detailTitle"></h2>
+          <p id="detailAuthor" class="author"></p>
+
+          <div class="detail-actions">
+            <a id="detailLink" class="primary-link" target="_blank" rel="noreferrer">打开原视频</a>
+            <button id="copySummary" class="secondary-button" type="button">复制摘要</button>
+          </div>
+
+          <section class="detail-section">
+            <h3>内容总结</h3>
+            <p id="detailSummary"></p>
+          </section>
+
+          <section class="detail-section">
+            <h3>关键要点</h3>
+            <ul id="detailKeyPoints"></ul>
+          </section>
+
+          <section id="namedItemsSection" class="detail-section">
+            <h3>具体清单</h3>
+            <div id="detailNamedItems" class="named-items"></div>
+          </section>
+
+          <section class="detail-section">
+            <h3>工具链</h3>
+            <div id="detailTools" class="chips"></div>
+          </section>
+
+          <section class="detail-section">
+            <h3>可执行动作</h3>
+            <ul id="detailActions"></ul>
+          </section>
+
+          <section class="detail-section warning">
+            <h3>风险与时效</h3>
+            <p id="detailRisks"></p>
+          </section>
+
+          <section class="detail-section transcript">
+            <h3>转写稿预览</h3>
+            <pre id="transcriptPreview">加载中...</pre>
+          </section>
+        </div>
+      </aside>
+    </div>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

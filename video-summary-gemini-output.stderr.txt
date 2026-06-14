@@ -1,0 +1,54 @@
+Warning: 256-color support not detected. Using a terminal with at least 256-color support is recommended for a better visual experience.
+Error authenticating: _GaxiosError: request to https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist failed, reason: connect ETIMEDOUT 198.18.0.9:443
+    at Gaxios._request (file:///C:/Users/Administrator/AppData/Roaming/npm/node_modules/@google/gemini-cli/bundle/chunk-RCJSF5RP.js:20965:66)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async _OAuth2Client.requestAsync (file:///C:/Users/Administrator/AppData/Roaming/npm/node_modules/@google/gemini-cli/bundle/chunk-RCJSF5RP.js:22924:17)
+    at async CodeAssistServer.requestPost (file:///C:/Users/Administrator/AppData/Roaming/npm/node_modules/@google/gemini-cli/bundle/chunk-RCJSF5RP.js:307123:17)
+    at async CodeAssistServer.loadCodeAssist (file:///C:/Users/Administrator/AppData/Roaming/npm/node_modules/@google/gemini-cli/bundle/chunk-RCJSF5RP.js:307033:14)
+    at async _doSetupUser (file:///C:/Users/Administrator/AppData/Roaming/npm/node_modules/@google/gemini-cli/bundle/chunk-RCJSF5RP.js:307374:15) {
+  config: {
+    url: 'https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist',
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': 'GeminiCLI-tui/0.46.0/gemini-2.5-pro (win32; x64; terminal) google-api-nodejs-client/9.15.1',
+      Authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      'x-goog-api-client': 'gl-node/24.14.0',
+      Accept: 'application/json'
+    },
+    responseType: 'json',
+    body: '{"metadata":{"ideType":"IDE_UNSPECIFIED","platform":"PLATFORM_UNSPECIFIED","pluginType":"GEMINI"}}',
+    retryConfig: {
+      retryDelay: 100,
+      retry: 3,
+      noResponseRetries: 3,
+      statusCodesToRetry: [Array],
+      currentRetryAttempt: 0,
+      httpMethodsToRetry: [Array],
+      retryDelayMultiplier: 2,
+      timeOfFirstRequest: 1781360906568,
+      totalTimeout: 9007199254740991,
+      maxRetryDelay: 9007199254740991
+    },
+    paramsSerializer: [Function: paramsSerializer],
+    validateStatus: [Function: validateStatus],
+    errorRedactor: [Function: defaultErrorRedactor]
+  },
+  response: undefined,
+  error: FetchError2: request to https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist failed, reason: connect ETIMEDOUT 198.18.0.9:443
+      at ClientRequest.<anonymous> (file:///C:/Users/Administrator/AppData/Roaming/npm/node_modules/@google/gemini-cli/bundle/chunk-RCJSF5RP.js:19887:18)
+      at ClientRequest.emit (node:events:508:28)
+      at emitErrorEvent (node:_http_client:108:11)
+      at TLSSocket.socketErrorListener (node:_http_client:575:5)
+      at TLSSocket.emit (node:events:508:28)
+      at emitErrorNT (node:internal/streams/destroy:170:8)
+      at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+      at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+    type: 'system',
+    errno: 'ETIMEDOUT',
+    code: 'ETIMEDOUT'
+  },
+  code: 'ETIMEDOUT',
+  Symbol(gaxios-gaxios-error): '6.7.1'
+}
+Ripgrep is not available. Falling back to GrepTool.

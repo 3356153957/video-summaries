@@ -1,0 +1,59 @@
+{
+  "created": [
+    {
+      "title": "学习生活",
+      "playlistId": "PL1ct-Aa7Ss1hoJgQA5CXmmvAPMasttR8R"
+    },
+    {
+      "title": "工程制造",
+      "playlistId": "PL1ct-Aa7Ss1izCsIQCtE22zuCqGqzzbf2"
+    },
+    {
+      "title": "软件工具",
+      "playlistId": "PL1ct-Aa7Ss1gQrXMqG8pTXSxowKMOhk_I"
+    },
+    {
+      "title": "放松娱乐",
+      "playlistId": "PL1ct-Aa7Ss1j2Z4iul0AGxD_lPnvTBDvo"
+    }
+  ],
+  "added": [
+    {
+      "playlist": "学习生活",
+      "videoId": "JuoqE2lpRUM",
+      "title": "如何记单词",
+      "via": "create"
+    },
+    {
+      "playlist": "学习生活",
+      "videoId": "5MgBikgcWnY",
+      "title": "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU",
+      "via": "edit"
+    },
+    {
+      "playlist": "工程制造",
+      "videoId": "fGtTYha84vc",
+      "title": "No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes",
+      "via": "create"
+    },
+    {
+      "playlist": "软件工具",
+      "videoId": "5-eSqP-iNnc",
+      "title": "openclash新手教程系列附加篇、DNS泄露、openclash搭配Adguardhome、openclash远程访问、订阅失败、BT直连等问题解决",
+      "via": "create"
+    },
+    {
+      "playlist": "软件工具",
+      "videoId": "s90feRmdr9A",
+      "title": "零基础保姆级小白节点搭建教学",
+      "via": "edit"
+    },
+    {
+      "playlist": "放松娱乐",
+      "videoId": "7dCWt36jwjE",
+      "title": "ASMR mean girl does your makeup in school bathroom",
+      "via": "create"
+    }
+  ],
+  "failed": []
+}

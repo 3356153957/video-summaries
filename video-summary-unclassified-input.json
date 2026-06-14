@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-06-14T00:58:36.544Z",
+  "instruction": "Classify only these generic/unclassified dashboard items. Use title/url only; do not claim video content was watched.",
+  "allowed_categories": [
+    "AI与Codex工具",
+    "CAD建模3D打印",
+    "工程制造",
+    "学习教程",
+    "健身健康",
+    "哲学人文",
+    "游戏攻略",
+    "模板素材",
+    "生活情感",
+    "旅行美食",
+    "影音娱乐",
+    "时事升学",
+    "其它收藏"
+  ],
+  "items": []
+}

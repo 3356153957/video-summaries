@@ -1,0 +1,328 @@
+{
+  "execute": true,
+  "sourceItemCount": 22,
+  "moves": [
+    {
+      "rid": 912006995,
+      "type": 2,
+      "bvid": "BV1RM4y1a7J5",
+      "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1RM4y1a7J5",
+      "reason": "教程"
+    },
+    {
+      "rid": 59658520,
+      "type": 2,
+      "bvid": "BV1Ft41137JV",
+      "title": "CAD制图练习合集，一天一张图，贵在坚持",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1Ft41137JV",
+      "reason": "练习"
+    },
+    {
+      "rid": 960708729,
+      "type": 2,
+      "bvid": "BV1HH4y1X7fb",
+      "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1HH4y1X7fb",
+      "reason": "教程"
+    },
+    {
+      "rid": 886850022,
+      "type": 2,
+      "bvid": "BV1DK4y1E7At",
+      "title": "机械学霸讲SolidWorks每日一练初级篇合集（后50题）",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1DK4y1E7At",
+      "reason": "每日一练"
+    },
+    {
+      "rid": 114868480905994,
+      "type": 2,
+      "bvid": "BV1t1gPzeErV",
+      "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1t1gPzeErV",
+      "reason": "入门"
+    },
+    {
+      "rid": 116033004308061,
+      "type": 2,
+      "bvid": "BV13hFfzTEks",
+      "title": "告别杂乱！超实用定制收纳教程",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV13hFfzTEks",
+      "reason": "教程"
+    },
+    {
+      "rid": 1302523492,
+      "type": 2,
+      "bvid": "BV1BM4m1R7sJ",
+      "title": "DIY3D打印机：极端抠门的白嫖怪用voron0造三叉戟-OrcaSlicer基础操作，切片软件，操作教学，保姆教学，orcaSlicer2.0",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1BM4m1R7sJ",
+      "reason": "教学"
+    },
+    {
+      "rid": 566857503,
+      "type": 2,
+      "bvid": "BV1uv4y1x7Fs",
+      "title": "保姆教程:klipper安装后配置文件、限位测试、归零测试、PID、挤出机步进值、调平、软件使用 吐血推荐",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1uv4y1x7Fs",
+      "reason": "教程"
+    },
+    {
+      "rid": 52628485,
+      "type": 2,
+      "bvid": "BV164411J7GE",
+      "title": "【太极创客】零基础入门学用Arduino 第一部分 合辑",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV164411J7GE",
+      "reason": "入门"
+    },
+    {
+      "rid": 398879804,
+      "type": 2,
+      "bvid": "BV1xo4y1G7ZA",
+      "title": "【考拉工作室】单片机入门——Arduino控制步进电机拖动直线模组",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1xo4y1G7ZA",
+      "reason": "入门"
+    },
+    {
+      "rid": 114114546372324,
+      "type": 2,
+      "bvid": "BV1TeRPYBEX8",
+      "title": "【成图大赛】16届国赛机械手，挑战一小时讲课带建模，卷王之王~~大饱眼福",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1TeRPYBEX8",
+      "reason": "一小时讲课"
+    },
+    {
+      "rid": 655376571,
+      "type": 2,
+      "bvid": "BV1ua4y1V7yK",
+      "title": "【必收藏·全套CaTICs网络赛题·每日一练】SolidWorks下的CaTICs网络3D大赛超详解析(1-19届)",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1ua4y1V7yK",
+      "reason": "全套"
+    },
+    {
+      "rid": 114618550787249,
+      "type": 2,
+      "bvid": "BV1Yq7bzaEuM",
+      "title": "【共136集已完结】大佬爆肝！2026年B站最全最细自学机械设计教程！从电机选型、材料到公差与配合，涵盖了所有机械设计知识，你想学的这里都有！再发最后一遍！",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1Yq7bzaEuM",
+      "reason": "教程"
+    },
+    {
+      "rid": 289281856,
+      "type": 2,
+      "bvid": "BV1df4y1z7iR",
+      "title": "机械学霸讲SolidWorks每日一练初级篇100题合集（前50）",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1df4y1z7iR",
+      "reason": "每日一练"
+    },
+    {
+      "rid": 939009617,
+      "type": 2,
+      "bvid": "BV1aT4y1B7oY",
+      "title": "【全CAD教学合集】零基础教学、绘图手法提升、制图知识讲解",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1aT4y1B7oY",
+      "reason": "教学"
+    },
+    {
+      "rid": 333492253,
+      "type": 2,
+      "bvid": "BV1iw411Z7HZ",
+      "title": "SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1",
+      "sourceFolderId": 4019818542,
+      "sourceFolderTitle": "工程制造",
+      "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
+      "reason": "教程"
+    }
+  ],
+  "moveResults": [
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
+      "reason": "教程",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "CAD制图练习合集，一天一张图，贵在坚持",
+      "reason": "练习",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+      "reason": "教程",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "机械学霸讲SolidWorks每日一练初级篇合集（后50题）",
+      "reason": "每日一练",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+      "reason": "入门",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "告别杂乱！超实用定制收纳教程",
+      "reason": "教程",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "DIY3D打印机：极端抠门的白嫖怪用voron0造三叉戟-OrcaSlicer基础操作，切片软件，操作教学，保姆教学，orcaSlicer2.0",
+      "reason": "教学",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "保姆教程:klipper安装后配置文件、限位测试、归零测试、PID、挤出机步进值、调平、软件使用 吐血推荐",
+      "reason": "教程",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "【太极创客】零基础入门学用Arduino 第一部分 合辑",
+      "reason": "入门",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "【考拉工作室】单片机入门——Arduino控制步进电机拖动直线模组",
+      "reason": "入门",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "【成图大赛】16届国赛机械手，挑战一小时讲课带建模，卷王之王~~大饱眼福",
+      "reason": "一小时讲课",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "【必收藏·全套CaTICs网络赛题·每日一练】SolidWorks下的CaTICs网络3D大赛超详解析(1-19届)",
+      "reason": "全套",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "【共136集已完结】大佬爆肝！2026年B站最全最细自学机械设计教程！从电机选型、材料到公差与配合，涵盖了所有机械设计知识，你想学的这里都有！再发最后一遍！",
+      "reason": "教程",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "机械学霸讲SolidWorks每日一练初级篇100题合集（前50）",
+      "reason": "每日一练",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "【全CAD教学合集】零基础教学、绘图手法提升、制图知识讲解",
+      "reason": "教学",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    },
+    {
+      "ok": true,
+      "attempts": 1,
+      "title": "SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1",
+      "reason": "教程",
+      "from": "工程制造",
+      "to": "学习生活杂项"
+    }
+  ],
+  "finalFolders": [
+    {
+      "id": 4091769942,
+      "title": "学习生活杂项",
+      "media_count": 24
+    },
+    {
+      "id": 4100752542,
+      "title": "无人机飞控",
+      "media_count": 11
+    },
+    {
+      "id": 4034802642,
+      "title": "软件工具",
+      "media_count": 9
+    },
+    {
+      "id": 4019818542,
+      "title": "工程制造",
+      "media_count": 6
+    },
+    {
+      "id": 3991273042,
+      "title": "AI工具",
+      "media_count": 5
+    },
+    {
+      "id": 426970342,
+      "title": "默认收藏夹",
+      "media_count": 1
+    }
+  ]
+}

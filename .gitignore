@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.log
+.summaries/
+node_modules/
+.env
+video-summary-external-ai-cache.json
+video-summary-external-ai.raw.txt
+video-summary-external-ai.stderr.txt
+video-summary-unclassified.raw.txt
+video-summary-unclassified.stderr.txt
+bilibili-ai-transcripts/
+bilibili-ai-transcripts-small/
+.gemini/

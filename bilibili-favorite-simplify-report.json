@@ -1,0 +1,38 @@
+{
+  "execute": true,
+  "moves": [],
+  "moveResults": [],
+  "deleteResults": [],
+  "finalFolders": [
+    {
+      "id": 4019818542,
+      "title": "工程制造",
+      "media_count": 22
+    },
+    {
+      "id": 4100752542,
+      "title": "无人机飞控",
+      "media_count": 11
+    },
+    {
+      "id": 4034802642,
+      "title": "软件工具",
+      "media_count": 10
+    },
+    {
+      "id": 4091769942,
+      "title": "学习生活杂项",
+      "media_count": 8
+    },
+    {
+      "id": 3991273042,
+      "title": "AI工具",
+      "media_count": 5
+    },
+    {
+      "id": 426970342,
+      "title": "默认收藏夹",
+      "media_count": 1
+    }
+  ]
+}

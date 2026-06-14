@@ -1,0 +1,1169 @@
+{
+  "generated_at": "2026-06-13T05:37:00.556Z",
+  "browser": "Microsoft Edge Default profile",
+  "platforms": [
+    {
+      "platform": "Bilibili",
+      "status": "logged_in",
+      "folders": [
+        {
+          "id": 426970342,
+          "title": "默认收藏夹",
+          "media_count": 38
+        },
+        {
+          "id": 3736072842,
+          "title": "垂起",
+          "media_count": 5
+        },
+        {
+          "id": 1532595742,
+          "title": "项目",
+          "media_count": 15
+        }
+      ],
+      "items": [
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
+          "url": "https://www.bilibili.com/video/BV1RcRmBbE3x",
+          "bvid": "BV1RcRmBbE3x",
+          "author": "Juang_42号搭车客",
+          "description": "如果Skill没有配置好，那么Agent使用起来的效果就会事倍功半。 我尝试了十几个Agent和几十个Skill，这些Skill是我每天都在用的，而且不依赖特定的Agent。 无论你是在用 Claude Code 还是 Codex，这套通用的 Skill 组合都能让你的 AI 助手瞬间进化。",
+          "duration": 753
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App，快速上手AI",
+          "url": "https://www.bilibili.com/video/BV1MXLt6vE6s",
+          "bvid": "BV1MXLt6vE6s",
+          "author": "松小鼠呀ya",
+          "description": "实测 Codex 10 个必装插件，从酷炫动画、视频生成，到网页游戏、手机 App、PPT 报告、表格分析和浏览器自动化，一次看懂 AI Agent 到底能替你完成多少工作。无论是学习、办公、创作、开发，还是整理资料和处理重复任务，都能直接用上。 本频道持续分享创富案例 & AI 前沿应用 关于 7 步实现财富自由，会员内容以专题形式呈现，系统梳理从财富认知、全球趋势，到投资理念与实操策略的完整方法论，帮助你构建稳健而清晰的投资思维体系。 欢迎订阅。 热门推荐： 小白速通！10分钟掌控AI编程之王【C",
+          "duration": 691
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
+          "url": "https://www.bilibili.com/video/BV1q5G961Ech",
+          "bvid": "BV1q5G961Ech",
+          "author": "Yin_Code",
+          "description": "CC Switch：farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io CCX：BenedictKing/ccx: Claude / Codex / Gemini API Proxy - CCX Codex Plu",
+          "duration": 318
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
+          "url": "https://www.bilibili.com/video/BV1DfL16WEwq",
+          "bvid": "BV1DfL16WEwq",
+          "author": "HexUp",
+          "description": "Codex是OpenAI官方的Agent桌面应用，不光能写代码，还能做PPT、搜网页、调用GPT Image 2生成图片，甚至用手机远程操控电脑工作。这期视频从零开始拆解Codex的核心概念、插件系统和自动化任务，配上完整的实操演示。比起Claude Code经常封号，Codex不封号、额度充足、App设计优雅，20美元起步就能满足日常需要。",
+          "duration": 1000
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "坐上火车去拉萨，被认为是最浪漫的进藏方式，超详细的保姆级攻略",
+          "url": "https://www.bilibili.com/video/BV1SM4y1B7iF",
+          "bvid": "BV1SM4y1B7iF",
+          "author": "开心酒好好",
+          "description": "",
+          "duration": 444
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "Lumina 2.0前瞻",
+          "url": "https://www.bilibili.com/video/BV16UomB5EKS",
+          "bvid": "BV16UomB5EKS",
+          "author": "Lumina猫猫",
+          "description": "Lumina2.0已经进入内测阶段了，很快就会进入公测，让我们一起看看更新了什么吧~",
+          "duration": 204
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "UG12.0从入门到精通教程，25节课全面了解UG",
+          "url": "https://www.bilibili.com/video/BV1Ji4y1M7mW",
+          "bvid": "BV1Ji4y1M7mW",
+          "author": "沙僧设计礼诚",
+          "description": "课程来源管家课堂，进行二创，已获得管家课堂授权。 UG12.0全套精品课程，共25节课,适合零基础的同学系统的学习UG，也适合有基础的同学巩固提高。 点赞加关注，然后私信我”UG“即可领取UG12.0安装包和课程练习素材。",
+          "duration": 13105
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "如何用真实地形数据打印一座雪山？【拓竹X2D首发体验】",
+          "url": "https://www.bilibili.com/video/BV1EtQiBhE8b",
+          "bvid": "BV1EtQiBhE8b",
+          "author": "咔哧一下_Cliclack",
+          "description": "这是一期新手向的干货分享，手把手带你3D打印一座在真实世界中存在的雪山！ 另外你如果学会了你就会发现，用这个办法可以打印这个地球上的任何地方！ ※ 应大家要求，珠穆朗玛峰模型已经上传MakerWorld，模型编号 2389515，大家可以搜索下载。 本期视频用的是拓竹新上市的双头打印机X2D，用一个较低的价格实现双头多色打印是一种什么体验？双挤出机分置设置，纯机械结构切换喷嘴，稳定输出！ 视频中喷火龙模型作者：IXPatch",
+          "duration": 525
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "4月最新！UG NX12.0软件安装（附安装包）UG免费下载安装激活教程，UG NX 12安装包免费下载安装激活详细教程",
+          "url": "https://www.bilibili.com/video/BV1pUQjBLEFP",
+          "bvid": "BV1pUQjBLEFP",
+          "author": "UG下载安装教程zz",
+          "description": "UG：https://pan.quark.cn/s/fee4d60e896c",
+          "duration": 405
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "【全网首发】白嫖Google AI Pro 12个月| 无需Pixel设备 | 解决谷歌邮箱注册、账号设备认证、绑卡等问题 | 从注册到订阅全过程演示",
+          "url": "https://www.bilibili.com/video/BV1qpwEzTEa9",
+          "bvid": "BV1qpwEzTEa9",
+          "author": "Porter科技迷",
+          "description": "视频制作不易，希望大家三连支持，如果喜欢我的内容，欢迎订阅我的频道，请在评论区留下评论，我会挨个私发文档",
+          "duration": 1200
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "告别杂乱！超实用定制收纳教程",
+          "url": "https://www.bilibili.com/video/BV13hFfzTEks",
+          "bvid": "BV13hFfzTEks",
+          "author": "葫芦～",
+          "description": "建模网站：https://gridfinity.perplexinglabs.com/ Gridfinity 底座计算器：https://pan.baidu.com/s/1vlDxHk0j5p87ozY6LC84cA?pwd=1234 提取码: 1234 fusion360 插件 GridfinityGenerator 官网地址：https://apps.autodesk.com/FUSION/en/Detail/Index?id=7197558650811789&os=Win64&appLang=en",
+          "duration": 458
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "[橙服]不删档的百人在线1.21.11服务器寒假招生啦！来体验一下原版生存的魅力？",
+          "url": "https://www.bilibili.com/video/BV1CPrXBREFa",
+          "bvid": "BV1CPrXBREFa",
+          "author": "OrangeMC服务器",
+          "description": "🌈 ===== 欢迎来到橙服 · 纯净不删档生存 ===== 🌐 服务器官网：orangecraftmc.top（想了解服务器请查看官网） 🐧 Q群：994601868（入群发三连+关注截图即可过白） 🎮 服务器版本：1.21.11 💻 Java兼容：1.16.X - 1.21.X｜基岩版兼容：1.21.111 - 1.21.130 🏕️ 我们致力于打造一个沉浸、生动、自由的 Minecraft 世界。 🔥 ===== 在这里，你能体验到什么 ===== ⚒️ 突破原版极限的强化附魔，全程可免费获取 🏰",
+          "duration": 166
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "继续展示下我们的wbrov开源案例，自主管道巡检",
+          "url": "https://www.bilibili.com/video/BV1Y5SnBMEzR",
+          "bvid": "BV1Y5SnBMEzR",
+          "author": "拓渊智能水下机器人",
+          "description": "wbrov开源案例之自主管道巡检，感兴趣的小伙伴可一键三连后私聊发我们的开源资料",
+          "duration": 86
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "【高等数学（上）】6小时从0基础直追满绩！",
+          "url": "https://www.bilibili.com/video/BV1j44y1E7ot",
+          "bvid": "BV1j44y1E7ot",
+          "author": "李天意Providence",
+          "description": "请大家下载讲义，最好打印成纸质版，然后配合该视频食用哦~ 讲义下载地址：微信搜索公众号“意数家”，发送”讲义“或”高数资料“，即可获取对应视频的讲义文件啦~ 祝大家2022平安喜乐，考试顺利。",
+          "duration": 21395
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "【成图大赛】16届国赛机械手，挑战一小时讲课带建模，卷王之王~~大饱眼福",
+          "url": "https://www.bilibili.com/video/BV1TeRPYBEX8",
+          "bvid": "BV1TeRPYBEX8",
+          "author": "一点创绘工作室",
+          "description": "持续更新作品，只为大家做精品教学。成图大赛16届国赛机械手，挑战一小时讲课带建模，卷王之王~~",
+          "duration": 1382
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "Pixhawk与ROS强强联合，打造更强的地面小车!",
+          "url": "https://www.bilibili.com/video/BV1km411Z73x",
+          "bvid": "BV1km411Z73x",
+          "author": "GundaSmart",
+          "description": "pixhawk社区历史悠久，积攒了丰富资源，尤其是硬件资源，无需编码，可以快速上手！与ROS联姻，可以优势互补，缩短我们搭建小车平台的时间和精力，是我们更专注于算法研究和理论验证! 配套文档资料浏览地址：https://gitee.com/gwmunan/ros2/wikis/pages",
+          "duration": 812
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "Pix/Ardupilot使用ExpressLRS--教程",
+          "url": "https://www.bilibili.com/video/BV1S54y157Gt",
+          "bvid": "BV1S54y157Gt",
+          "author": "-蓝色枫叶-",
+          "description": "ELRS高频头新用户教程。 此教程适用于Ardupilot/Pix用户。 因为up手里没有完整版本的高频头设备，抱歉没有实物特写镜头，视频中高频头和接收机设备均为手工焊接的工程版本。 视频下方自带时间轴方便大家跳转观看，祝爽飞：)",
+          "duration": 1545
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "看电视最佳方案：免费、流畅、无广告！GitHub大神开源作品！手机 + TV 全支持！",
+          "url": "https://www.bilibili.com/video/BV1HnRGYJE6Z",
+          "bvid": "BV1HnRGYJE6Z",
+          "author": "陶渊xiao明",
+          "description": "👉 电视APP下载：https://pan.quark.cn/s/86d5a59ee4e1 👉 GitHub项目：https://github.com/lizongying/my-tv-0 👉 直播源项目1：https://github.com/fanmingming/live 👉 直播源项目2：https://github.com/suxuang/myIPTV 👉 IPV6 检测：https://test-ipv6.com/index.html.zh_CN",
+          "duration": 234
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "【FYS飞舜极创】PIX飞控四轴飞行器组装调试及试飞教程/保姆级教程/F450多旋翼悬停返航GPS定位/遥控模型飞机/DIY组装/初学入门/技巧分享",
+          "url": "https://www.bilibili.com/video/BV1ZE421M7p7",
+          "bvid": "BV1ZE421M7p7",
+          "author": "FYS飞舜极创",
+          "description": "PIX教程资料下载链接 链接：https://pan.baidu.com/s/1cyFGxTszwNXHnpVSJVHTQg?pwd=ejrg 提取码：ejrg",
+          "duration": 1932
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "默认收藏夹",
+          "title": "Pixhawk基础视频教程全12讲",
+          "url": "https://www.bilibili.com/video/BV1Ub411s7N5",
+          "bvid": "BV1Ub411s7N5",
+          "author": "王菊花fa",
+          "description": "https://www.youtube.com/watch?v=pJK78G27qTM 视频来源见出处，应该是国内某位同学出的，只不过在国内视频网站没找到一整套教程，特从YouTube搬运过来。",
+          "duration": 10111
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "垂起",
+          "title": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
+          "url": "https://www.bilibili.com/video/BV1zQSUYKECo",
+          "bvid": "BV1zQSUYKECo",
+          "author": "会上树的菜鸡",
+          "description": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
+          "duration": 1030
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "垂起",
+          "title": "泰坦眼镜蛇，手搓全3D打印件2米翼展4+1垂直起降固定翼e VTOL，航程可达140公里，飞行2小时，可用于巡航检测，侦察、作战。",
+          "url": "https://www.bilibili.com/video/BV1vbTJzSERa",
+          "bvid": "BV1vbTJzSERa",
+          "author": "国哥FPV",
+          "description": "-",
+          "duration": 141
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "垂起",
+          "title": "INAV7.0正式版垂起VTOL4+1固定翼调参配置教程",
+          "url": "https://www.bilibili.com/video/BV1Uy421a7mn",
+          "bvid": "BV1Uy421a7mn",
+          "author": "idea-fpv",
+          "description": "inav固件终于迎来支持垂起的固件，简化垂起的调参配置，本人亲测摸索了一个月多，终于捋清垂起的设置要点技巧，这里做成视频教程，希望能帮助到大家配置自己的小大型垂起vtol4+1固定翼，如果对你有所帮助，麻烦一键三连，点赞投币并转发，您的支持将是我持续更新教程与分享diy经验的最大动力",
+          "duration": 1283
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "垂起",
+          "title": "垂直起降固定翼无人机",
+          "url": "https://www.bilibili.com/video/BV15zumzeEre",
+          "bvid": "BV15zumzeEre",
+          "author": "D多无影",
+          "description": "",
+          "duration": 200
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "垂起",
+          "title": "【垂起固定翼,系统教程】2.2 _INAV完全调试，Y3垂起固定翼",
+          "url": "https://www.bilibili.com/video/BV1HQyDBdEEK",
+          "bvid": "BV1HQyDBdEEK",
+          "author": "荒地厨师",
+          "description": "嗯，完结了",
+          "duration": 1060
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "【太极创客】零基础入门学用Arduino 第一部分 合辑",
+          "url": "https://www.bilibili.com/video/BV164411J7GE",
+          "bvid": "BV164411J7GE",
+          "author": "太极创客",
+          "description": "为了便于朋友们观看太极创客制作的教程，我们将自制的Arduino教程 制作了合辑。 太极创客团队自制的教程全部是免费开源的，我们这么做是想将更好的中文创客教程提供给广大创客朋友。 近日我们发现在网上有盗用我们的教程存在。这些教程很多存在质量问题甚至有些会插播广告。 我们诚恳的希望您不要观看盗用我们的教程，请到我们的B站频道观看原版高质的教程内容。 非常感谢您的支持！",
+          "duration": 25631
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+          "url": "https://www.bilibili.com/video/BV1t1gPzeErV",
+          "bvid": "BV1t1gPzeErV",
+          "author": "喵星考拉",
+          "description": "",
+          "duration": 5613
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+          "url": "https://www.bilibili.com/video/BV1HH4y1X7fb",
+          "bvid": "BV1HH4y1X7fb",
+          "author": "ESP_Friends",
+          "description": "本视频展示如何使用 Arduino IDE 快速开发一个简单的物联网项目。通过手机 APP 远程控制开关，显示实时的天气信息还有发送提醒。知识点包括：Arduino IDE 的环境搭建、简单的 Wi-Fi 连接、通过 HTTP 获取实时的天气信息、GPIO 按键、RainMaker 云端的数据交互、GPIO 输出。 Arduino IDE 下载：arduino.cc/en/software 乐鑫 Arduino ESP32 文档：docs.espressif.com/projects/arduino-e",
+          "duration": 1182
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "【考拉工作室】单片机入门——Arduino控制步进电机拖动直线模组",
+          "url": "https://www.bilibili.com/video/BV1xo4y1G7ZA",
+          "bvid": "BV1xo4y1G7ZA",
+          "author": "喵星考拉",
+          "description": "Arduino控制步进电机。虽然是最最最简单的电机控制案例之一，但是还是很多人不会。录个视频分享给大家，这里只是入门让电机动起来哦，后面还有后续进阶教程，欢迎一键三连！粉丝群247278751欢迎大家~",
+          "duration": 599
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
+          "url": "https://www.bilibili.com/video/BV1RM4y1a7J5",
+          "bvid": "BV1RM4y1a7J5",
+          "author": "罗大富Bigrich",
+          "description": "本套教程致力于让您通过学习 ESP32 单片机掌握单片机原理和 Arduino 的用法，边玩边学，玩到专业！ 有什么问题，欢迎小伙伴们留言私信➕群：441203097 开发套件已上架，欢迎选购：https://item.taobao.com/item.htm?ft=t&id=734212351280 课程资料的百度网盘链接：https://pan.baidu.com/s/1BpjvshNTFozBd0ubIseWWw?pwd=geek 提取码：geek 教程文档放在了这里，方便大家查阅：http",
+          "duration": 31021
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1",
+          "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
+          "bvid": "BV1iw411Z7HZ",
+          "author": "阿奇设计分享",
+          "description": "快速清晰地介绍SOLIDWORKS 草图、零件、装配体、工程图的常用功能！ 由浅入深地掌握SOLIDWORKS，手把手设计出有意思的小作品，还能3D打印出来，并且完全免费！ 教程适用2012-2024的各个版本",
+          "duration": 40749
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "DIY3D打印机：极端抠门的白嫖怪用voron0造三叉戟-OrcaSlicer基础操作，切片软件，操作教学，保姆教学，orcaSlicer2.0",
+          "url": "https://www.bilibili.com/video/BV1BM4m1R7sJ",
+          "bvid": "BV1BM4m1R7sJ",
+          "author": "风中的樱花树",
+          "description": "本篇视频为DIY Voron 三叉戟 3D打印机-OrcaSlicer基础操作 该项目预估成本1500左右 BOM单可加群获取 QQ交流群942732706",
+          "duration": 1928
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "保姆教程:klipper安装后配置文件、限位测试、归零测试、PID、挤出机步进值、调平、软件使用 吐血推荐",
+          "url": "https://www.bilibili.com/video/BV1uv4y1x7Fs",
+          "bvid": "BV1uv4y1x7Fs",
+          "author": "小辰DIY",
+          "description": "本期讲解klipper安装后的一系列操作，保姆级教程，剪视频剪到吐血，开源地址：https://gitee.com/pangqc/voron-tiny-m 配置文件、prusa软件、测试方块等都在交流群里，三连在我动态置顶扫码进 使用软件：prusa、Pr、Au 视频录制：一加9RT 操作平台：Windows 11",
+          "duration": 1001
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "2024B站最新的Kali入门教程！！Kali Linux渗透测试远控木马技术，全程手把手教你从入门到精通，7天学会",
+          "url": "https://www.bilibili.com/video/BV1CV411X7hG",
+          "bvid": "BV1CV411X7hG",
+          "author": "渗透测试官方教程",
+          "description": "本视频仅用于信息安全教学，请遵守相关法律法规，严禁用于非法途径。若观众因此作出任何危害网络安全的行为，后果自负，与UP主及讲师无关。",
+          "duration": 24601
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【软核】",
+          "url": "https://www.bilibili.com/video/BV17D4y1X7AT",
+          "bvid": "BV17D4y1X7AT",
+          "author": "稚晖君",
+          "description": "这是UP最近为了解决个人痛点设计制作的一个便携口袋显示器（&充电宝），害，在颜值上已经没有进步的空间了~ 项目已经开源，喜欢的话记得三连关注支持~~ GitHub地址：https://github.com/peng-zhihui/PocketLCD 也麻烦记得给仓库点星星哦",
+          "duration": 467
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "40元制作一个Augelight氛围灯",
+          "url": "https://www.bilibili.com/video/BV1PJ4m1b7Wz",
+          "bvid": "BV1PJ4m1b7Wz",
+          "author": "23盒子怪",
+          "description": "材料清单 1.高硼硅玻璃筒一个直径 50mm高100mm厚5mm 2.一块602040锂电池500mAh 3.电阻一个5欧~10欧越小越亮 4.TP4056充电模块一个type-c口 5.开关一个SS12D00柄高4mm 2档3脚 6.6mm球形磁铁一个或者钢珠 7.4mm球形磁铁一个 8.LED柔性灯条正负极同端3V长110mm一根 9.M2X5自攻螺丝5颗 10.3D打印外壳 外壳模型地址：https://makerworld.com/zh/models/169602#profileId-18623",
+          "duration": 464
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "单网口主机畅玩ALL IN ONE！PVE虚拟机下部署OpenWRT软路由+群晖7.2 NAS+Windows+Linux等，实现NAS存储+路由+虚拟机完全体",
+          "url": "https://www.bilibili.com/video/BV1WV411977W",
+          "bvid": "BV1WV411977W",
+          "author": "我是阿皮啊-",
+          "description": "往期出过多网口版本的PVE和ESXI搭建AIO的教程，借这个机会，本期就来演示一下，使用一台单网口主机，在PVE系统上部署软路由、群晖NAS、Windows和Linux系统的完整教程。 PVE虚拟机系统开源免费，并且对大小核兼容完美，非常适合用来实现AIO功能。 如果你手上有单网口的高性能主机，也想尝试AIO，那么不妨跟着视频来搭建，搭建效果如图所求、 首先是软路由OpenWRT，因为是单网口，所以以旁路由形式来搭建，接着搭建群晖NAS系统，也是家用NAS系统天花板了，群晖系统可以帮你存储资料、照片管",
+          "duration": 3375
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "低功耗、全都要，bt、HA、jellyfin、游戏服务器。基于ubuntu的家庭服务器部署全过程",
+          "url": "https://www.bilibili.com/video/BV1S94y1J79J",
+          "bvid": "BV1S94y1J79J",
+          "author": "索拉里斯风",
+          "description": "其实现在普通人家里闲置电脑的概率，比你我想象中的高，基本上大学毕业就是一个节点、归其缘由我认为是源自windows的尿性，一台普通电脑在不优化的情况下很难用超过4年。 但是当我们换一个思路安装好linux。无论多久远的电脑都可以是你的流媒体服务器，在局域网内任何设备上用海报墙播放下载电影，或者变成homeassistant智能家居中枢、远程控制家里的灯光、监测路由器状态、远程开关电视盒子等等， 甚至你可以托管自己的游戏服务器并与和朋友一起回味几十款老游戏，比如这个98版的《仙剑剑奇侠传》、或者是大航海时代",
+          "duration": 1197
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "办公、NAS我都要 虚拟机&Docker一个不能少 基于Debian 12深度Deepin系统下一键部署”DIY NAS“ All in One 方案",
+          "url": "https://www.bilibili.com/video/BV1zu4y1g7LY",
+          "bvid": "BV1zu4y1g7LY",
+          "author": "悟空的日常",
+          "description": "https://github.com/wukongdaily/diy-nas-onescript 其他地址会补充到评论区置顶。",
+          "duration": 1984
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "项目",
+          "title": "旧电脑变身NAS保姆级教程(1/2)，文件共享、相册备份、多功能全自动媒体库全搞定，Jellyfin、Alist、黑群晖 7.2媒体服务器，N1盒子方案升级版",
+          "url": "https://www.bilibili.com/video/BV1bu4y1E7Yh",
+          "bvid": "BV1bu4y1E7Yh",
+          "author": "大鹅体验",
+          "description": "使用老旧电脑安装NAS系统，实现完整的文件共享、相册备份、和多功能、全自动媒体库的保姆级教程。",
+          "duration": 1319
+        }
+      ],
+      "notes": [],
+      "mid": "382184542"
+    },
+    {
+      "platform": "Douyin",
+      "status": "visible_items_found",
+      "items": [
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "5824deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码",
+          "url": "https://www.douyin.com/video/7636700110763609370"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "4145上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型",
+          "url": "https://www.douyin.com/video/7650190124579618731"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "6.5万只用了Claude Code 30%能力？7个必装Skill 如果你用Claude Code只发挥了30%能力，一定要看这7个必装Skill！附官方英文名：Superpowers、pdf、humanizer-zh等，覆盖开发、文档、前端、代码质量，最后一个能让AI变成懂行队友，直接搜名就能装。#claudecode #skills #AI编程 #AI工具 #编程入门只用了Claude Code 30%能力？7个必装Skill 如果你用Claude Code只发挥了30%能力，一定要看这7个必装Skill！附官方英文名：Superpowers、pdf、humanizer-zh等，覆盖开发、文档、前端、代码质量，最后一个能让AI变成懂行队友，直接搜名就能装。#claudecode #skills #AI编程 #AI工具 #编程入门",
+          "url": "https://www.douyin.com/video/7638504373409369337"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "1339几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画",
+          "url": "https://www.douyin.com/video/7650012801838625510"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "11.0万在codex，Claude code等的帮助下，感觉我变成了一个designer，指挥多个agent给我干活，而不是一个worker在codex，Claude code等的帮助下，感觉我变成了一个designer，指挥多个agent给我干活，而不是一个worker",
+          "url": "https://www.douyin.com/video/7630703901906460106"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "25github今日最快增长-2026-06-10 #github优质项目 #ai编程 #信息差 #程序员github今日最快增长-2026-06-10 #github优质项目 #ai编程 #信息差 #程序员",
+          "url": "https://www.douyin.com/video/7649548878353681715"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "23第一次让 Codex 动文件，千万别直接说\"帮我整理一下\" 很多人第一次用 Codex 处理文件，最容易犯的错，就是上来一句： “帮我整理一下。” 听起来没问题，但对 AI Agent 来说，这句话太危险了。 你没说目标是什么，材料在哪里，规则怎么定，哪些文件不能碰，最后怎么验收。 它再聪明，也只能按自己的理解去猜。 所以普通人第一份 Codex 任务单，不是追求炫技，而是先追求安全。 记住五件事： 目标：你到底想得到什么 材料：只处理哪个测试文件夹 规则：文件怎么命名，表格怎么检查 禁区：不删除、不覆盖、不碰正式资料 验收：最后必须输出处理报告 先预览，再确认，再执行，最后出报告。 这才是普通人真正能用起来的 AI Agent 工作流。 #AI压榨员·SuDa #AI工具 #Codex #AI办公 #AI生产力第一次让 Codex 动文件，千万别直接说\"帮我整理一下\" 很多人第一次用 Codex 处理文件，最容易犯的错，就是上来一句： “帮我整理一下。” 听起来没问题，但对 AI Agent 来说，这句话太危险了。 你没说目标是什么，材料在哪里，规则怎么定，哪些文件不能碰，最后怎么验收。 它再聪明，也只能按自己的理解去猜。 所以普通人第一份 Codex 任务单，不是追求炫技，而是先追求安全。 记住五件事： 目标：你到底想得到什么 材料：只处理哪个测试文件夹 规则：文件怎么命名，表格怎么检查 禁区：不删除、不覆盖、不碰正式资料 验收：最后必须输出处理报告 先预览，再确认，再执行，最后出报告。 这才是普通人真正能用起来的 AI Agent 工作流。 #AI压榨员·SuDa #AI工具 #Codex #AI办公 #AI生产力",
+          "url": "https://www.douyin.com/video/7649551388367736073"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "64用 Claude 写代码画讲解动画｜手搓了个自动化出片流 总有人问我有没有更省力的视频制作方式，我最近用 Claude 捣鼓了个小东西：让它一行行代码帮我画讲解动画。 ✨ 这不是那种模板套路，Claude 会根据我的脚本实时生成画面，每次都是“现场编排”。 原理也不复杂：视频就是一张张图连起来，Claude 负责把每一帧都算出来。 整个流程很简单： 📄 你写脚本定内容； 🎨 Claude 现场编排生成画面； 🎤 你对着画面念口播； 🔄 最后渲染成 MP4。 它把画面元素分成了固定层（像乐高积木）和内容层，这样既能复用组件，又能每次根据脚本“现拼”，保证每期视频都是独一无二的。 而且，口播和字幕都不用手动对齐，本地转写出时间戳，字幕自动就贴上去了。 两行命令搞定，改代码画面立刻变。 所以，我的工作就只剩下写脚本和开口念了，画面全交给 Claude。 你们觉得这种“代码画”的讲解动画怎么样？ #AI #大模型 #AI编程 #自动化 #Claude #讲解动画用 Claude 写代码画讲解动画｜手搓了个自动化出片流 总有人问我有没有更省力的视频制作方式，我最近用 Claude 捣鼓了个小东西：让它一行行代码帮我画讲解动画。 ✨ 这不是那种模板套路，Claude 会根据我的脚本实时生成画面，每次都是“现场编排”。 原理也不复杂：视频就是一张张图连起来，Claude 负责把每一帧都算出来。 整个流程很简单： 📄 你写脚本定内容； 🎨 Claude 现场编排生成画面； 🎤 你对着画面念口播； 🔄 最后渲染成 MP4。 它把画面元素分成了固定层（像乐高积木）和内容层，这样既能复用组件，又能每次根据脚本“现拼”，保证每期视频都是独一无二的。 而且，口播和字幕都不用手动对齐，本地转写出时间戳，字幕自动就贴上去了。 两行命令搞定，改代码画面立刻变。 所以，我的工作就只剩下写脚本和开口念了，画面全交给 Claude。 你们觉得这种“代码画”的讲解动画怎么样？ #AI #大模型 #AI编程 #自动化 #Claude #讲解动画",
+          "url": "https://www.douyin.com/video/7649333763918269711"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "2647心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时显示。 #心率广播 #心率推送 #心率带 #蓝牙心率广播 #心率监测心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时显示。 #心率广播 #心率推送 #心率带 #蓝牙心率广播 #心率监测",
+          "url": "https://www.douyin.com/video/7648606620188005486"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "189机器人关节减速器Demo！行星、谐波和摆线 Vibecoding做了一个机器人关节减速器demo，主要是行星、谐波和摆线三种，并准备联合其他工程软件给出仿真分析报告，目前刚刚开始做，还不成熟，存在很多问题；但是这个demo效果看着倒是挺好看哈哈，大体轮廓也是有了，后续我会多做一些研究，继续推进，争取实现真正落地！ #大学生 #研究生 #机械 #AI #vibecoding机器人关节减速器Demo！行星、谐波和摆线 Vibecoding做了一个机器人关节减速器demo，主要是行星、谐波和摆线三种，并准备联合其他工程软件给出仿真分析报告，目前刚刚开始做，还不成熟，存在很多问题；但是这个demo效果看着倒是挺好看哈哈，大体轮廓也是有了，后续我会多做一些研究，继续推进，争取实现真正落地！ #大学生 #研究生 #机械 #AI #vibecoding",
+          "url": "https://www.douyin.com/video/7648870890301590811"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "9838让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码",
+          "url": "https://www.douyin.com/video/7644513285333807729"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "1874Solidworks一键批量自动出图自动标注尺寸最新版插件 升级后的插件支持sw格式图纸标注同步支持中性格式转化来的实体零件标注，也支持用户选择基准标注丨坐标标注丨尺寸链标注丨可单个零件出图丨也可以多个零件出图 #中新智能装备 #solidworks自动标注 #solidworks机械设计 #自动出图 #Solidworks出图Solidworks一键批量自动出图自动标注尺寸最新版插件 升级后的插件支持sw格式图纸标注同步支持中性格式转化来的实体零件标注，也支持用户选择基准标注丨坐标标注丨尺寸链标注丨可单个零件出图丨也可以多个零件出图 #中新智能装备 #solidworks自动标注 #solidworks机械设计 #自动出图 #Solidworks出图",
+          "url": "https://www.douyin.com/video/7632778660735870833"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "27726月1日GitHub涨星最快的6个项目 6月1日GitHub涨星榜出炉，6个项目单日狂揽上万星。微软的Markitdown一天涨2759星，总星134K——任何文件一键变Markdown，不是编辑器是转换器。MoneyPrinterTurbo 74K星，文字直接出视频配字幕全搞定。VoxCPM跳过分词器做语音合成，还能克隆你的声音。从零训大模型的教程也有，跟着Notebook走一遍就行。 #GitHub #开源项目 #AI工具 #程序员 #科技6月1日GitHub涨星最快的6个项目 6月1日GitHub涨星榜出炉，6个项目单日狂揽上万星。微软的Markitdown一天涨2759星，总星134K——任何文件一键变Markdown，不是编辑器是转换器。MoneyPrinterTurbo 74K星，文字直接出视频配字幕全搞定。VoxCPM跳过分词器做语音合成，还能克隆你的声音。从零训大模型的教程也有，跟着Notebook走一遍就行。 #GitHub #开源项目 #AI工具 #程序员 #科技",
+          "url": "https://www.douyin.com/video/7646250472777396709"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "7.0万GitHub 杀疯了！6 个 AI 工具接管你的工作流 一夜爆 6 个 AI 项目，方向出奇一致：Claude Code、CodeGraph、Understand Anything、Presenton、NVIDIA LongLive 全在抢一件事——接管你的工作流。看完收藏开干。#AI工具 #ClaudeCode #GitHub #工作流 #AI编程GitHub 杀疯了！6 个 AI 工具接管你的工作流 一夜爆 6 个 AI 项目，方向出奇一致：Claude Code、CodeGraph、Understand Anything、Presenton、NVIDIA LongLive 全在抢一件事——接管你的工作流。看完收藏开干。#AI工具 #ClaudeCode #GitHub #工作流 #AI编程",
+          "url": "https://www.douyin.com/video/7643843139823799592"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "10.6万不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势",
+          "url": "https://www.douyin.com/video/7643005978984599803"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "3.5万普通大四学生手搓的万物预测引擎 #vibecoding大赏 #ai新星计划 @抖音科技 #ai #编程普通大四学生手搓的万物预测引擎 #vibecoding大赏 #ai新星计划 @抖音科技 #ai #编程",
+          "url": "https://www.douyin.com/video/7647076237428395273"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "951如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld",
+          "url": "https://www.douyin.com/video/7629014752148235941"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "75SolidWorks 通过三旋翼无人机讲解爆炸动画的制作SolidWorks 通过三旋翼无人机讲解爆炸动画的制作",
+          "url": "https://www.douyin.com/video/6829959605427129613"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "1.0万什么是人权？ #世界人权宣言 #人类权利 #哲学 #政治哲学 #科普一下什么是人权？ #世界人权宣言 #人类权利 #哲学 #政治哲学 #科普一下",
+          "url": "https://www.douyin.com/video/7626686515510267146"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "77.9万有生之年。我还能感受到你掌心的纹路。#梦女 #梦女向 #ai电子皮肤有生之年。我还能感受到你掌心的纹路。#梦女 #梦女向 #ai电子皮肤",
+          "url": "https://www.douyin.com/video/7618215845408682408"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "5.7万解构主义 很多你以为正确的观点在某种层面上也只是另一种刻板印象罢了 质疑才是迈向哲理的第一步 本期视频背景图片来自画师：a6 #哲学 #情感 #心理学 #解构主义 #青年创作者成长计划解构主义 很多你以为正确的观点在某种层面上也只是另一种刻板印象罢了 质疑才是迈向哲理的第一步 本期视频背景图片来自画师：a6 #哲学 #情感 #心理学 #解构主义 #青年创作者成长计划",
+          "url": "https://www.douyin.com/video/7613682879524015410"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "2919#扣合 #solidworks教学 #solidworks#扣合 #solidworks教学 #solidworks",
+          "url": "https://www.douyin.com/video/7594419179631012858"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "1.7万Solidworks如何自动生成链条？ #solidworks建模 #三维建模 #机械设计 #嘉立创ican工具箱Solidworks如何自动生成链条？ #solidworks建模 #三维建模 #机械设计 #嘉立创ican工具箱",
+          "url": "https://www.douyin.com/video/7600031247938637102"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "3231天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救",
+          "url": "https://www.douyin.com/video/7321289324979359014"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "1428SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛",
+          "url": "https://www.douyin.com/video/7639345343213194496"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "273复刻模型网站上比较受欢迎的不可能穿越模型系列 这次我们通过建模复刻模型网站上比较受欢迎的不可能穿越模型系列， Passthrough模型，掌握了这种建模方法，各种形状的穿越模型，你都可以做出来。#建模教程#3d打印#fusion360#passthrough模型#穿越模型复刻模型网站上比较受欢迎的不可能穿越模型系列 这次我们通过建模复刻模型网站上比较受欢迎的不可能穿越模型系列， Passthrough模型，掌握了这种建模方法，各种形状的穿越模型，你都可以做出来。#建模教程#3d打印#fusion360#passthrough模型#穿越模型",
+          "url": "https://www.douyin.com/video/7640060607874069221"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "3836当我翻出来相册里那些被遗忘的照片 恰巧遇到这个模板的我……“当后来的我去翻阅曾经的记录时 那些事情得以二次曝光……”#模板已做好#剪映#记录的意义当我翻出来相册里那些被遗忘的照片 恰巧遇到这个模板的我……“当后来的我去翻阅曾经的记录时 那些事情得以二次曝光……”#模板已做好#剪映#记录的意义",
+          "url": "https://www.douyin.com/video/7641576114256093411"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "14.1万CAD一键出图！Codex秒变画图大师！ 上大二的时候学习工图，老师会给出零件图让我们在cad画，这次我让codex画一个零件图，看看能不能达到效果，果然codex还是完美的完成了任务，分析完之后秒出图，里面的线条粗细、颜色，也是他自己分类生成的，看着非常协调和标准。随着技术的发展，我们的教学方式也会发生更多的改变 #大学生 #研究生 #涨知识 #机械设计 #AICAD一键出图！Codex秒变画图大师！ 上大二的时候学习工图，老师会给出零件图让我们在cad画，这次我让codex画一个零件图，看看能不能达到效果，果然codex还是完美的完成了任务，分析完之后秒出图，里面的线条粗细、颜色，也是他自己分类生成的，看着非常协调和标准。随着技术的发展，我们的教学方式也会发生更多的改变 #大学生 #研究生 #涨知识 #机械设计 #AI",
+          "url": "https://www.douyin.com/video/7638858871989112091"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "1595AI直接生成CAD的项目带逛 带逛3个AI生成CAD项目，第一个为 #texttocad 第二个为多智能体系统生成CAD的论文，第三个为AI生成具身智能环境的论文，最后展示了我自己用AI生成的简单CAD作品，对大家了解目前AI生成CAD的发展水平以及汲取AI在垂直领域应用的研究思路具有一定的帮助作用。 #aigc #ai发展 #科研AI直接生成CAD的项目带逛 带逛3个AI生成CAD项目，第一个为 #texttocad 第二个为多智能体系统生成CAD的论文，第三个为AI生成具身智能环境的论文，最后展示了我自己用AI生成的简单CAD作品，对大家了解目前AI生成CAD的发展水平以及汲取AI在垂直领域应用的研究思路具有一定的帮助作用。 #aigc #ai发展 #科研",
+          "url": "https://www.douyin.com/video/7644613028209528064"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "共创2.0万第五代无沟世吞发布！再一次创造历史！ #我的世界 #生电 #mc #红石 #世吞第五代无沟世吞发布！再一次创造历史！ #我的世界 #生电 #mc #红石 #世吞",
+          "url": "https://www.douyin.com/video/7643383940081863945"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "4.9万codex调用嘉立创EDA，画一个EP4CE6的最小系统板的原理图 全程几乎没有接管 之后会分享一个AI设计PCB布局布线的工具 #pcb #codex #ai #嘉立创codex调用嘉立创EDA，画一个EP4CE6的最小系统板的原理图 全程几乎没有接管 之后会分享一个AI设计PCB布局布线的工具 #pcb #codex #ai #嘉立创",
+          "url": "https://www.douyin.com/video/7638275226475756922"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "4.9万用Claude Code一定要装这SKill！ 这是一个可以让你的Claude Code，变得更好用的开源项目，它的名字叫做andrej-karpathy-skills，短短一个月就涨到了10万 Star，但离谱的是，这个项目里只有一个65行markdown文档，为什么这么短的内容却有这么大的影响力呢？#vibecoding #claudecode #claude #github #开源项目用Claude Code一定要装这SKill！ 这是一个可以让你的Claude Code，变得更好用的开源项目，它的名字叫做andrej-karpathy-skills，短短一个月就涨到了10万 Star，但离谱的是，这个项目里只有一个65行markdown文档，为什么这么短的内容却有这么大的影响力呢？#vibecoding #claudecode #claude #github #开源项目",
+          "url": "https://www.douyin.com/video/7635237566043688238"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "447妈妈再也不用担心我片没翻译了🎉🎉🎉#F1 #ai #实时翻译 #potplayer妈妈再也不用担心我片没翻译了🎉🎉🎉#F1 #ai #实时翻译 #potplayer",
+          "url": "https://www.douyin.com/video/7646139947213660315"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "6.8万让Codex干活飞起 #codex #AI应用 #提效神器让Codex干活飞起 #codex #AI应用 #提效神器",
+          "url": "https://www.douyin.com/video/7646303972000681267"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "2026高考最新消息 今年低分考生的福音来了，如果你的分数在300分以上，均可尝试报考#高考 #升学志愿填报 #升学规划 #江苏高考 #高三家长必看",
+          "url": "https://www.douyin.com/video/7650344405723956819"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "蔡皋获国际安徒生奖",
+          "url": "https://www.douyin.com/video/7628419278835879214?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "绝对不可能有人会笑着看完我这个视频。#搞笑视频",
+          "url": "https://www.douyin.com/video/7418197437153611017?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "几何画板11.4动画按钮的制作点在线段上的运动 #几何画板的应用",
+          "url": "https://www.douyin.com/video/7194341708518214970?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "雾灰河畔｜胖mm薄绒长袖长裤230斤睡衣甜美宽松新款微胖少女家居服#女生这款睡衣穿着很舒服#秋冬这套睡衣质量很好做工精细",
+          "url": "https://www.douyin.com/video/7582265200055192872?source=Baiduspider-sdc"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "不定期释放库存之冷门歌曲《悲剧人物》#张敬轩 #神级现场 #港乐 #行走的cd 回味一下教科书般的0换气声😎我永远为轩公的无敌唱功而折服！！！",
+          "url": "https://www.douyin.com/video/7300205806618807567?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "我到佛山的第一天竟然地震了！愿世间没有灾难.. #广东河源地震 #南海影视城 #旗袍大赛 #关注我带你去旅行 #我们",
+          "url": "https://www.douyin.com/video/7208393053512535308?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "挑战连续吃手剥笋第22天，今天整大笋王！模仿咕咕鸡失败#手剥笋 #抖音美食推荐官 #爱自己的100种方式从吃开始 @抖音小助手 @抖音美食达人助手 @抖音创作者中心",
+          "url": "https://www.douyin.com/video/7271209635875409207?source=Baiduspider-sdc"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "841报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳",
+          "url": "https://www.douyin.com/video/7601184999748861318"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "44.8万Photoshop无痕改字技巧 #ps教程 #p图教程 #PS #无痕改字 #P图Photoshop无痕改字技巧 #ps教程 #p图教程 #PS #无痕改字 #P图",
+          "url": "https://www.douyin.com/video/7525328852256623922"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "9043Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图",
+          "url": "https://www.douyin.com/video/7613221005042431458"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "共创111.6万#法润平安文明相伴#摩托车#社死现场男子玩翘头摩托炫技直播，交警匆匆赶来合拍 #法润平安文明相伴 #摩托车 #社死现场#法润平安文明相伴#摩托车#社死现场男子玩翘头摩托炫技直播，交警匆匆赶来合拍 #法润平安文明相伴 #摩托车 #社死现场",
+          "url": "https://www.douyin.com/video/7371066911691443496"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "1.6万CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启",
+          "url": "https://www.douyin.com/video/7638528109360675050"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "1.0万前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹",
+          "url": "https://www.douyin.com/video/7640864233253523566"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "19.5万美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights",
+          "url": "https://www.douyin.com/video/7640014201297433289"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "1.4万#3d打印 #f1#3d打印 #f1",
+          "url": "https://www.douyin.com/video/7638639751822669311"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "14.6万反反发布一条日常反反发布一条日常",
+          "url": "https://www.douyin.com/video/7633375633239125477"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "35.8万你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣",
+          "url": "https://www.douyin.com/video/7635623093906673318"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "2.4万请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭",
+          "url": "https://www.douyin.com/video/7630008849424870586"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "3166神奇小物件，充满自己会拔插头#手机充电器神奇小物件，充满自己会拔插头#手机充电器",
+          "url": "https://www.douyin.com/video/7628980310386290427"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "11.2万人生建议：不要与母亲结盟攻击父亲 #情感 #情感共鸣 #心理学 #自我提升 #亲密关系人生建议：不要与母亲结盟攻击父亲 #情感 #情感共鸣 #心理学 #自我提升 #亲密关系",
+          "url": "https://www.douyin.com/video/7604841738317892914"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "1.7万你真的需要一段恋爱吗？说明你只是想要一个精神寄托而已# #情感心理 #情感共鸣#共鸣你真的需要一段恋爱吗？说明你只是想要一个精神寄托而已# #情感心理 #情感共鸣#共鸣",
+          "url": "https://www.douyin.com/video/7608527617721334729"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "8.3万一个三甲医院医生说:“人只有在即将死亡的时候才能够明白这一切。人生其实就是一场骗局，最主要的任务根本不是买房买车，也不是即时行乐，这其实是欲望，不是真相。”人生就是一个梦，虚无缥缈并不真实。我们不要给自己那么多的使命感和过剩的责任感，在这个世界上，活着的我们和一只蚂蚁，一只昆虫，一只蚊子，一只甲壳虫，没有任何区别。当你走到了生命的尾声，蓦然回首，就会明白，我们追求的一切都恍若云烟，功名利禄终将变为尘土，恩怨情仇也终将随风飘散，我们在这个世 间最真实的需要，不过就是内心的感受而已。我们最根本的任务不是买房买车，不是让别人羡慕，也不是过的一定要比别人好，而是可以按照自己喜欢的方式度过一生。请记住你透支健康换来的优秀，不过是人事档案里随时可替换的几行宋体字。而单位的运转齿轮从未因此停滞半分。人生不是用红头文件丈量的，而是用看见花开、听见雨声的瞬间拼凑的。毕竟，你熬的夜、拼的命、流的泪，最后都成了档案袋里轻飘飘白A4纸，而你错过的晚霞、失约的晚餐、没牵到的手，才是永远无法补录的人生正文。视频来源：@奇幻日一个三甲医院医生说:“人只有在即将死亡的时候才能够明白这一切。人生其实就是一场骗局，最主要的任务根本不是买房买车，也不是即时行乐，这其实是欲望，不是真相。”人生就是一个梦，虚无缥缈并不真实。我们不要给自己那么多的使命感和过剩的责任感，在这个世界上，活着的我们和一只蚂蚁，一只昆虫，一只蚊子，一只甲壳虫，没有任何区别。当你走到了生命的尾声，蓦然回首，就会明白，我们追求的一切都恍若云烟，功名利禄终将变为尘土，恩怨情仇也终将随风飘散，我们在这个世 间最真实的需要，不过就是内心的感受而已。我们最根本的任务不是买房买车，不是让别人羡慕，也不是过的一定要比别人好，而是可以按照自己喜欢的方式度过一生。请记住你透支健康换来的优秀，不过是人事档案里随时可替换的几行宋体字。而单位的运转齿轮从未因此停滞半分。人生不是用红头文件丈量的，而是用看见花开、听见雨声的瞬间拼凑的。毕竟，你熬的夜、拼的命、流的泪，最后都成了档案袋里轻飘飘白A4纸，而你错过的晚霞、失约的晚餐、没牵到的手，才是永远无法补录的人生正文。视频来源：@奇幻日",
+          "url": "https://www.douyin.com/video/7604163357960954986"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "3.1万幻术的世界有什么不好的#幻术的世界有什么不好 #劳动人民最光荣 #剪辑幻术的世界有什么不好的#幻术的世界有什么不好 #劳动人民最光荣 #剪辑",
+          "url": "https://www.douyin.com/video/7593256979809524131"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "9.6万SpaceX精彩的火箭回收#民营航天#火箭回收#星舰#火箭回收SpaceX精彩的火箭回收#民营航天#火箭回收#星舰#火箭回收",
+          "url": "https://www.douyin.com/video/7590376736522984905"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "8.6万当作文题目是“反思”时 #猫meme #猫meme日常 #大爱仙尊 #配音木成当作文题目是“反思”时 #猫meme #猫meme日常 #大爱仙尊 #配音木成",
+          "url": "https://www.douyin.com/video/7581420346415729930"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "18.1万【漫士-无痛高数】一个游戏直观理解极限和连续 #前沿知识派对 #数学 #数学思维 #高等数学 #考研【漫士-无痛高数】一个游戏直观理解极限和连续 #前沿知识派对 #数学 #数学思维 #高等数学 #考研",
+          "url": "https://www.douyin.com/video/7575003354682756379"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "5.0万#拟音#拟音",
+          "url": "https://www.douyin.com/video/7572087194547666034"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "24.8万我跟垃圾短信“死磕”，没想到居然赚了3600块钱！ （双手叉腰，蹦跶出场）哟嗬～本堂主最近跟垃圾短信斗智斗勇，居然赚了整整3600块！是不是很厉害呀？ （掏出一叠小本本）以前收到这种烦人短信都是随手删掉，后来发现——它们居然都是违法的！本堂主一拍桌子：这不得让它们好好赔偿我的精神损失？ （掰着手指数数）让我给你讲讲我的辉煌战绩： ✨ 一条百度网盘短信 → 赔了500 ✨ 贷款骚扰几小时 → 秒收500 ✨ 1分钱买票被狂轰8条 → 怒赚2000 ✨ 360贷款短信 → 轻松到手100 ✨ 连续5条投诉信 → 又收500 （眨眨眼）其实超简单：留着短信别删，找到是谁发的，理直气壮去要赔偿！大部分公司都怂得很快呢～ （晃着钱袋子）现在本堂主的钱包又鼓啦！下次再收到这种短信，记得学我一样——该出手时就出手，让他们知道往生堂主可不是好惹的！ （转身蹦跳着离开）走啦走啦，还要去给客卿看看我的战利品呢～我跟垃圾短信“死磕”，没想到居然赚了3600块钱！ （双手叉腰，蹦跶出场）哟嗬～本堂主最近跟垃圾短信斗智斗勇，居然赚了整整3600块！是不是很厉害呀？ （掏出一叠小本本）以前收到这种烦人短信都是随手删掉，后来发现——它们居然都是违法的！本堂主一拍桌子：这不得让它们好好赔偿我的精神损失？ （掰着手指数数）让我给你讲讲我的辉煌战绩： ✨ 一条百度网盘短信 → 赔了500 ✨ 贷款骚扰几小时 → 秒收500 ✨ 1分钱买票被狂轰8条 → 怒赚2000 ✨ 360贷款短信 → 轻松到手100 ✨ 连续5条投诉信 → 又收500 （眨眨眼）其实超简单：留着短信别删，找到是谁发的，理直气壮去要赔偿！大部分公司都怂得很快呢～ （晃着钱袋子）现在本堂主的钱包又鼓啦！下次再收到这种短信，记得学我一样——该出手时就出手，让他们知道往生堂主可不是好惹的！ （转身蹦跳着离开）走啦走啦，还要去给客卿看看我的战利品呢～",
+          "url": "https://www.douyin.com/video/7578049375671209235"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "1370SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作过程 #教程 #干货分享 #技术分享SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作过程 #教程 #干货分享 #技术分享",
+          "url": "https://www.douyin.com/video/7276403081569422652"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "151.4万生命律动！#治愈系风景 #旅行推荐官 #川西美景生命律动！#治愈系风景 #旅行推荐官 #川西美景",
+          "url": "https://www.douyin.com/video/7565562542383320357"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "132#艾跃进 永远都不要忘记阶级斗争#艾跃进 永远都不要忘记阶级斗争",
+          "url": "https://www.douyin.com/video/7441115837219540239"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "353#rc遥控车 #穿越机fpv 两栖无人机第二集，有兴趣的朋友主页加粉丝群#rc遥控车 #穿越机fpv 两栖无人机第二集，有兴趣的朋友主页加粉丝群",
+          "url": "https://www.douyin.com/video/7500834152884882722"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "718陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车",
+          "url": "https://www.douyin.com/video/7495637449429044530"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "18.5万每日情感小故事23#神力科莎 #地平线 #海岸线 #情感故事每日情感小故事23#神力科莎 #地平线 #海岸线 #情感故事",
+          "url": "https://www.douyin.com/video/7571030051576500902"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "8.7万从哪找这么可爱的女朋友啊#情侣日常 #可爱到爆炸💥 #周周饼干 @周周饼干从哪找这么可爱的女朋友啊#情侣日常 #可爱到爆炸💥 #周周饼干 @周周饼干",
+          "url": "https://www.douyin.com/video/7562480877004983611"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "60.7万“幸福让人江郎才尽，痛苦让人文思泉涌”#刘楚昕#泥潭 #漓江文学奖 #余华“幸福让人江郎才尽，痛苦让人文思泉涌”#刘楚昕#泥潭 #漓江文学奖 #余华",
+          "url": "https://www.douyin.com/video/7559948304931736858"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "6.4万找对象，陌陌靠谱，快来评论区看 视频文件过大，配字幕的时候软件崩溃了，有些错别字大家甄别#陌陌 #单身姑娘找对象，陌陌靠谱，快来评论区看 视频文件过大，配字幕的时候软件崩溃了，有些错别字大家甄别#陌陌 #单身姑娘",
+          "url": "https://www.douyin.com/video/7503129644330126607"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "27.9万什么是爱 于是我想起了初次见面的拘谨 聊到深夜的语音和第一次牵手拥抱 #钢琴什么是爱 于是我想起了初次见面的拘谨 聊到深夜的语音和第一次牵手拥抱 #钢琴",
+          "url": "https://www.douyin.com/video/7501281767605718287"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "23.0万“我有新房子了”#牛马 #房贷压力 #三十年 “我有新房子了”#牛马 #房贷压力 #三十年",
+          "url": "https://www.douyin.com/video/7497228769716047145"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "229.7万@niny 谁女朋友这么好呢#男友视角@niny 谁女朋友这么好呢#男友视角",
+          "url": "https://www.douyin.com/video/7467226229637221686"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "6.8万钟表能回到原点 但再也不是昨天 #地平线5 #漂移 #神龙大学习钟表能回到原点 但再也不是昨天 #地平线5 #漂移 #神龙大学习",
+          "url": "https://www.douyin.com/video/7429407897727012107"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "29.1万一个有关于青春和成长的故事~ #听见涛声 #完整版一个有关于青春和成长的故事~ #听见涛声 #完整版",
+          "url": "https://www.douyin.com/video/7365113857427131663"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "80.4万没有给到的礼物我一次性补齐没有给到的礼物我一次性补齐",
+          "url": "https://www.douyin.com/video/7332041267225922857"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "2.2万下架也是好词#小眼下架也是好词#小眼",
+          "url": "https://www.douyin.com/video/7313581194476653861"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "8.5万#情感 #情感共鸣 #没有技巧全是感情 #拿得出手的爱就是这样 #这段陪伴算礼物还是惩罚 兄弟，我也不知道这个是谁，我就发上来试试看你能不能看到，你发小作文的时候，人家还在瑶骰子呢！#情感 #情感共鸣 #没有技巧全是感情 #拿得出手的爱就是这样 #这段陪伴算礼物还是惩罚 兄弟，我也不知道这个是谁，我就发上来试试看你能不能看到，你发小作文的时候，人家还在瑶骰子呢！",
+          "url": "https://www.douyin.com/video/7306461915583188275"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "230.2万#海阔天空 #黄家驹 人生不就活那么几个瞬间吗#海阔天空 #黄家驹 人生不就活那么几个瞬间吗",
+          "url": "https://www.douyin.com/video/7304288737247120679"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "14.2万该回来了，我的朋友 #apex #apex英雄 #派派 该回来了，我的朋友 #apex #apex英雄 #派派",
+          "url": "https://www.douyin.com/video/7301973657683758388"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "48#向烟花许个愿 #向烟花许个愿",
+          "url": "https://www.douyin.com/video/7183337482962898228"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "4.9万#apex英雄 如果知道那是见你的最后一面，也许我真的会心脏狂跳#apex英雄 如果知道那是见你的最后一面，也许我真的会心脏狂跳",
+          "url": "https://www.douyin.com/video/7292813096291192102"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "64.7万“弱智吧”还是“诗人吧”？“弱智吧”还是“诗人吧”？",
+          "url": "https://www.douyin.com/video/7285615122310106427"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "97.3万这白狗无奈的眼神能看出，这锅它替黑狗背咯这白狗无奈的眼神能看出，这锅它替黑狗背咯",
+          "url": "https://www.douyin.com/video/7290463710261415227"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "4.8万《拿兄弟挡箭哥》#都是我兄弟 #甩锅 #桃园结义 #没那么轻易《拿兄弟挡箭哥》#都是我兄弟 #甩锅 #桃园结义 #没那么轻易",
+          "url": "https://www.douyin.com/video/7290080585773518116"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "23.6万你只是无聊生活的消遣罢了 #cheems #cheems降临 #情感 你只是无聊生活的消遣罢了 #cheems #cheems降临 #情感",
+          "url": "https://www.douyin.com/video/7289828841420262712"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "4.3万#自我攻略 #不准说她#自我攻略 #不准说她",
+          "url": "https://www.douyin.com/video/7270796824787602724"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "4.3万采耳vlog-她说话温柔，撩得我乐开花#vlog日常 #探店 #养生 #享受这悠闲时光 #搞笑 #掏耳朵 采耳vlog-她说话温柔，撩得我乐开花#vlog日常 #探店 #养生 #享受这悠闲时光 #搞笑 #掏耳朵",
+          "url": "https://www.douyin.com/video/7286849457117842743"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "18.6万晚安#搞笑 #抽象艺术 #搞笑视频晚安#搞笑 #抽象艺术 #搞笑视频",
+          "url": "https://www.douyin.com/video/7268227884756634916"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "雅思口语题库：最近读过的故事 Describe a story (e.g. a fairy tale, etc.) you have read recently. You should say: What it is about When you read it Whether you liked it And explain what you have learned from it 重点词组： short story — 短篇小说 browsing online — 在网上浏览 before bed",
+          "url": "https://www.douyin.com/video/7650458378556885411"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "陕西这碗刀刀碗饦你吃过吗",
+          "url": "https://www.douyin.com/video/7614081780723880079?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "“黑椒菠萝生煎猪扒仔”肉滑鲜味十足值得推荐 #一起学做菜 #美食教程 #粤菜",
+          "url": "https://www.douyin.com/video/7421896642602847545?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "乌伦古湖是戈壁滩上的大型淡水湖，被誉为阿勒泰明珠，总面积1035平方公里，湖水面积827平方公里，自然景观十分壮观，是一个绝佳的休闲度假好去处。",
+          "url": "https://www.douyin.com/video/7413698876210695463?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "沪剧 千千的情结心头萦 #沪剧经典唱段欣赏 #关注我每天分享精彩戏曲 #感谢一路陪伴一路支持🌹🌹",
+          "url": "https://www.douyin.com/video/7195467776335547708?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "大型电视连续剧工笔画入门第二集#画 #充能计划 #谁说国画不抖音 @抖音小助手",
+          "url": "https://www.douyin.com/video/6835251712949898499?source=Baiduspider"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
+          "title": "一场雨捂了个把月，终于可以出来透透气了。#户外徒步 #绛县红叶",
+          "url": "https://www.douyin.com/video/7563315808568347954?source=Baiduspider-sdc"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "platform": "YouTube",
+      "status": "visible_items_found",
+      "sections": [
+        {
+          "section": "Liked videos",
+          "url": "https://www.youtube.com/playlist?list=LL",
+          "count": 9
+        },
+        {
+          "section": "Watch later",
+          "url": "https://www.youtube.com/playlist?list=WL",
+          "count": 6
+        },
+        {
+          "section": "Playlists",
+          "url": "https://www.youtube.com/feed/playlists",
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "全部播放",
+          "url": "https://www.youtube.com/watch?v=zHttZ3jGmrs&list=LL&pp=sAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "随机播放",
+          "url": "https://www.youtube.com/watch?v=U_5QcGhau9I&list=LL&pp=sAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "随机播放",
+          "url": "https://www.youtube.com/watch?v=uyZ887mnh9s&list=LL&pp=sAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "6:45",
+          "url": "https://www.youtube.com/watch?v=zHttZ3jGmrs&list=LL&index=1&t=170s&pp=iAQBsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "27:15",
+          "url": "https://www.youtube.com/watch?v=uiMsul6sKus&list=LL&index=2&pp=iAQB0gcJCToLAYcqIYzvsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "26:10",
+          "url": "https://www.youtube.com/watch?v=uyZ887mnh9s&list=LL&index=3&t=1283s&pp=iAQBsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "12:03",
+          "url": "https://www.youtube.com/watch?v=U_5QcGhau9I&list=LL&index=4&t=56s&pp=iAQB0gcJCToLAYcqIYzvsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "11:29",
+          "url": "https://www.youtube.com/watch?v=UL5uU9bCaEE&list=LL&index=5&pp=iAQBsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "3:44",
+          "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg&list=LL&index=6&pp=iAQBsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Watch later",
+          "title": "如何记单词",
+          "url": "https://www.youtube.com/watch?v=JuoqE2lpRUM&list=WL&index=1&t=5s&pp=iAQBsAgC",
+          "meta": "English with Ronnie · EnglishLessons4U with engVid English with Ronnie · EnglishLessons4U with engVid"
+        },
+        {
+          "platform": "YouTube",
+          "section": "Watch later",
+          "title": "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU",
+          "url": "https://www.youtube.com/watch?v=5MgBikgcWnY&list=WL&index=2&t=8s&pp=iAQBsAgC",
+          "meta": "TEDx Talks TEDx Talks"
+        },
+        {
+          "platform": "YouTube",
+          "section": "Watch later",
+          "title": "No Measuring! 2 Fast ways to Design Gridfinity Shadow Boxes",
+          "url": "https://www.youtube.com/watch?v=fGtTYha84vc&list=WL&index=3&pp=iAQBsAgC",
+          "meta": "Send to Print Send to Print"
+        },
+        {
+          "platform": "YouTube",
+          "section": "Watch later",
+          "title": "openclash新手教程系列附加篇、DNS泄露、openclash搭配Adguardhome、openclash远程访问、订阅失败、BT直连等问题解决",
+          "url": "https://www.youtube.com/watch?v=5-eSqP-iNnc&list=WL&index=4&t=896s&pp=iAQBsAgC",
+          "meta": "七尺宇 七尺宇"
+        },
+        {
+          "platform": "YouTube",
+          "section": "Watch later",
+          "title": "【归档】零基础保姆级小白节点搭建教学，目前最安全最稳定的搭建方式，将可能暴露翻墙的服务全部隐藏，操作一次即可安心使用自己专属的节点，跳出翻墙出来学翻墙的怪圈，通过x-ui面板实现单端口多用户合租",
+          "url": "https://www.youtube.com/watch?v=s90feRmdr9A&list=WL&index=5&pp=iAQBsAgC",
+          "meta": "不良林 不良林"
+        },
+        {
+          "platform": "YouTube",
+          "section": "Watch later",
+          "title": "ASMR mean girl does your makeup in school bathroom",
+          "url": "https://www.youtube.com/watch?v=7dCWt36jwjE&list=WL&index=6&t=58s&pp=iAQB0gcJCToLAYcqIYzvsAgC",
+          "meta": "Ices The Enchantress Ices The Enchantress"
+        },
+        {
+          "platform": "YouTube",
+          "section": "Playlists",
+          "title": "6 个视频",
+          "url": "https://www.youtube.com/watch?v=JuoqE2lpRUM&list=WL&pp=iAQBsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Playlists",
+          "title": "6 个视频",
+          "url": "https://www.youtube.com/watch?v=zHttZ3jGmrs&list=LL&pp=iAQBsAgC",
+          "meta": ""
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

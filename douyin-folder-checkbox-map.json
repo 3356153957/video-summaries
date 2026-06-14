@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "checked": false,
+    "x": 830,
+    "y": 386,
+    "text": "哲学人文 3",
+    "outer": "<input aria-checked=\"false\" class=\"semi-checkbox-input\" type=\"checkbox\">"
+  },
+  {
+    "index": 1,
+    "checked": false,
+    "x": 830,
+    "y": 438,
+    "text": "CAD建模3D打印 10",
+    "outer": "<input aria-checked=\"false\" class=\"semi-checkbox-input\" type=\"checkbox\">"
+  },
+  {
+    "index": 2,
+    "checked": false,
+    "x": 830,
+    "y": 490,
+    "text": "AI与Codex工具 29",
+    "outer": "<input aria-checked=\"false\" class=\"semi-checkbox-input\" type=\"checkbox\">"
+  },
+  {
+    "index": 3,
+    "checked": false,
+    "x": 830,
+    "y": 542,
+    "text": "健身健康 4",
+    "outer": "<input aria-checked=\"false\" class=\"semi-checkbox-input\" type=\"checkbox\">"
+  },
+  {
+    "index": 4,
+    "checked": false,
+    "x": 830,
+    "y": 594,
+    "text": "游戏攻略 1",
+    "outer": "<input aria-checked=\"false\" class=\"semi-checkbox-input\" type=\"checkbox\">"
+  },
+  {
+    "index": 5,
+    "checked": false,
+    "x": 830,
+    "y": 646,
+    "text": "情感生活 1",
+    "outer": "<input aria-checked=\"false\" class=\"semi-checkbox-input\" type=\"checkbox\">"
+  },
+  {
+    "index": 6,
+    "checked": false,
+    "x": 830,
+    "y": 698,
+    "text": "模板素材 3",
+    "outer": "<input aria-checked=\"false\" class=\"semi-checkbox-input\" type=\"checkbox\">"
+  }
+]
