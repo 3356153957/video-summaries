@@ -9,6 +9,25 @@ const unclassifiedOutputFile = "video-summary-unclassified-output.json";
 if (fs.existsSync(unclassifiedOutputFile)) {
   const unclassifiedOutput = JSON.parse(fs.readFileSync(unclassifiedOutputFile, "utf8"));
   if (Array.isArray(unclassifiedOutput.items)) {
+    const sanitizedInputFile = "video-summary-unclassified-input.sanitized.json";
+    if (fs.existsSync(sanitizedInputFile)) {
+      const sanitized = JSON.parse(fs.readFileSync(sanitizedInputFile, "utf8"));
+      const sanitizedById = new Map((sanitized.items || []).map((item) => [item.id, item]));
+
+      unclassifiedOutput.items = unclassifiedOutput.items.map((item) => {
+        const orig = sanitizedById.get(item.id);
+        if (orig) {
+          return {
+            ...item,
+            platform: orig.platform,
+            source_id: orig.platform === "Douyin" ? "" : orig.id,
+            title: orig.title,
+            url: orig.url,
+          };
+        }
+        return item;
+      });
+    }
     summary.items = [...(summary.items || []), ...unclassifiedOutput.items];
   }
 }
@@ -70,6 +89,7 @@ function fallbackMeta(item) {
 }
 
 function category(item) {
+  if (item.category) return item.category;
   if (item.platform === "Bilibili" && /AI工具|默认收藏夹/.test(item.folder || "")) return "AI工具";
   if (item.platform === "Douyin") return item.folder || "抖音收藏";
   if (item.platform === "YouTube") return item.folder || "YouTube收藏";
