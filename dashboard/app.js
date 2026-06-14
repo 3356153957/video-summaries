@@ -10,10 +10,39 @@ const state = {
 
 const videos = window.VIDEO_DASHBOARD_DATA || [];
 const fallbackCovers = {
-  Bilibili: "linear-gradient(135deg, #173247, #28c7df)",
-  Douyin: "linear-gradient(135deg, #151c24, #fe2c55 52%, #25f4ee)",
-  YouTube: "linear-gradient(135deg, #2a1517, #ff0033)",
+  Bilibili: "linear-gradient(135deg, #fb7299, #fc9bb8)",
+  Douyin: "linear-gradient(135deg, #161823, #25f4ee)",
+  YouTube: "linear-gradient(135deg, #ff0000, #ff5c5c)",
 };
+
+const platformSvgs = {
+  Bilibili: `<svg class="logo-svg" viewBox="0 0 24 24" fill="currentColor"><path d="M17.8 2c.4 0 .8.2 1 .5l2.7 3.5c.3.5.2 1.1-.3 1.4-.2.1-.4.2-.6.2H3.4c-.6 0-1-.4-1-1 0-.2.1-.4.2-.6L5.3 2.5c.2-.3.6-.5 1-.5h11.5zM3 9h18c.6 0 1 .4 1 1v9.5c0 1.9-1.6 3.5-3.5 3.5H5.5C3.6 23 2 21.4 2 19.5V10c0-.6.4-1 1-1zm3 4.5c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5 1.5-.7 1.5-1.5-.7-1.5-1.5-1.5zm12 0c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5 1.5-.7 1.5-1.5-.7-1.5-1.5-1.5z"/></svg>`,
+  Douyin: `<svg class="logo-svg" viewBox="0 0 24 24" fill="currentColor"><path d="M11.5 0v15.3c-.6-.4-1.3-.7-2.1-.7-2.4 0-4.4 2-4.4 4.4s2 4.4 4.4 4.4c2.3 0 4.2-1.8 4.4-4.1V7.1c1.8 1.3 4 2.1 6.4 2.2v-4c-3 0-5.4-1.9-5.9-4.6h-2.8z"/></svg>`,
+  YouTube: `<svg class="logo-svg" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.163a3.003 3.003 0 0 0-2.11-2.11C19.517 3.545 12 3.545 12 3.545s-7.517 0-9.388.508a3.003 3.003 0 0 0-2.11 2.11C0 8.033 0 12 0 12s0 3.967.502 5.837a3.003 3.003 0 0 0 2.11 2.11C4.483 20.455 12 20.455 12 20.455s7.517 0 9.388-.508a3.003 3.003 0 0 0 2.11-2.11C24 15.967 24 12 24 12s0-3.967-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>`,
+};
+
+window.handleImageError = function(img) {
+  const thumb = img.closest(".thumb");
+  if (thumb) {
+    const template = thumb.querySelector("template");
+    if (template) {
+      img.replaceWith(template.content.cloneNode(true));
+    }
+  }
+};
+
+function getPlatformIcon(platform) {
+  if (platform === "Bilibili") {
+    return `<svg class="platform-icon" viewBox="0 0 24 24" style="color:#fb7299"><path d="M17.8 2c.4 0 .8.2 1 .5l2.7 3.5c.3.5.2 1.1-.3 1.4-.2.1-.4.2-.6.2H3.4c-.6 0-1-.4-1-1 0-.2.1-.4.2-.6L5.3 2.5c.2-.3.6-.5 1-.5h11.5zM3 9h18c.6 0 1 .4 1 1v9.5c0 1.9-1.6 3.5-3.5 3.5H5.5C3.6 23 2 21.4 2 19.5V10c0-.6.4-1 1-1zm3 4.5c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5 1.5-.7 1.5-1.5-.7-1.5-1.5-1.5zm12 0c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5 1.5-.7 1.5-1.5-.7-1.5-1.5-1.5z"/></svg>`;
+  }
+  if (platform === "Douyin") {
+    return `<svg class="platform-icon" viewBox="0 0 24 24" style="color:var(--text-pure)"><path d="M11.5 0v15.3c-.6-.4-1.3-.7-2.1-.7-2.4 0-4.4 2-4.4 4.4s2 4.4 4.4 4.4c2.3 0 4.2-1.8 4.4-4.1V7.1c1.8 1.3 4 2.1 6.4 2.2v-4c-3 0-5.4-1.9-5.9-4.6h-2.8z"/></svg>`;
+  }
+  if (platform === "YouTube") {
+    return `<svg class="platform-icon" viewBox="0 0 24 24" style="color:#ff0000"><path d="M23.498 6.163a3.003 3.003 0 0 0-2.11-2.11C19.517 3.545 12 3.545 12 3.545s-7.517 0-9.388.508a3.003 3.003 0 0 0-2.11 2.11C0 8.033 0 12 0 12s0 3.967.502 5.837a3.003 3.003 0 0 0 2.11 2.11C4.483 20.455 12 20.455 12 20.455s7.517 0 9.388-.508a3.003 3.003 0 0 0 2.11-2.11C24 15.967 24 12 24 12s0-3.967-.502-5.837zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>`;
+  }
+  return "";
+}
 const els = {
   search: document.querySelector("#searchInput"),
   platforms: document.querySelector("#platformFilters"),
@@ -32,6 +61,7 @@ const els = {
   themeText: document.querySelector("#themeText"),
   cover: document.querySelector("#detailCover"),
   valueBadge: document.querySelector("#detailValue"),
+  platform: document.querySelector("#detailPlatform"),
   category: document.querySelector("#detailCategory"),
   duration: document.querySelector("#detailDuration"),
   title: document.querySelector("#detailTitle"),
@@ -87,7 +117,8 @@ function coverFallbackLabel(video) {
 
 function fallbackCoverMarkup(video, className = "thumb-placeholder") {
   const gradient = fallbackCovers[video.platform] || "linear-gradient(135deg, #203340, #485968)";
-  return `<div class="${className}" style="background:${gradient}"><span>${coverFallbackLabel(video)}</span></div>`;
+  const svg = platformSvgs[video.platform] || "";
+  return `<div class="${className}" style="background:${gradient}">${svg}</div>`;
 }
 
 function getFilteredVideos() {
@@ -133,7 +164,14 @@ function renderFilterButtons(container, values, current, onClick) {
     const button = document.createElement("button");
     button.className = `filter-button${current === value ? " active" : ""}`;
     button.type = "button";
-    button.innerHTML = `<span>${value}</span><span>${count}</span>`;
+
+    const isPlatform = container.id === "platformFilters";
+    const iconMarkup = isPlatform ? getPlatformIcon(value) : "";
+    const labelMarkup = iconMarkup 
+      ? `<span class="filter-label">${iconMarkup}<span>${value}</span></span>`
+      : `<span>${value}</span>`;
+
+    button.innerHTML = `${labelMarkup}<span>${count}</span>`;
     button.addEventListener("click", () => onClick(value));
     container.appendChild(button);
   });
@@ -188,7 +226,7 @@ function renderList(filtered) {
     const isNew = video.date_added === today;
     const newBadge = isNew ? `<span class="badge-new">NEW</span> ` : "";
     const thumb = video.cover
-      ? `<img src="${video.cover}" alt="" loading="lazy" onerror="this.replaceWith(this.closest('.thumb').querySelector('template').content.cloneNode(true))" /><template>${fallbackCoverMarkup(video)}</template>`
+      ? `<img src="${video.cover}" alt="" loading="lazy" onerror="window.handleImageError(this)" /><template>${fallbackCoverMarkup(video)}</template>`
       : fallbackCoverMarkup(video);
     card.innerHTML = `
       <div class="thumb">
@@ -199,7 +237,7 @@ function renderList(filtered) {
         <h3 class="card-title">${newBadge}${video.title}</h3>
         <div class="card-meta">
           <span>${video.author}</span>
-          <span>${video.platform}</span>
+          <span>${getPlatformIcon(video.platform)}${video.platform}</span>
           <span>${compactNumber(video.views)} 播放</span>
           <span>${compactNumber(video.favorites)} 收藏</span>
         </div>
@@ -281,10 +319,12 @@ function selectVideo(video) {
     els.cover.style.display = "none";
   }
   els.valueBadge.textContent = `${video.value}价值`;
+  els.platform.innerHTML = `${getPlatformIcon(video.platform)}${video.platform}`;
   els.category.textContent = video.category;
   els.duration.textContent = formatDuration(video.duration);
   els.title.textContent = video.title;
-  els.author.textContent = `UP：${video.author} · ${compactNumber(video.views)} 播放 · ${compactNumber(video.favorites)} 收藏`;
+  const authorPrefix = video.platform === "Bilibili" ? "UP主" : (video.platform === "YouTube" ? "Youtuber" : "作者");
+  els.author.innerHTML = `${authorPrefix}：${video.author || '未知'} &middot; ${compactNumber(video.views)} 播放 &middot; ${compactNumber(video.favorites)} 收藏`;
   els.link.href = video.url;
   els.summary.textContent = video.summary;
   els.risks.textContent = Array.isArray(video.risks) ? video.risks.join("；") : (video.risks || "");
