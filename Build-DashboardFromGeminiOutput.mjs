@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import path from "node:path";
 
 const summaryFile = fs.existsSync("video-summary-summary.json")
   ? "video-summary-summary.json"
@@ -113,7 +114,20 @@ function normalize(item, index) {
   let cover = platformCover(item);
   if (prevByBvid.has(bvid)) {
     dateAdded = prevByBvid.get(bvid).date_added || dateAdded;
-    cover = prevByBvid.get(bvid).cover || cover;
+    let prevCover = prevByBvid.get(bvid).cover || "";
+    if (prevCover.startsWith("./covers/")) {
+      const coverFile = path.resolve("dashboard", prevCover);
+      if (fs.existsSync(coverFile)) {
+        const stat = fs.statSync(coverFile);
+        if (stat.size < 4000) {
+          console.log(`Filter out small invalid cover: ${prevCover} (${stat.size} bytes)`);
+          prevCover = "";
+        }
+      } else {
+        prevCover = "";
+      }
+    }
+    cover = prevCover || cover;
   }
 
   return {

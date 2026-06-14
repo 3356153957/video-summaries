@@ -707,6 +707,14 @@ input {
   transform: translateY(-1px);
 }
 
+.primary-link.disabled {
+  background: var(--panel-soft) !important;
+  color: var(--muted) !important;
+  box-shadow: none !important;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
 .detail-section {
   padding: 20px 0;
   border-top: 1px solid var(--line);

@@ -334,7 +334,15 @@ function selectVideo(video) {
   els.title.textContent = video.title;
   const authorPrefix = video.platform === "Bilibili" ? "UP主" : (video.platform === "YouTube" ? "Youtuber" : "作者");
   els.author.innerHTML = `${authorPrefix}：${video.author || '未知'} &middot; ${compactNumber(video.views)} 播放 &middot; ${compactNumber(video.favorites)} 收藏`;
-  els.link.href = video.url;
+  if (video.url) {
+    els.link.href = video.url;
+    els.link.classList.remove("disabled");
+    els.link.textContent = "打开原视频";
+  } else {
+    els.link.removeAttribute("href");
+    els.link.classList.add("disabled");
+    els.link.textContent = "暂无原视频链接";
+  }
   els.summary.textContent = video.summary;
   els.risks.textContent = Array.isArray(video.risks) ? video.risks.join("；") : (video.risks || "");
   renderListItems(els.keyPoints, video.keyPoints || []);
