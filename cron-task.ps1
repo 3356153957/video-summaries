@@ -22,9 +22,9 @@ node Build-UnclassifiedClassificationInput.mjs
 Write-Host "====== [4/6] 正在对新增视频进行 AI 智能分类与提炼... ======" -ForegroundColor Cyan
 try {
     # 检查是否有未分类的视频
-    $inputJson = Get-Content -Raw -Path video-summary-unclassified-input.json | ConvertFrom-Json
-    if ($inputJson.items.Count -gt 0) {
-        Write-Host "检测到共有 $($inputJson.items.Count) 个新增未分类视频，开始调用 AI 进行分类整理..."
+    $unclassifiedCount = node -e "console.log(require('./video-summary-unclassified-input.json').items.length)"
+    if ([int]$unclassifiedCount -gt 0) {
+        Write-Host "检测到共有 $unclassifiedCount 个新增未分类视频，开始调用 AI 进行分类整理..."
         node Run-ExternalAiSummary.mjs --prompt-file video-summary-unclassified-prompt.md --input-file video-summary-unclassified-input.json --sanitized-input-file video-summary-unclassified-input.sanitized.json --output-json video-summary-unclassified-output.json --run-meta-file video-summary-unclassified-run.json --provider gemini
         node Apply-UnclassifiedClassification.mjs
     } else {
