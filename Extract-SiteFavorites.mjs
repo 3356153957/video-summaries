@@ -145,9 +145,7 @@ async function getDouyinFavorites(page) {
   };
 
   const urls = [
-    "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-    "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-    "https://www.douyin.com/jingxuan",
+    "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection"
   ];
 
   for (const url of urls) {
