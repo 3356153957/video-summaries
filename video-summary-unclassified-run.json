@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T00:54:52.583Z",
+  "generated_at": "2026-06-14T14:22:29.082Z",
   "preferred_provider": "gemini",
   "fallback_provider": "gemini",
   "prompt_file": "video-summary-unclassified-prompt.md",
@@ -7,7 +7,7 @@
   "sanitized_input_file": "video-summary-unclassified-input.sanitized.json",
   "output_json_file": "video-summary-unclassified-output.json",
   "schema_version": "external-ai-summary-v2",
-  "cache_key": "83b0dfbf6941a88baa874f9754d3b6dba6a59987de4fb38ac117d4d86b55f688",
+  "cache_key": "dbc981c7c7b32f204aac2ab7556fe28664651227529e4a1f912b70b2e367ac63",
   "cache_file": "video-summary-external-ai-cache.json",
   "require_source_refs": true,
   "antigravity_retries": 1,
@@ -18,7 +18,7 @@
       "provider": "gemini",
       "attempt": 1,
       "ok": true,
-      "stdout_chars": 74841
+      "stdout_chars": 22015
     }
   ],
   "ok": true,

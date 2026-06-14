@@ -5,7 +5,7 @@ import path from 'path';
   const browser = await chromium.launch();
   const page = await browser.newPage();
   await page.setViewportSize({ width: 1440, height: 900 });
-  await page.goto('http://localhost:8000/dashboard/index.html');
+  await page.goto('file:///c:/Users/Administrator/Documents/视频总结/dashboard/index.html');
   await page.waitForTimeout(2000); // 等待页面加载和渲染完成
   
   // 截图整个页面

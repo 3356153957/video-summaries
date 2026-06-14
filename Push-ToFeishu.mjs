@@ -114,7 +114,11 @@ async function main() {
       ]
     ];
 
-    newVideos.forEach((video, index) => {
+    const maxVideosToShow = 15;
+    const videosToShow = newVideos.slice(0, maxVideosToShow);
+    const remainingCount = newVideos.length - videosToShow.length;
+
+    videosToShow.forEach((video, index) => {
       contentLines.push([
         { "tag": "text", "text": `${index + 1}. 【${video.category || "未分类"}】` },
         { "tag": "a", "text": video.title, "href": video.url },
@@ -132,6 +136,12 @@ async function main() {
         { "tag": "text", "text": "\n" }
       ]);
     });
+
+    if (remainingCount > 0) {
+      contentLines.push([
+        { "tag": "text", "text": `...以及其他 ${remainingCount} 个新视频，由于篇幅限制未全部展示。\n` }
+      ]);
+    }
 
     contentLines.push([
       { "tag": "text", "text": "────────────────────────\n" }

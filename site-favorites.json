@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T05:37:00.556Z",
+  "generated_at": "2026-06-14T14:23:54.785Z",
   "browser": "Microsoft Edge Default profile",
   "platforms": [
     {
@@ -9,323 +9,38 @@
         {
           "id": 426970342,
           "title": "默认收藏夹",
-          "media_count": 38
+          "media_count": 1
         },
         {
-          "id": 3736072842,
-          "title": "垂起",
+          "id": 4091769942,
+          "title": "学习生活杂项",
+          "media_count": 24
+        },
+        {
+          "id": 4034802642,
+          "title": "软件工具",
+          "media_count": 9
+        },
+        {
+          "id": 4019818542,
+          "title": "工程制造",
+          "media_count": 6
+        },
+        {
+          "id": 4100752542,
+          "title": "无人机飞控",
+          "media_count": 11
+        },
+        {
+          "id": 3991273042,
+          "title": "AI工具",
           "media_count": 5
-        },
-        {
-          "id": 1532595742,
-          "title": "项目",
-          "media_count": 15
         }
       ],
       "items": [
         {
           "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
-          "url": "https://www.bilibili.com/video/BV1RcRmBbE3x",
-          "bvid": "BV1RcRmBbE3x",
-          "author": "Juang_42号搭车客",
-          "description": "如果Skill没有配置好，那么Agent使用起来的效果就会事倍功半。 我尝试了十几个Agent和几十个Skill，这些Skill是我每天都在用的，而且不依赖特定的Agent。 无论你是在用 Claude Code 还是 Codex，这套通用的 Skill 组合都能让你的 AI 助手瞬间进化。",
-          "duration": 753
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App，快速上手AI",
-          "url": "https://www.bilibili.com/video/BV1MXLt6vE6s",
-          "bvid": "BV1MXLt6vE6s",
-          "author": "松小鼠呀ya",
-          "description": "实测 Codex 10 个必装插件，从酷炫动画、视频生成，到网页游戏、手机 App、PPT 报告、表格分析和浏览器自动化，一次看懂 AI Agent 到底能替你完成多少工作。无论是学习、办公、创作、开发，还是整理资料和处理重复任务，都能直接用上。 本频道持续分享创富案例 & AI 前沿应用 关于 7 步实现财富自由，会员内容以专题形式呈现，系统梳理从财富认知、全球趋势，到投资理念与实操策略的完整方法论，帮助你构建稳健而清晰的投资思维体系。 欢迎订阅。 热门推荐： 小白速通！10分钟掌控AI编程之王【C",
-          "duration": 691
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
-          "url": "https://www.bilibili.com/video/BV1q5G961Ech",
-          "bvid": "BV1q5G961Ech",
-          "author": "Yin_Code",
-          "description": "CC Switch：farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io CCX：BenedictKing/ccx: Claude / Codex / Gemini API Proxy - CCX Codex Plu",
-          "duration": 318
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
-          "url": "https://www.bilibili.com/video/BV1DfL16WEwq",
-          "bvid": "BV1DfL16WEwq",
-          "author": "HexUp",
-          "description": "Codex是OpenAI官方的Agent桌面应用，不光能写代码，还能做PPT、搜网页、调用GPT Image 2生成图片，甚至用手机远程操控电脑工作。这期视频从零开始拆解Codex的核心概念、插件系统和自动化任务，配上完整的实操演示。比起Claude Code经常封号，Codex不封号、额度充足、App设计优雅，20美元起步就能满足日常需要。",
-          "duration": 1000
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "坐上火车去拉萨，被认为是最浪漫的进藏方式，超详细的保姆级攻略",
-          "url": "https://www.bilibili.com/video/BV1SM4y1B7iF",
-          "bvid": "BV1SM4y1B7iF",
-          "author": "开心酒好好",
-          "description": "",
-          "duration": 444
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "Lumina 2.0前瞻",
-          "url": "https://www.bilibili.com/video/BV16UomB5EKS",
-          "bvid": "BV16UomB5EKS",
-          "author": "Lumina猫猫",
-          "description": "Lumina2.0已经进入内测阶段了，很快就会进入公测，让我们一起看看更新了什么吧~",
-          "duration": 204
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "UG12.0从入门到精通教程，25节课全面了解UG",
-          "url": "https://www.bilibili.com/video/BV1Ji4y1M7mW",
-          "bvid": "BV1Ji4y1M7mW",
-          "author": "沙僧设计礼诚",
-          "description": "课程来源管家课堂，进行二创，已获得管家课堂授权。 UG12.0全套精品课程，共25节课,适合零基础的同学系统的学习UG，也适合有基础的同学巩固提高。 点赞加关注，然后私信我”UG“即可领取UG12.0安装包和课程练习素材。",
-          "duration": 13105
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "如何用真实地形数据打印一座雪山？【拓竹X2D首发体验】",
-          "url": "https://www.bilibili.com/video/BV1EtQiBhE8b",
-          "bvid": "BV1EtQiBhE8b",
-          "author": "咔哧一下_Cliclack",
-          "description": "这是一期新手向的干货分享，手把手带你3D打印一座在真实世界中存在的雪山！ 另外你如果学会了你就会发现，用这个办法可以打印这个地球上的任何地方！ ※ 应大家要求，珠穆朗玛峰模型已经上传MakerWorld，模型编号 2389515，大家可以搜索下载。 本期视频用的是拓竹新上市的双头打印机X2D，用一个较低的价格实现双头多色打印是一种什么体验？双挤出机分置设置，纯机械结构切换喷嘴，稳定输出！ 视频中喷火龙模型作者：IXPatch",
-          "duration": 525
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "4月最新！UG NX12.0软件安装（附安装包）UG免费下载安装激活教程，UG NX 12安装包免费下载安装激活详细教程",
-          "url": "https://www.bilibili.com/video/BV1pUQjBLEFP",
-          "bvid": "BV1pUQjBLEFP",
-          "author": "UG下载安装教程zz",
-          "description": "UG：https://pan.quark.cn/s/fee4d60e896c",
-          "duration": 405
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "【全网首发】白嫖Google AI Pro 12个月| 无需Pixel设备 | 解决谷歌邮箱注册、账号设备认证、绑卡等问题 | 从注册到订阅全过程演示",
-          "url": "https://www.bilibili.com/video/BV1qpwEzTEa9",
-          "bvid": "BV1qpwEzTEa9",
-          "author": "Porter科技迷",
-          "description": "视频制作不易，希望大家三连支持，如果喜欢我的内容，欢迎订阅我的频道，请在评论区留下评论，我会挨个私发文档",
-          "duration": 1200
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "告别杂乱！超实用定制收纳教程",
-          "url": "https://www.bilibili.com/video/BV13hFfzTEks",
-          "bvid": "BV13hFfzTEks",
-          "author": "葫芦～",
-          "description": "建模网站：https://gridfinity.perplexinglabs.com/ Gridfinity 底座计算器：https://pan.baidu.com/s/1vlDxHk0j5p87ozY6LC84cA?pwd=1234 提取码: 1234 fusion360 插件 GridfinityGenerator 官网地址：https://apps.autodesk.com/FUSION/en/Detail/Index?id=7197558650811789&os=Win64&appLang=en",
-          "duration": 458
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "[橙服]不删档的百人在线1.21.11服务器寒假招生啦！来体验一下原版生存的魅力？",
-          "url": "https://www.bilibili.com/video/BV1CPrXBREFa",
-          "bvid": "BV1CPrXBREFa",
-          "author": "OrangeMC服务器",
-          "description": "🌈 ===== 欢迎来到橙服 · 纯净不删档生存 ===== 🌐 服务器官网：orangecraftmc.top（想了解服务器请查看官网） 🐧 Q群：994601868（入群发三连+关注截图即可过白） 🎮 服务器版本：1.21.11 💻 Java兼容：1.16.X - 1.21.X｜基岩版兼容：1.21.111 - 1.21.130 🏕️ 我们致力于打造一个沉浸、生动、自由的 Minecraft 世界。 🔥 ===== 在这里，你能体验到什么 ===== ⚒️ 突破原版极限的强化附魔，全程可免费获取 🏰",
-          "duration": 166
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "继续展示下我们的wbrov开源案例，自主管道巡检",
-          "url": "https://www.bilibili.com/video/BV1Y5SnBMEzR",
-          "bvid": "BV1Y5SnBMEzR",
-          "author": "拓渊智能水下机器人",
-          "description": "wbrov开源案例之自主管道巡检，感兴趣的小伙伴可一键三连后私聊发我们的开源资料",
-          "duration": 86
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "【高等数学（上）】6小时从0基础直追满绩！",
-          "url": "https://www.bilibili.com/video/BV1j44y1E7ot",
-          "bvid": "BV1j44y1E7ot",
-          "author": "李天意Providence",
-          "description": "请大家下载讲义，最好打印成纸质版，然后配合该视频食用哦~ 讲义下载地址：微信搜索公众号“意数家”，发送”讲义“或”高数资料“，即可获取对应视频的讲义文件啦~ 祝大家2022平安喜乐，考试顺利。",
-          "duration": 21395
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "【成图大赛】16届国赛机械手，挑战一小时讲课带建模，卷王之王~~大饱眼福",
-          "url": "https://www.bilibili.com/video/BV1TeRPYBEX8",
-          "bvid": "BV1TeRPYBEX8",
-          "author": "一点创绘工作室",
-          "description": "持续更新作品，只为大家做精品教学。成图大赛16届国赛机械手，挑战一小时讲课带建模，卷王之王~~",
-          "duration": 1382
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "Pixhawk与ROS强强联合，打造更强的地面小车!",
-          "url": "https://www.bilibili.com/video/BV1km411Z73x",
-          "bvid": "BV1km411Z73x",
-          "author": "GundaSmart",
-          "description": "pixhawk社区历史悠久，积攒了丰富资源，尤其是硬件资源，无需编码，可以快速上手！与ROS联姻，可以优势互补，缩短我们搭建小车平台的时间和精力，是我们更专注于算法研究和理论验证! 配套文档资料浏览地址：https://gitee.com/gwmunan/ros2/wikis/pages",
-          "duration": 812
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "Pix/Ardupilot使用ExpressLRS--教程",
-          "url": "https://www.bilibili.com/video/BV1S54y157Gt",
-          "bvid": "BV1S54y157Gt",
-          "author": "-蓝色枫叶-",
-          "description": "ELRS高频头新用户教程。 此教程适用于Ardupilot/Pix用户。 因为up手里没有完整版本的高频头设备，抱歉没有实物特写镜头，视频中高频头和接收机设备均为手工焊接的工程版本。 视频下方自带时间轴方便大家跳转观看，祝爽飞：)",
-          "duration": 1545
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "看电视最佳方案：免费、流畅、无广告！GitHub大神开源作品！手机 + TV 全支持！",
-          "url": "https://www.bilibili.com/video/BV1HnRGYJE6Z",
-          "bvid": "BV1HnRGYJE6Z",
-          "author": "陶渊xiao明",
-          "description": "👉 电视APP下载：https://pan.quark.cn/s/86d5a59ee4e1 👉 GitHub项目：https://github.com/lizongying/my-tv-0 👉 直播源项目1：https://github.com/fanmingming/live 👉 直播源项目2：https://github.com/suxuang/myIPTV 👉 IPV6 检测：https://test-ipv6.com/index.html.zh_CN",
-          "duration": 234
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "【FYS飞舜极创】PIX飞控四轴飞行器组装调试及试飞教程/保姆级教程/F450多旋翼悬停返航GPS定位/遥控模型飞机/DIY组装/初学入门/技巧分享",
-          "url": "https://www.bilibili.com/video/BV1ZE421M7p7",
-          "bvid": "BV1ZE421M7p7",
-          "author": "FYS飞舜极创",
-          "description": "PIX教程资料下载链接 链接：https://pan.baidu.com/s/1cyFGxTszwNXHnpVSJVHTQg?pwd=ejrg 提取码：ejrg",
-          "duration": 1932
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "默认收藏夹",
-          "title": "Pixhawk基础视频教程全12讲",
-          "url": "https://www.bilibili.com/video/BV1Ub411s7N5",
-          "bvid": "BV1Ub411s7N5",
-          "author": "王菊花fa",
-          "description": "https://www.youtube.com/watch?v=pJK78G27qTM 视频来源见出处，应该是国内某位同学出的，只不过在国内视频网站没找到一整套教程，特从YouTube搬运过来。",
-          "duration": 10111
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "垂起",
-          "title": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
-          "url": "https://www.bilibili.com/video/BV1zQSUYKECo",
-          "bvid": "BV1zQSUYKECo",
-          "author": "会上树的菜鸡",
-          "description": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
-          "duration": 1030
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "垂起",
-          "title": "泰坦眼镜蛇，手搓全3D打印件2米翼展4+1垂直起降固定翼e VTOL，航程可达140公里，飞行2小时，可用于巡航检测，侦察、作战。",
-          "url": "https://www.bilibili.com/video/BV1vbTJzSERa",
-          "bvid": "BV1vbTJzSERa",
-          "author": "国哥FPV",
-          "description": "-",
-          "duration": 141
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "垂起",
-          "title": "INAV7.0正式版垂起VTOL4+1固定翼调参配置教程",
-          "url": "https://www.bilibili.com/video/BV1Uy421a7mn",
-          "bvid": "BV1Uy421a7mn",
-          "author": "idea-fpv",
-          "description": "inav固件终于迎来支持垂起的固件，简化垂起的调参配置，本人亲测摸索了一个月多，终于捋清垂起的设置要点技巧，这里做成视频教程，希望能帮助到大家配置自己的小大型垂起vtol4+1固定翼，如果对你有所帮助，麻烦一键三连，点赞投币并转发，您的支持将是我持续更新教程与分享diy经验的最大动力",
-          "duration": 1283
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "垂起",
-          "title": "垂直起降固定翼无人机",
-          "url": "https://www.bilibili.com/video/BV15zumzeEre",
-          "bvid": "BV15zumzeEre",
-          "author": "D多无影",
-          "description": "",
-          "duration": 200
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "垂起",
-          "title": "【垂起固定翼,系统教程】2.2 _INAV完全调试，Y3垂起固定翼",
-          "url": "https://www.bilibili.com/video/BV1HQyDBdEEK",
-          "bvid": "BV1HQyDBdEEK",
-          "author": "荒地厨师",
-          "description": "嗯，完结了",
-          "duration": 1060
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "项目",
-          "title": "【太极创客】零基础入门学用Arduino 第一部分 合辑",
-          "url": "https://www.bilibili.com/video/BV164411J7GE",
-          "bvid": "BV164411J7GE",
-          "author": "太极创客",
-          "description": "为了便于朋友们观看太极创客制作的教程，我们将自制的Arduino教程 制作了合辑。 太极创客团队自制的教程全部是免费开源的，我们这么做是想将更好的中文创客教程提供给广大创客朋友。 近日我们发现在网上有盗用我们的教程存在。这些教程很多存在质量问题甚至有些会插播广告。 我们诚恳的希望您不要观看盗用我们的教程，请到我们的B站频道观看原版高质的教程内容。 非常感谢您的支持！",
-          "duration": 25631
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "项目",
-          "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
-          "url": "https://www.bilibili.com/video/BV1t1gPzeErV",
-          "bvid": "BV1t1gPzeErV",
-          "author": "喵星考拉",
-          "description": "",
-          "duration": 5613
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "项目",
-          "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
-          "url": "https://www.bilibili.com/video/BV1HH4y1X7fb",
-          "bvid": "BV1HH4y1X7fb",
-          "author": "ESP_Friends",
-          "description": "本视频展示如何使用 Arduino IDE 快速开发一个简单的物联网项目。通过手机 APP 远程控制开关，显示实时的天气信息还有发送提醒。知识点包括：Arduino IDE 的环境搭建、简单的 Wi-Fi 连接、通过 HTTP 获取实时的天气信息、GPIO 按键、RainMaker 云端的数据交互、GPIO 输出。 Arduino IDE 下载：arduino.cc/en/software 乐鑫 Arduino ESP32 文档：docs.espressif.com/projects/arduino-e",
-          "duration": 1182
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "项目",
-          "title": "【考拉工作室】单片机入门——Arduino控制步进电机拖动直线模组",
-          "url": "https://www.bilibili.com/video/BV1xo4y1G7ZA",
-          "bvid": "BV1xo4y1G7ZA",
-          "author": "喵星考拉",
-          "description": "Arduino控制步进电机。虽然是最最最简单的电机控制案例之一，但是还是很多人不会。录个视频分享给大家，这里只是入门让电机动起来哦，后面还有后续进阶教程，欢迎一键三连！粉丝群247278751欢迎大家~",
-          "duration": 599
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "项目",
-          "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
-          "url": "https://www.bilibili.com/video/BV1RM4y1a7J5",
-          "bvid": "BV1RM4y1a7J5",
-          "author": "罗大富Bigrich",
-          "description": "本套教程致力于让您通过学习 ESP32 单片机掌握单片机原理和 Arduino 的用法，边玩边学，玩到专业！ 有什么问题，欢迎小伙伴们留言私信➕群：441203097 开发套件已上架，欢迎选购：https://item.taobao.com/item.htm?ft=t&id=734212351280 课程资料的百度网盘链接：https://pan.baidu.com/s/1BpjvshNTFozBd0ubIseWWw?pwd=geek 提取码：geek 教程文档放在了这里，方便大家查阅：http",
-          "duration": 31021
-        },
-        {
-          "platform": "Bilibili",
-          "folder": "项目",
+          "folder": "学习生活杂项",
           "title": "SOLIDWORKS 教学 精品教程 | 2024年新修 | B站 点赞 播放 收藏 NO.1",
           "url": "https://www.bilibili.com/video/BV1iw411Z7HZ",
           "bvid": "BV1iw411Z7HZ",
@@ -335,17 +50,77 @@
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
-          "title": "DIY3D打印机：极端抠门的白嫖怪用voron0造三叉戟-OrcaSlicer基础操作，切片软件，操作教学，保姆教学，orcaSlicer2.0",
-          "url": "https://www.bilibili.com/video/BV1BM4m1R7sJ",
-          "bvid": "BV1BM4m1R7sJ",
-          "author": "风中的樱花树",
-          "description": "本篇视频为DIY Voron 三叉戟 3D打印机-OrcaSlicer基础操作 该项目预估成本1500左右 BOM单可加群获取 QQ交流群942732706",
-          "duration": 1928
+          "folder": "学习生活杂项",
+          "title": "【全CAD教学合集】零基础教学、绘图手法提升、制图知识讲解",
+          "url": "https://www.bilibili.com/video/BV1aT4y1B7oY",
+          "bvid": "BV1aT4y1B7oY",
+          "author": "Tutor南洋",
+          "description": "快速学习CAD系列的合集，有什么不懂的可以评论区留言或者直接私信我（每条新评论都有看，楼中楼的话几乎没办法回复，除非@Tutor南洋 我才能看到） 如有需要深入学习和更完整的up解答教学，可以考虑考虑B站课堂的《Tutor南洋CAD工作技能实战教程》~比入门教程更丝滑柔顺的上课体验和更深入的技巧讲解！",
+          "duration": 25695
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
+          "folder": "学习生活杂项",
+          "title": "机械学霸讲SolidWorks每日一练初级篇100题合集（前50）",
+          "url": "https://www.bilibili.com/video/BV1df4y1z7iR",
+          "bvid": "BV1df4y1z7iR",
+          "author": "机械百宝箱",
+          "description": "此号为机械学霸小号，为了做分P 机械学霸讲SolidWorks每日一练初级篇100题合集（前50），希望对初学者有一定的帮助！",
+          "duration": 36443
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【共136集已完结】大佬爆肝！2026年B站最全最细自学机械设计教程！从电机选型、材料到公差与配合，涵盖了所有机械设计知识，你想学的这里都有！再发最后一遍！",
+          "url": "https://www.bilibili.com/video/BV1Yq7bzaEuM",
+          "bvid": "BV1Yq7bzaEuM",
+          "author": "云飞说机械",
+          "description": "希望大家可以多多【一键三连】关注支持一下！机械方面的很多资料我都有，需要的同学戳→：https://www.bilibili.com/opus/1092684961947844629?spm_id_from=333.1387.0.0",
+          "duration": 45252
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【必收藏·全套CaTICs网络赛题·每日一练】SolidWorks下的CaTICs网络3D大赛超详解析(1-19届)",
+          "url": "https://www.bilibili.com/video/BV1ua4y1V7yK",
+          "bvid": "BV1ua4y1V7yK",
+          "author": "SolidWorks老白",
+          "description": "第一至第十九届CaTICs网络大赛赛题全面解析，每天一更=每日一练，建模搞起来，需要全套请加UP猪微信laobai052，记得一键三连哟，一键三连之后才能免费白嫖全部图纸~",
+          "duration": 123023
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【成图大赛】16届国赛机械手，挑战一小时讲课带建模，卷王之王~~大饱眼福",
+          "url": "https://www.bilibili.com/video/BV1TeRPYBEX8",
+          "bvid": "BV1TeRPYBEX8",
+          "author": "一点创绘工作室",
+          "description": "持续更新作品，只为大家做精品教学。成图大赛16届国赛机械手，挑战一小时讲课带建模，卷王之王~~",
+          "duration": 1382
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【考拉工作室】单片机入门——Arduino控制步进电机拖动直线模组",
+          "url": "https://www.bilibili.com/video/BV1xo4y1G7ZA",
+          "bvid": "BV1xo4y1G7ZA",
+          "author": "喵星考拉",
+          "description": "Arduino控制步进电机。虽然是最最最简单的电机控制案例之一，但是还是很多人不会。录个视频分享给大家，这里只是入门让电机动起来哦，后面还有后续进阶教程，欢迎一键三连！粉丝群247278751欢迎大家~",
+          "duration": 599
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【太极创客】零基础入门学用Arduino 第一部分 合辑",
+          "url": "https://www.bilibili.com/video/BV164411J7GE",
+          "bvid": "BV164411J7GE",
+          "author": "太极创客",
+          "description": "为了便于朋友们观看太极创客制作的教程，我们将自制的Arduino教程 制作了合辑。 太极创客团队自制的教程全部是免费开源的，我们这么做是想将更好的中文创客教程提供给广大创客朋友。 近日我们发现在网上有盗用我们的教程存在。这些教程很多存在质量问题甚至有些会插播广告。 我们诚恳的希望您不要观看盗用我们的教程，请到我们的B站频道观看原版高质的教程内容。 非常感谢您的支持！",
+          "duration": 25631
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
           "title": "保姆教程:klipper安装后配置文件、限位测试、归零测试、PID、挤出机步进值、调平、软件使用 吐血推荐",
           "url": "https://www.bilibili.com/video/BV1uv4y1x7Fs",
           "bvid": "BV1uv4y1x7Fs",
@@ -355,57 +130,117 @@
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
-          "title": "2024B站最新的Kali入门教程！！Kali Linux渗透测试远控木马技术，全程手把手教你从入门到精通，7天学会",
-          "url": "https://www.bilibili.com/video/BV1CV411X7hG",
-          "bvid": "BV1CV411X7hG",
-          "author": "渗透测试官方教程",
-          "description": "本视频仅用于信息安全教学，请遵守相关法律法规，严禁用于非法途径。若观众因此作出任何危害网络安全的行为，后果自负，与UP主及讲师无关。",
-          "duration": 24601
+          "folder": "学习生活杂项",
+          "title": "DIY3D打印机：极端抠门的白嫖怪用voron0造三叉戟-OrcaSlicer基础操作，切片软件，操作教学，保姆教学，orcaSlicer2.0",
+          "url": "https://www.bilibili.com/video/BV1BM4m1R7sJ",
+          "bvid": "BV1BM4m1R7sJ",
+          "author": "风中的樱花树",
+          "description": "本篇视频为DIY Voron 三叉戟 3D打印机-OrcaSlicer基础操作 该项目预估成本1500左右 BOM单可加群获取 QQ交流群942732706",
+          "duration": 1928
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
-          "title": "【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【软核】",
-          "url": "https://www.bilibili.com/video/BV17D4y1X7AT",
-          "bvid": "BV17D4y1X7AT",
-          "author": "稚晖君",
-          "description": "这是UP最近为了解决个人痛点设计制作的一个便携口袋显示器（&充电宝），害，在颜值上已经没有进步的空间了~ 项目已经开源，喜欢的话记得三连关注支持~~ GitHub地址：https://github.com/peng-zhihui/PocketLCD 也麻烦记得给仓库点星星哦",
-          "duration": 467
+          "folder": "学习生活杂项",
+          "title": "告别杂乱！超实用定制收纳教程",
+          "url": "https://www.bilibili.com/video/BV13hFfzTEks",
+          "bvid": "BV13hFfzTEks",
+          "author": "葫芦～",
+          "description": "建模网站：https://gridfinity.perplexinglabs.com/ Gridfinity 底座计算器：https://pan.baidu.com/s/1vlDxHk0j5p87ozY6LC84cA?pwd=1234 提取码: 1234 fusion360 插件 GridfinityGenerator 官网地址：https://apps.autodesk.com/FUSION/en/Detail/Index?id=7197558650811789&os=Win64&appLang=en",
+          "duration": 458
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
-          "title": "40元制作一个Augelight氛围灯",
-          "url": "https://www.bilibili.com/video/BV1PJ4m1b7Wz",
-          "bvid": "BV1PJ4m1b7Wz",
-          "author": "23盒子怪",
-          "description": "材料清单 1.高硼硅玻璃筒一个直径 50mm高100mm厚5mm 2.一块602040锂电池500mAh 3.电阻一个5欧~10欧越小越亮 4.TP4056充电模块一个type-c口 5.开关一个SS12D00柄高4mm 2档3脚 6.6mm球形磁铁一个或者钢珠 7.4mm球形磁铁一个 8.LED柔性灯条正负极同端3V长110mm一根 9.M2X5自攻螺丝5颗 10.3D打印外壳 外壳模型地址：https://makerworld.com/zh/models/169602#profileId-18623",
-          "duration": 464
+          "folder": "学习生活杂项",
+          "title": "转给身边机械的同学！AI时代全栈机电工程师入门指南 | 浙江大学考拉工作室暑期集训 | 机电一体化实践导论",
+          "url": "https://www.bilibili.com/video/BV1t1gPzeErV",
+          "bvid": "BV1t1gPzeErV",
+          "author": "喵星考拉",
+          "description": "",
+          "duration": 5613
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
-          "title": "单网口主机畅玩ALL IN ONE！PVE虚拟机下部署OpenWRT软路由+群晖7.2 NAS+Windows+Linux等，实现NAS存储+路由+虚拟机完全体",
-          "url": "https://www.bilibili.com/video/BV1WV411977W",
-          "bvid": "BV1WV411977W",
-          "author": "我是阿皮啊-",
-          "description": "往期出过多网口版本的PVE和ESXI搭建AIO的教程，借这个机会，本期就来演示一下，使用一台单网口主机，在PVE系统上部署软路由、群晖NAS、Windows和Linux系统的完整教程。 PVE虚拟机系统开源免费，并且对大小核兼容完美，非常适合用来实现AIO功能。 如果你手上有单网口的高性能主机，也想尝试AIO，那么不妨跟着视频来搭建，搭建效果如图所求、 首先是软路由OpenWRT，因为是单网口，所以以旁路由形式来搭建，接着搭建群晖NAS系统，也是家用NAS系统天花板了，群晖系统可以帮你存储资料、照片管",
-          "duration": 3375
+          "folder": "学习生活杂项",
+          "title": "机械学霸讲SolidWorks每日一练初级篇合集（后50题）",
+          "url": "https://www.bilibili.com/video/BV1DK4y1E7At",
+          "bvid": "BV1DK4y1E7At",
+          "author": "机械百宝箱",
+          "description": "此号为机械学霸小号，旨在分P 机械学霸讲SolidWorks每日一练初级篇合集（后50题），此号为机械学霸小号，旨在分P",
+          "duration": 45243
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
-          "title": "低功耗、全都要，bt、HA、jellyfin、游戏服务器。基于ubuntu的家庭服务器部署全过程",
-          "url": "https://www.bilibili.com/video/BV1S94y1J79J",
-          "bvid": "BV1S94y1J79J",
-          "author": "索拉里斯风",
-          "description": "其实现在普通人家里闲置电脑的概率，比你我想象中的高，基本上大学毕业就是一个节点、归其缘由我认为是源自windows的尿性，一台普通电脑在不优化的情况下很难用超过4年。 但是当我们换一个思路安装好linux。无论多久远的电脑都可以是你的流媒体服务器，在局域网内任何设备上用海报墙播放下载电影，或者变成homeassistant智能家居中枢、远程控制家里的灯光、监测路由器状态、远程开关电视盒子等等， 甚至你可以托管自己的游戏服务器并与和朋友一起回味几十款老游戏，比如这个98版的《仙剑剑奇侠传》、或者是大航海时代",
-          "duration": 1197
+          "folder": "学习生活杂项",
+          "title": "ESP32-S3 Arduino IDE 开发【沉浸式教程】",
+          "url": "https://www.bilibili.com/video/BV1HH4y1X7fb",
+          "bvid": "BV1HH4y1X7fb",
+          "author": "ESP_Friends",
+          "description": "本视频展示如何使用 Arduino IDE 快速开发一个简单的物联网项目。通过手机 APP 远程控制开关，显示实时的天气信息还有发送提醒。知识点包括：Arduino IDE 的环境搭建、简单的 Wi-Fi 连接、通过 HTTP 获取实时的天气信息、GPIO 按键、RainMaker 云端的数据交互、GPIO 输出。 Arduino IDE 下载：arduino.cc/en/software 乐鑫 Arduino ESP32 文档：docs.espressif.com/projects/arduino-e",
+          "duration": 1182
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
+          "folder": "学习生活杂项",
+          "title": "CAD制图练习合集，一天一张图，贵在坚持",
+          "url": "https://www.bilibili.com/video/BV1Ft41137JV",
+          "bvid": "BV1Ft41137JV",
+          "author": "大梦空间_",
+          "description": "使用的CAD版本为2020，部分图形增加“参数化”的绘制方法。 更新完毕，剔除相似图形后，最后剩下39张图。 如有遗漏，欢迎补充。 加油！努力！奋斗！",
+          "duration": 5880
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "2023年最新 ESP32 Arduino 教程（持续更新中）",
+          "url": "https://www.bilibili.com/video/BV1RM4y1a7J5",
+          "bvid": "BV1RM4y1a7J5",
+          "author": "罗大富Bigrich",
+          "description": "本套教程致力于让您通过学习 ESP32 单片机掌握单片机原理和 Arduino 的用法，边玩边学，玩到专业！ 有什么问题，欢迎小伙伴们留言私信➕群：441203097 开发套件已上架，欢迎选购：https://item.taobao.com/item.htm?ft=t&id=734212351280 课程资料的百度网盘链接：https://pan.baidu.com/s/1BpjvshNTFozBd0ubIseWWw?pwd=geek 提取码：geek 教程文档放在了这里，方便大家查阅：http",
+          "duration": 31021
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "一天不看难受，一看难受一天",
+          "url": "https://www.bilibili.com/video/BV1fv41187qE",
+          "bvid": "BV1fv41187qE",
+          "author": "浮云流水终须尽",
+          "description": "-",
+          "duration": 33
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【无人机教程】从零开始学习无人机原理及组装",
+          "url": "https://www.bilibili.com/video/BV1bE411u7nv",
+          "bvid": "BV1bE411u7nv",
+          "author": "云雀AI学工台",
+          "description": "禾木编程无人机原理及组装课程，适合零基础同学入门学习，同时快速制作属于自己的无人机",
+          "duration": 14445
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【高等数学（上）】6小时从0基础直追满绩！",
+          "url": "https://www.bilibili.com/video/BV1j44y1E7ot",
+          "bvid": "BV1j44y1E7ot",
+          "author": "李天意Providence",
+          "description": "请大家下载讲义，最好打印成纸质版，然后配合该视频食用哦~ 讲义下载地址：微信搜索公众号“意数家”，发送”讲义“或”高数资料“，即可获取对应视频的讲义文件啦~ 祝大家2022平安喜乐，考试顺利。",
+          "duration": 21395
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "学习生活杂项",
+          "title": "【洋垃圾】这真是电子名片?! Orasaifu电子钱包",
+          "url": "https://www.bilibili.com/video/BV1Mt4y1L73Q",
+          "bvid": "BV1Mt4y1L73Q",
+          "author": "比尔盖子SergySonono",
+          "description": "做工精美，性能合适，当小玩具还是很不错的！！！",
+          "duration": 324
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
           "title": "办公、NAS我都要 虚拟机&Docker一个不能少 基于Debian 12深度Deepin系统下一键部署”DIY NAS“ All in One 方案",
           "url": "https://www.bilibili.com/video/BV1zu4y1g7LY",
           "bvid": "BV1zu4y1g7LY",
@@ -415,13 +250,303 @@
         },
         {
           "platform": "Bilibili",
-          "folder": "项目",
+          "folder": "软件工具",
+          "title": "我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI",
+          "url": "https://www.bilibili.com/video/BV1384y1M76j",
+          "bvid": "BV1384y1M76j",
+          "author": "调皮的王登科",
+          "description": "我的数字克隆在线聊天：https://ai.greatdk.com 我使用和参考的项目： WechatExporter：BlueMatthew/WechatExporter: Wechat Chat History Exporter 微信聊天记录导出备份程序 (github.com) chatglm-6b：THUDM/ChatGLM-6B: ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model (github.com) zer",
+          "duration": 902
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
+          "title": "4月最新！UG NX12.0软件安装（附安装包）UG免费下载安装激活教程，UG NX 12安装包免费下载安装激活详细教程",
+          "url": "https://www.bilibili.com/video/BV1pUQjBLEFP",
+          "bvid": "BV1pUQjBLEFP",
+          "author": "UG下载安装教程zz",
+          "description": "UG：https://pan.quark.cn/s/fee4d60e896c",
+          "duration": 405
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
+          "title": "单网口主机畅玩ALL IN ONE！PVE虚拟机下部署OpenWRT软路由+群晖7.2 NAS+Windows+Linux等，实现NAS存储+路由+虚拟机完全体",
+          "url": "https://www.bilibili.com/video/BV1WV411977W",
+          "bvid": "BV1WV411977W",
+          "author": "我是阿皮啊-",
+          "description": "往期出过多网口版本的PVE和ESXI搭建AIO的教程，借这个机会，本期就来演示一下，使用一台单网口主机，在PVE系统上部署软路由、群晖NAS、Windows和Linux系统的完整教程。 PVE虚拟机系统开源免费，并且对大小核兼容完美，非常适合用来实现AIO功能。 如果你手上有单网口的高性能主机，也想尝试AIO，那么不妨跟着视频来搭建，搭建效果如图所求、 首先是软路由OpenWRT，因为是单网口，所以以旁路由形式来搭建，接着搭建群晖NAS系统，也是家用NAS系统天花板了，群晖系统可以帮你存储资料、照片管",
+          "duration": 3375
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
+          "title": "Lumina 2.0前瞻",
+          "url": "https://www.bilibili.com/video/BV16UomB5EKS",
+          "bvid": "BV16UomB5EKS",
+          "author": "Lumina猫猫",
+          "description": "Lumina2.0已经进入内测阶段了，很快就会进入公测，让我们一起看看更新了什么吧~",
+          "duration": 204
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
+          "title": "【自制】你的下一个显示器，可能是个充电宝？？DIY超迷你便携显示器【软核】",
+          "url": "https://www.bilibili.com/video/BV17D4y1X7AT",
+          "bvid": "BV17D4y1X7AT",
+          "author": "稚晖君",
+          "description": "这是UP最近为了解决个人痛点设计制作的一个便携口袋显示器（&充电宝），害，在颜值上已经没有进步的空间了~ 项目已经开源，喜欢的话记得三连关注支持~~ GitHub地址：https://github.com/peng-zhihui/PocketLCD 也麻烦记得给仓库点星星哦",
+          "duration": 467
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
           "title": "旧电脑变身NAS保姆级教程(1/2)，文件共享、相册备份、多功能全自动媒体库全搞定，Jellyfin、Alist、黑群晖 7.2媒体服务器，N1盒子方案升级版",
           "url": "https://www.bilibili.com/video/BV1bu4y1E7Yh",
           "bvid": "BV1bu4y1E7Yh",
           "author": "大鹅体验",
           "description": "使用老旧电脑安装NAS系统，实现完整的文件共享、相册备份、和多功能、全自动媒体库的保姆级教程。",
           "duration": 1319
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
+          "title": "看电视最佳方案：免费、流畅、无广告！GitHub大神开源作品！手机 + TV 全支持！",
+          "url": "https://www.bilibili.com/video/BV1HnRGYJE6Z",
+          "bvid": "BV1HnRGYJE6Z",
+          "author": "陶渊xiao明",
+          "description": "👉 电视APP下载：https://pan.quark.cn/s/86d5a59ee4e1 👉 GitHub项目：https://github.com/lizongying/my-tv-0 👉 直播源项目1：https://github.com/fanmingming/live 👉 直播源项目2：https://github.com/suxuang/myIPTV 👉 IPV6 检测：https://test-ipv6.com/index.html.zh_CN",
+          "duration": 234
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "软件工具",
+          "title": "低功耗、全都要，bt、HA、jellyfin、游戏服务器。基于ubuntu的家庭服务器部署全过程",
+          "url": "https://www.bilibili.com/video/BV1S94y1J79J",
+          "bvid": "BV1S94y1J79J",
+          "author": "索拉里斯风",
+          "description": "其实现在普通人家里闲置电脑的概率，比你我想象中的高，基本上大学毕业就是一个节点、归其缘由我认为是源自windows的尿性，一台普通电脑在不优化的情况下很难用超过4年。 但是当我们换一个思路安装好linux。无论多久远的电脑都可以是你的流媒体服务器，在局域网内任何设备上用海报墙播放下载电影，或者变成homeassistant智能家居中枢、远程控制家里的灯光、监测路由器状态、远程开关电视盒子等等， 甚至你可以托管自己的游戏服务器并与和朋友一起回味几十款老游戏，比如这个98版的《仙剑剑奇侠传》、或者是大航海时代",
+          "duration": 1197
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "工程制造",
+          "title": "从数字电路到单片机程序|为什么敲两行代码灯就能亮？摆脱单片机恐惧从理解原理开始【考拉工作室】",
+          "url": "https://www.bilibili.com/video/BV1uo4y1M73t",
+          "bvid": "BV1uo4y1M73t",
+          "author": "喵星考拉",
+          "description": "我们的单片机基本原理来了！这节课力求在十几分钟之内把计算机原理的概念抽象出来让大家去理解代码控制单片机的原理，单片机控制的本质就是通过写寄存器改变电路运行状态达到运算或输出的效果，后来才被封装成了库函数形式。由于照顾小白，所以有一些地方不太严谨，比如我们没有把时钟的概念引入，所以没有讲clock和触发器的概念，也没有讲时序、超前进位加法器等。指令集就更不可能讲完了（笑），不过还是那句话，新手入门先把握基本概念，希望大家看完之后不要对单片机有恐惧和迷惑的心理，这段内容还是很有参考价值的~也欢迎内行大佬们多批",
+          "duration": 1068
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "工程制造",
+          "title": "油管大神教你制作32键DIY模拟赛车中控盒",
+          "url": "https://www.bilibili.com/video/BV1tb411G7bS",
+          "bvid": "BV1tb411G7bS",
+          "author": "Silv3RMOON口蘑工作室",
+          "description": "转自https://www.youtube.com/watch?v=Z7Sc4MJ8RPM 油管大神AMSTUDIO制作的32键DIY模拟赛车中控盒 转自https://www.youtube.com/watch?v=Z7Sc4MJ8RPM 请自备工具和元件（某宝都有哦） Arduino程序下载地址：https://github.com/AM-STUDIO/32-FUNCTION-BUTTON-BOX",
+          "duration": 458
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "工程制造",
+          "title": "如何用真实地形数据打印一座雪山？【拓竹X2D首发体验】",
+          "url": "https://www.bilibili.com/video/BV1EtQiBhE8b",
+          "bvid": "BV1EtQiBhE8b",
+          "author": "咔哧一下_Cliclack",
+          "description": "这是一期新手向的干货分享，手把手带你3D打印一座在真实世界中存在的雪山！ 另外你如果学会了你就会发现，用这个办法可以打印这个地球上的任何地方！ ※ 应大家要求，珠穆朗玛峰模型已经上传MakerWorld，模型编号 2389515，大家可以搜索下载。 本期视频用的是拓竹新上市的双头打印机X2D，用一个较低的价格实现双头多色打印是一种什么体验？双挤出机分置设置，纯机械结构切换喷嘴，稳定输出！ 视频中喷火龙模型作者：IXPatch",
+          "duration": 525
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "工程制造",
+          "title": "【F450套装四轴】F450套装四轴多旋翼无人机SolidWorks三维造型-CAD实训营",
+          "url": "https://www.bilibili.com/video/BV1U64y1S7xq",
+          "bvid": "BV1U64y1S7xq",
+          "author": "CAD实训营",
+          "description": "第五期-F450套装四轴无人机，由我的技术助教给大家录制，老规矩—素材的索取需要提供一键三连(点赞、投币、收藏)，三连缺一不可，如果需要系统学习CAE/CAD，可联系小慧：SWEDU123/LFJYmomo（备注b站sw），希望备注来意，谢谢大家的支持。 1、55小时全套ANSYSWorkbenchFluent2023软件进阶教：BV1sp4y1i7L1 2、Fluent 2023超级学习手册 BV1Ui4y1h7Et 3、ANSYS Workbench中文版典型案例合辑 BV11y4y137Eq 4",
+          "duration": 4452
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "工程制造",
+          "title": "已失效视频",
+          "url": "https://www.bilibili.com/video/BV1rYuMzNEi2",
+          "bvid": "BV1rYuMzNEi2",
+          "author": "bili_3546901121075220",
+          "description": "学习资料已经全部打包好啦！来拿！不要米， 免费领取！ 需要机械设计货软件资料、Solidworks软件安装包、插件、面试题、就业信息、设计图纸等等， 都可以在评论区一键三连 扣666或者私信我免费领取！ 真心希望大家看过后给个【一键三连】当作学费~ 以后还会出更多的优质内容，谢谢！",
+          "duration": 19077
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "工程制造",
+          "title": "40元制作一个Augelight氛围灯",
+          "url": "https://www.bilibili.com/video/BV1PJ4m1b7Wz",
+          "bvid": "BV1PJ4m1b7Wz",
+          "author": "23盒子怪",
+          "description": "材料清单 1.高硼硅玻璃筒一个直径 50mm高100mm厚5mm 2.一块602040锂电池500mAh 3.电阻一个5欧~10欧越小越亮 4.TP4056充电模块一个type-c口 5.开关一个SS12D00柄高4mm 2档3脚 6.6mm球形磁铁一个或者钢珠 7.4mm球形磁铁一个 8.LED柔性灯条正负极同端3V长110mm一根 9.M2X5自攻螺丝5颗 10.3D打印外壳 外壳模型地址：https://makerworld.com/zh/models/169602#profileId-18623",
+          "duration": 464
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "【垂起固定翼,系统教程】2.2 _INAV完全调试，Y3垂起固定翼",
+          "url": "https://www.bilibili.com/video/BV1HQyDBdEEK",
+          "bvid": "BV1HQyDBdEEK",
+          "author": "荒地厨师",
+          "description": "嗯，完结了",
+          "duration": 1060
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "【2021最新制作】FPV穿越机教程 入门教学 新人入坑必看 从小白到大神（持续更新）",
+          "url": "https://www.bilibili.com/video/BV1cU4y187J2",
+          "bvid": "BV1cU4y187J2",
+          "author": "X-FLY无人机竞速",
+          "description": "穿越机又称“FPV四旋翼无人机”，是近年在全球范围内兴起的航模极限运动。 如果你下定决心要入坑，这系列的视频将事无巨细地为你整理好所有技能点，先让你用最安全的室内微型穿越机飞起来，配合模拟器慢慢磨练你的飞行技能，同时掌握各种机械，电子和软件的相关知识。",
+          "duration": 2325
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "【FYS飞舜极创】PIX飞控四轴飞行器组装调试及试飞教程/保姆级教程/F450多旋翼悬停返航GPS定位/遥控模型飞机/DIY组装/初学入门/技巧分享",
+          "url": "https://www.bilibili.com/video/BV1ZE421M7p7",
+          "bvid": "BV1ZE421M7p7",
+          "author": "FYS飞舜极创",
+          "description": "PIX教程资料下载链接 链接：https://pan.baidu.com/s/1cyFGxTszwNXHnpVSJVHTQg?pwd=ejrg 提取码：ejrg",
+          "duration": 1932
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "INAV7.0正式版垂起VTOL4+1固定翼调参配置教程",
+          "url": "https://www.bilibili.com/video/BV1Uy421a7mn",
+          "bvid": "BV1Uy421a7mn",
+          "author": "idea-fpv",
+          "description": "inav固件终于迎来支持垂起的固件，简化垂起的调参配置，本人亲测摸索了一个月多，终于捋清垂起的设置要点技巧，这里做成视频教程，希望能帮助到大家配置自己的小大型垂起vtol4+1固定翼，如果对你有所帮助，麻烦一键三连，点赞投币并转发，您的支持将是我持续更新教程与分享diy经验的最大动力",
+          "duration": 1283
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "垂直起降固定翼无人机",
+          "url": "https://www.bilibili.com/video/BV15zumzeEre",
+          "bvid": "BV15zumzeEre",
+          "author": "D多无影",
+          "description": "",
+          "duration": 200
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
+          "url": "https://www.bilibili.com/video/BV1zQSUYKECo",
+          "bvid": "BV1zQSUYKECo",
+          "author": "会上树的菜鸡",
+          "description": "泰坦3D打印垂起固定翼飞机制作—开始装电子设备",
+          "duration": 1030
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "Pixhawk与ROS强强联合，打造更强的地面小车!",
+          "url": "https://www.bilibili.com/video/BV1km411Z73x",
+          "bvid": "BV1km411Z73x",
+          "author": "GundaSmart",
+          "description": "pixhawk社区历史悠久，积攒了丰富资源，尤其是硬件资源，无需编码，可以快速上手！与ROS联姻，可以优势互补，缩短我们搭建小车平台的时间和精力，是我们更专注于算法研究和理论验证! 配套文档资料浏览地址：https://gitee.com/gwmunan/ros2/wikis/pages",
+          "duration": 812
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "Pix/Ardupilot使用ExpressLRS--教程",
+          "url": "https://www.bilibili.com/video/BV1S54y157Gt",
+          "bvid": "BV1S54y157Gt",
+          "author": "-蓝色枫叶-",
+          "description": "ELRS高频头新用户教程。 此教程适用于Ardupilot/Pix用户。 因为up手里没有完整版本的高频头设备，抱歉没有实物特写镜头，视频中高频头和接收机设备均为手工焊接的工程版本。 视频下方自带时间轴方便大家跳转观看，祝爽飞：)",
+          "duration": 1545
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "泰坦眼镜蛇，手搓全3D打印件2米翼展4+1垂直起降固定翼e VTOL，航程可达140公里，飞行2小时，可用于巡航检测，侦察、作战。",
+          "url": "https://www.bilibili.com/video/BV1vbTJzSERa",
+          "bvid": "BV1vbTJzSERa",
+          "author": "国哥FPV",
+          "description": "-",
+          "duration": 141
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "继续展示下我们的wbrov开源案例，自主管道巡检",
+          "url": "https://www.bilibili.com/video/BV1Y5SnBMEzR",
+          "bvid": "BV1Y5SnBMEzR",
+          "author": "拓渊智能水下机器人",
+          "description": "wbrov开源案例之自主管道巡检，感兴趣的小伙伴可一键三连后私聊发我们的开源资料",
+          "duration": 86
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "无人机飞控",
+          "title": "Pixhawk基础视频教程全12讲",
+          "url": "https://www.bilibili.com/video/BV1Ub411s7N5",
+          "bvid": "BV1Ub411s7N5",
+          "author": "王菊花fa",
+          "description": "https://www.youtube.com/watch?v=pJK78G27qTM 视频来源见出处，应该是国内某位同学出的，只不过在国内视频网站没找到一整套教程，特从YouTube搬运过来。",
+          "duration": 10111
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "AI工具",
+          "title": "Codex 10个必装插件！实战演示：自动生成酷炫动画、视频、网页游戏和手机App，快速上手AI",
+          "url": "https://www.bilibili.com/video/BV1MXLt6vE6s",
+          "bvid": "BV1MXLt6vE6s",
+          "author": "松小鼠呀ya",
+          "description": "实测 Codex 10 个必装插件，从酷炫动画、视频生成，到网页游戏、手机 App、PPT 报告、表格分析和浏览器自动化，一次看懂 AI Agent 到底能替你完成多少工作。无论是学习、办公、创作、开发，还是整理资料和处理重复任务，都能直接用上。 本频道持续分享创富案例 & AI 前沿应用 关于 7 步实现财富自由，会员内容以专题形式呈现，系统梳理从财富认知、全球趋势，到投资理念与实操策略的完整方法论，帮助你构建稳健而清晰的投资思维体系。 欢迎订阅。 热门推荐： 小白速通！10分钟掌控AI编程之王【C",
+          "duration": 691
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "AI工具",
+          "title": "Codex接入第三方API，插件没解锁？5分钟保姆级解决",
+          "url": "https://www.bilibili.com/video/BV1q5G961Ech",
+          "bvid": "BV1q5G961Ech",
+          "author": "Yin_Code",
+          "description": "CC Switch：farion1231/cc-switch: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io CCX：BenedictKing/ccx: Claude / Codex / Gemini API Proxy - CCX Codex Plu",
+          "duration": 318
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "AI工具",
+          "title": "别再乱装Skill了！这 4 组Skill，才是Agent的顶级生产力。",
+          "url": "https://www.bilibili.com/video/BV1RcRmBbE3x",
+          "bvid": "BV1RcRmBbE3x",
+          "author": "Juang_42号搭车客",
+          "description": "如果Skill没有配置好，那么Agent使用起来的效果就会事倍功半。 我尝试了十几个Agent和几十个Skill，这些Skill是我每天都在用的，而且不依赖特定的Agent。 无论你是在用 Claude Code 还是 Codex，这套通用的 Skill 组合都能让你的 AI 助手瞬间进化。",
+          "duration": 753
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "AI工具",
+          "title": "Codex从零上手教程，为什么我更推荐大多数人用Codex而不是Claude Code",
+          "url": "https://www.bilibili.com/video/BV1DfL16WEwq",
+          "bvid": "BV1DfL16WEwq",
+          "author": "HexUp",
+          "description": "Codex是OpenAI官方的Agent桌面应用，不光能写代码，还能做PPT、搜网页、调用GPT Image 2生成图片，甚至用手机远程操控电脑工作。这期视频从零开始拆解Codex的核心概念、插件系统和自动化任务，配上完整的实操演示。比起Claude Code经常封号，Codex不封号、额度充足、App设计优雅，20美元起步就能满足日常需要。",
+          "duration": 1000
+        },
+        {
+          "platform": "Bilibili",
+          "folder": "AI工具",
+          "title": "【全网首发】白嫖Google AI Pro 12个月| 无需Pixel设备 | 解决谷歌邮箱注册、账号设备认证、绑卡等问题 | 从注册到订阅全过程演示",
+          "url": "https://www.bilibili.com/video/BV1qpwEzTEa9",
+          "bvid": "BV1qpwEzTEa9",
+          "author": "Porter科技迷",
+          "description": "视频制作不易，希望大家三连支持，如果喜欢我的内容，欢迎订阅我的频道，请在评论区留下评论，我会挨个私发文档",
+          "duration": 1200
         }
       ],
       "notes": [],
@@ -434,25 +559,49 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "5824deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码",
+          "title": "2376二段三指式手爪【MG15】自适应握紧大舵机夹爪MG995/996R大舵机夹爪机械爪3D打印sw建模#3d打印 #三维建模 #机械设计 #3d建模 #产品设计二段三指式手爪【MG15】自适应握紧大舵机夹爪MG995/996R大舵机夹爪机械爪3D打印sw建模#3d打印 #三维建模 #机械设计 #3d建模 #产品设计",
+          "url": "https://www.douyin.com/video/7636234738739494331"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "2258如何突破codex的限制#vibecoding #ai #deepseek #vibecoding大赏如何突破codex的限制#vibecoding #ai #deepseek #vibecoding大赏",
+          "url": "https://www.douyin.com/video/7623378864346395249"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "1266平替Codex？Antigravity 2.0 详细测评 #ai新星计划 #antigravity #antigravity2 #gemini #抖音前沿科技首发计划平替Codex？Antigravity 2.0 详细测评 #ai新星计划 #antigravity #antigravity2 #gemini #抖音前沿科技首发计划",
+          "url": "https://www.douyin.com/video/7642545476776054068"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "28.3万肩胛缝总有按不到的酸胀？3个动作精准拉伸上背部 如果你经常觉得后背酸胀，甚至有一个根本碰不到的卡点在反复折磨你，花两分钟跟着视频做完这三个动作，找回背部的轻松！ #背部拉伸 #肩胛缝 #功能性训练 #拉伸动作 #拉伸放松肌肉肩胛缝总有按不到的酸胀？3个动作精准拉伸上背部 如果你经常觉得后背酸胀，甚至有一个根本碰不到的卡点在反复折磨你，花两分钟跟着视频做完这三个动作，找回背部的轻松！ #背部拉伸 #肩胛缝 #功能性训练 #拉伸动作 #拉伸放松肌肉",
+          "url": "https://www.douyin.com/video/7648534971413515574"
+        },
+        {
+          "platform": "Douyin",
+          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
+          "title": "5889deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码deepseek v4 pro模型ai自动化逆向 #deepseekv4pro模型#ai自动化逆向 小游戏实战！#JS逆向 #Python #代码",
           "url": "https://www.douyin.com/video/7636700110763609370"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "4145上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型",
+          "title": "5917上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型上面的视觉是Claude Fable5呈现出来的 淘汰你的不是AI 而是会用AI的人 #个人交易系统 #实时交易信息 #新手交易员 #大模型",
           "url": "https://www.douyin.com/video/7650190124579618731"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "6.5万只用了Claude Code 30%能力？7个必装Skill 如果你用Claude Code只发挥了30%能力，一定要看这7个必装Skill！附官方英文名：Superpowers、pdf、humanizer-zh等，覆盖开发、文档、前端、代码质量，最后一个能让AI变成懂行队友，直接搜名就能装。#claudecode #skills #AI编程 #AI工具 #编程入门只用了Claude Code 30%能力？7个必装Skill 如果你用Claude Code只发挥了30%能力，一定要看这7个必装Skill！附官方英文名：Superpowers、pdf、humanizer-zh等，覆盖开发、文档、前端、代码质量，最后一个能让AI变成懂行队友，直接搜名就能装。#claudecode #skills #AI编程 #AI工具 #编程入门",
+          "title": "热点 6.6万只用了Claude Code 30%能力？7个必装Skill 如果你用Claude Code只发挥了30%能力，一定要看这7个必装Skill！附官方英文名：Superpowers、pdf、humanizer-zh等，覆盖开发、文档、前端、代码质量，最后一个能让AI变成懂行队友，直接搜名就能装。#claudecode #skills #AI编程 #AI工具 #编程入门只用了Claude Code 30%能力？7个必装Skill 如果你用Claude Code只发挥了30%能力，一定要看这7个必装Skill！附官方英文名：Superpowers、pdf、humanizer-zh等，覆盖开发、文档、前端、代码质量，最后一个能让AI变成懂行队友，直接搜名就能装。#claudecode #skills #AI编程 #AI工具 #编程入门",
           "url": "https://www.douyin.com/video/7638504373409369337"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "1339几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画",
+          "title": "1684几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画几何节点动画和刚体运用脚本都是用Codex做的#Codex #Blender #AI动画",
           "url": "https://www.douyin.com/video/7650012801838625510"
         },
         {
@@ -476,49 +625,49 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "64用 Claude 写代码画讲解动画｜手搓了个自动化出片流 总有人问我有没有更省力的视频制作方式，我最近用 Claude 捣鼓了个小东西：让它一行行代码帮我画讲解动画。 ✨ 这不是那种模板套路，Claude 会根据我的脚本实时生成画面，每次都是“现场编排”。 原理也不复杂：视频就是一张张图连起来，Claude 负责把每一帧都算出来。 整个流程很简单： 📄 你写脚本定内容； 🎨 Claude 现场编排生成画面； 🎤 你对着画面念口播； 🔄 最后渲染成 MP4。 它把画面元素分成了固定层（像乐高积木）和内容层，这样既能复用组件，又能每次根据脚本“现拼”，保证每期视频都是独一无二的。 而且，口播和字幕都不用手动对齐，本地转写出时间戳，字幕自动就贴上去了。 两行命令搞定，改代码画面立刻变。 所以，我的工作就只剩下写脚本和开口念了，画面全交给 Claude。 你们觉得这种“代码画”的讲解动画怎么样？ #AI #大模型 #AI编程 #自动化 #Claude #讲解动画用 Claude 写代码画讲解动画｜手搓了个自动化出片流 总有人问我有没有更省力的视频制作方式，我最近用 Claude 捣鼓了个小东西：让它一行行代码帮我画讲解动画。 ✨ 这不是那种模板套路，Claude 会根据我的脚本实时生成画面，每次都是“现场编排”。 原理也不复杂：视频就是一张张图连起来，Claude 负责把每一帧都算出来。 整个流程很简单： 📄 你写脚本定内容； 🎨 Claude 现场编排生成画面； 🎤 你对着画面念口播； 🔄 最后渲染成 MP4。 它把画面元素分成了固定层（像乐高积木）和内容层，这样既能复用组件，又能每次根据脚本“现拼”，保证每期视频都是独一无二的。 而且，口播和字幕都不用手动对齐，本地转写出时间戳，字幕自动就贴上去了。 两行命令搞定，改代码画面立刻变。 所以，我的工作就只剩下写脚本和开口念了，画面全交给 Claude。 你们觉得这种“代码画”的讲解动画怎么样？ #AI #大模型 #AI编程 #自动化 #Claude #讲解动画",
+          "title": "63用 Claude 写代码画讲解动画｜手搓了个自动化出片流 总有人问我有没有更省力的视频制作方式，我最近用 Claude 捣鼓了个小东西：让它一行行代码帮我画讲解动画。 ✨ 这不是那种模板套路，Claude 会根据我的脚本实时生成画面，每次都是“现场编排”。 原理也不复杂：视频就是一张张图连起来，Claude 负责把每一帧都算出来。 整个流程很简单： 📄 你写脚本定内容； 🎨 Claude 现场编排生成画面； 🎤 你对着画面念口播； 🔄 最后渲染成 MP4。 它把画面元素分成了固定层（像乐高积木）和内容层，这样既能复用组件，又能每次根据脚本“现拼”，保证每期视频都是独一无二的。 而且，口播和字幕都不用手动对齐，本地转写出时间戳，字幕自动就贴上去了。 两行命令搞定，改代码画面立刻变。 所以，我的工作就只剩下写脚本和开口念了，画面全交给 Claude。 你们觉得这种“代码画”的讲解动画怎么样？ #AI #大模型 #AI编程 #自动化 #Claude #讲解动画用 Claude 写代码画讲解动画｜手搓了个自动化出片流 总有人问我有没有更省力的视频制作方式，我最近用 Claude 捣鼓了个小东西：让它一行行代码帮我画讲解动画。 ✨ 这不是那种模板套路，Claude 会根据我的脚本实时生成画面，每次都是“现场编排”。 原理也不复杂：视频就是一张张图连起来，Claude 负责把每一帧都算出来。 整个流程很简单： 📄 你写脚本定内容； 🎨 Claude 现场编排生成画面； 🎤 你对着画面念口播； 🔄 最后渲染成 MP4。 它把画面元素分成了固定层（像乐高积木）和内容层，这样既能复用组件，又能每次根据脚本“现拼”，保证每期视频都是独一无二的。 而且，口播和字幕都不用手动对齐，本地转写出时间戳，字幕自动就贴上去了。 两行命令搞定，改代码画面立刻变。 所以，我的工作就只剩下写脚本和开口念了，画面全交给 Claude。 你们觉得这种“代码画”的讲解动画怎么样？ #AI #大模型 #AI编程 #自动化 #Claude #讲解动画",
           "url": "https://www.douyin.com/video/7649333763918269711"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "2647心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时显示。 #心率广播 #心率推送 #心率带 #蓝牙心率广播 #心率监测心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时显示。 #心率广播 #心率推送 #心率带 #蓝牙心率广播 #心率监测",
+          "title": "2754心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时显示。 #心率广播 #心率推送 #心率带 #蓝牙心率广播 #心率监测心率广播桌面端上线 支持 Windows 和 Mac设备，支持任何蓝牙心率广播连接，心率实时显示在菜单栏，也可以悬浮框实时显示。 #心率广播 #心率推送 #心率带 #蓝牙心率广播 #心率监测",
           "url": "https://www.douyin.com/video/7648606620188005486"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "189机器人关节减速器Demo！行星、谐波和摆线 Vibecoding做了一个机器人关节减速器demo，主要是行星、谐波和摆线三种，并准备联合其他工程软件给出仿真分析报告，目前刚刚开始做，还不成熟，存在很多问题；但是这个demo效果看着倒是挺好看哈哈，大体轮廓也是有了，后续我会多做一些研究，继续推进，争取实现真正落地！ #大学生 #研究生 #机械 #AI #vibecoding机器人关节减速器Demo！行星、谐波和摆线 Vibecoding做了一个机器人关节减速器demo，主要是行星、谐波和摆线三种，并准备联合其他工程软件给出仿真分析报告，目前刚刚开始做，还不成熟，存在很多问题；但是这个demo效果看着倒是挺好看哈哈，大体轮廓也是有了，后续我会多做一些研究，继续推进，争取实现真正落地！ #大学生 #研究生 #机械 #AI #vibecoding",
+          "title": "193机器人关节减速器Demo！行星、谐波和摆线 Vibecoding做了一个机器人关节减速器demo，主要是行星、谐波和摆线三种，并准备联合其他工程软件给出仿真分析报告，目前刚刚开始做，还不成熟，存在很多问题；但是这个demo效果看着倒是挺好看哈哈，大体轮廓也是有了，后续我会多做一些研究，继续推进，争取实现真正落地！ #大学生 #研究生 #机械 #AI #vibecoding机器人关节减速器Demo！行星、谐波和摆线 Vibecoding做了一个机器人关节减速器demo，主要是行星、谐波和摆线三种，并准备联合其他工程软件给出仿真分析报告，目前刚刚开始做，还不成熟，存在很多问题；但是这个demo效果看着倒是挺好看哈哈，大体轮廓也是有了，后续我会多做一些研究，继续推进，争取实现真正落地！ #大学生 #研究生 #机械 #AI #vibecoding",
           "url": "https://www.douyin.com/video/7648870890301590811"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "9838让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码",
+          "title": "1.1万让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码让ai直接操作你的各种软件 #大模型应用 #ai #ai工具 #编程 #代码",
           "url": "https://www.douyin.com/video/7644513285333807729"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "1874Solidworks一键批量自动出图自动标注尺寸最新版插件 升级后的插件支持sw格式图纸标注同步支持中性格式转化来的实体零件标注，也支持用户选择基准标注丨坐标标注丨尺寸链标注丨可单个零件出图丨也可以多个零件出图 #中新智能装备 #solidworks自动标注 #solidworks机械设计 #自动出图 #Solidworks出图Solidworks一键批量自动出图自动标注尺寸最新版插件 升级后的插件支持sw格式图纸标注同步支持中性格式转化来的实体零件标注，也支持用户选择基准标注丨坐标标注丨尺寸链标注丨可单个零件出图丨也可以多个零件出图 #中新智能装备 #solidworks自动标注 #solidworks机械设计 #自动出图 #Solidworks出图",
+          "title": "1875Solidworks一键批量自动出图自动标注尺寸最新版插件 升级后的插件支持sw格式图纸标注同步支持中性格式转化来的实体零件标注，也支持用户选择基准标注丨坐标标注丨尺寸链标注丨可单个零件出图丨也可以多个零件出图 #中新智能装备 #solidworks自动标注 #solidworks机械设计 #自动出图 #Solidworks出图Solidworks一键批量自动出图自动标注尺寸最新版插件 升级后的插件支持sw格式图纸标注同步支持中性格式转化来的实体零件标注，也支持用户选择基准标注丨坐标标注丨尺寸链标注丨可单个零件出图丨也可以多个零件出图 #中新智能装备 #solidworks自动标注 #solidworks机械设计 #自动出图 #Solidworks出图",
           "url": "https://www.douyin.com/video/7632778660735870833"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "27726月1日GitHub涨星最快的6个项目 6月1日GitHub涨星榜出炉，6个项目单日狂揽上万星。微软的Markitdown一天涨2759星，总星134K——任何文件一键变Markdown，不是编辑器是转换器。MoneyPrinterTurbo 74K星，文字直接出视频配字幕全搞定。VoxCPM跳过分词器做语音合成，还能克隆你的声音。从零训大模型的教程也有，跟着Notebook走一遍就行。 #GitHub #开源项目 #AI工具 #程序员 #科技6月1日GitHub涨星最快的6个项目 6月1日GitHub涨星榜出炉，6个项目单日狂揽上万星。微软的Markitdown一天涨2759星，总星134K——任何文件一键变Markdown，不是编辑器是转换器。MoneyPrinterTurbo 74K星，文字直接出视频配字幕全搞定。VoxCPM跳过分词器做语音合成，还能克隆你的声音。从零训大模型的教程也有，跟着Notebook走一遍就行。 #GitHub #开源项目 #AI工具 #程序员 #科技",
+          "title": "27786月1日GitHub涨星最快的6个项目 6月1日GitHub涨星榜出炉，6个项目单日狂揽上万星。微软的Markitdown一天涨2759星，总星134K——任何文件一键变Markdown，不是编辑器是转换器。MoneyPrinterTurbo 74K星，文字直接出视频配字幕全搞定。VoxCPM跳过分词器做语音合成，还能克隆你的声音。从零训大模型的教程也有，跟着Notebook走一遍就行。 #GitHub #开源项目 #AI工具 #程序员 #科技6月1日GitHub涨星最快的6个项目 6月1日GitHub涨星榜出炉，6个项目单日狂揽上万星。微软的Markitdown一天涨2759星，总星134K——任何文件一键变Markdown，不是编辑器是转换器。MoneyPrinterTurbo 74K星，文字直接出视频配字幕全搞定。VoxCPM跳过分词器做语音合成，还能克隆你的声音。从零训大模型的教程也有，跟着Notebook走一遍就行。 #GitHub #开源项目 #AI工具 #程序员 #科技",
           "url": "https://www.douyin.com/video/7646250472777396709"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "7.0万GitHub 杀疯了！6 个 AI 工具接管你的工作流 一夜爆 6 个 AI 项目，方向出奇一致：Claude Code、CodeGraph、Understand Anything、Presenton、NVIDIA LongLive 全在抢一件事——接管你的工作流。看完收藏开干。#AI工具 #ClaudeCode #GitHub #工作流 #AI编程GitHub 杀疯了！6 个 AI 工具接管你的工作流 一夜爆 6 个 AI 项目，方向出奇一致：Claude Code、CodeGraph、Understand Anything、Presenton、NVIDIA LongLive 全在抢一件事——接管你的工作流。看完收藏开干。#AI工具 #ClaudeCode #GitHub #工作流 #AI编程",
+          "title": "热点 7.3万GitHub 杀疯了！6 个 AI 工具接管你的工作流 一夜爆 6 个 AI 项目，方向出奇一致：Claude Code、CodeGraph、Understand Anything、Presenton、NVIDIA LongLive 全在抢一件事——接管你的工作流。看完收藏开干。#AI工具 #ClaudeCode #GitHub #工作流 #AI编程GitHub 杀疯了！6 个 AI 工具接管你的工作流 一夜爆 6 个 AI 项目，方向出奇一致：Claude Code、CodeGraph、Understand Anything、Presenton、NVIDIA LongLive 全在抢一件事——接管你的工作流。看完收藏开干。#AI工具 #ClaudeCode #GitHub #工作流 #AI编程",
           "url": "https://www.douyin.com/video/7643843139823799592"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "10.6万不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势",
+          "title": "10.7万不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势不用扭腰这样拍，帅就完事儿了 #肌肉 #拍照姿势",
           "url": "https://www.douyin.com/video/7643005978984599803"
         },
         {
@@ -530,7 +679,7 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "951如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld",
+          "title": "954如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld如何在MakerWorld半年赚2万 #makerworld模型 #3d打印 #3d打印教学 #solidworks教学 #makerworld",
           "url": "https://www.douyin.com/video/7629014752148235941"
         },
         {
@@ -560,7 +709,7 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "2919#扣合 #solidworks教学 #solidworks#扣合 #solidworks教学 #solidworks",
+          "title": "2918#扣合 #solidworks教学 #solidworks#扣合 #solidworks教学 #solidworks",
           "url": "https://www.douyin.com/video/7594419179631012858"
         },
         {
@@ -572,25 +721,25 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "3231天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救",
+          "title": "3232天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救天国拯救：新手完美开局刷力量敏捷射箭准心开启非常困难的箱子 #steam #epic #单机游戏 #天国拯救",
           "url": "https://www.douyin.com/video/7321289324979359014"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "1428SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛",
+          "title": "1449SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛SW成图强化技能教程-零件-30-包覆 #SOLIDWORKS #SOLIDWORKS教学 #成图大赛",
           "url": "https://www.douyin.com/video/7639345343213194496"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "273复刻模型网站上比较受欢迎的不可能穿越模型系列 这次我们通过建模复刻模型网站上比较受欢迎的不可能穿越模型系列， Passthrough模型，掌握了这种建模方法，各种形状的穿越模型，你都可以做出来。#建模教程#3d打印#fusion360#passthrough模型#穿越模型复刻模型网站上比较受欢迎的不可能穿越模型系列 这次我们通过建模复刻模型网站上比较受欢迎的不可能穿越模型系列， Passthrough模型，掌握了这种建模方法，各种形状的穿越模型，你都可以做出来。#建模教程#3d打印#fusion360#passthrough模型#穿越模型",
+          "title": "289复刻模型网站上比较受欢迎的不可能穿越模型系列 这次我们通过建模复刻模型网站上比较受欢迎的不可能穿越模型系列， Passthrough模型，掌握了这种建模方法，各种形状的穿越模型，你都可以做出来。#建模教程#3d打印#fusion360#passthrough模型#穿越模型复刻模型网站上比较受欢迎的不可能穿越模型系列 这次我们通过建模复刻模型网站上比较受欢迎的不可能穿越模型系列， Passthrough模型，掌握了这种建模方法，各种形状的穿越模型，你都可以做出来。#建模教程#3d打印#fusion360#passthrough模型#穿越模型",
           "url": "https://www.douyin.com/video/7640060607874069221"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "3836当我翻出来相册里那些被遗忘的照片 恰巧遇到这个模板的我……“当后来的我去翻阅曾经的记录时 那些事情得以二次曝光……”#模板已做好#剪映#记录的意义当我翻出来相册里那些被遗忘的照片 恰巧遇到这个模板的我……“当后来的我去翻阅曾经的记录时 那些事情得以二次曝光……”#模板已做好#剪映#记录的意义",
+          "title": "3893当我翻出来相册里那些被遗忘的照片 恰巧遇到这个模板的我……“当后来的我去翻阅曾经的记录时 那些事情得以二次曝光……”#模板已做好#剪映#记录的意义当我翻出来相册里那些被遗忘的照片 恰巧遇到这个模板的我……“当后来的我去翻阅曾经的记录时 那些事情得以二次曝光……”#模板已做好#剪映#记录的意义",
           "url": "https://www.douyin.com/video/7641576114256093411"
         },
         {
@@ -602,13 +751,13 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "1595AI直接生成CAD的项目带逛 带逛3个AI生成CAD项目，第一个为 #texttocad 第二个为多智能体系统生成CAD的论文，第三个为AI生成具身智能环境的论文，最后展示了我自己用AI生成的简单CAD作品，对大家了解目前AI生成CAD的发展水平以及汲取AI在垂直领域应用的研究思路具有一定的帮助作用。 #aigc #ai发展 #科研AI直接生成CAD的项目带逛 带逛3个AI生成CAD项目，第一个为 #texttocad 第二个为多智能体系统生成CAD的论文，第三个为AI生成具身智能环境的论文，最后展示了我自己用AI生成的简单CAD作品，对大家了解目前AI生成CAD的发展水平以及汲取AI在垂直领域应用的研究思路具有一定的帮助作用。 #aigc #ai发展 #科研",
+          "title": "1615AI直接生成CAD的项目带逛 带逛3个AI生成CAD项目，第一个为 #texttocad 第二个为多智能体系统生成CAD的论文，第三个为AI生成具身智能环境的论文，最后展示了我自己用AI生成的简单CAD作品，对大家了解目前AI生成CAD的发展水平以及汲取AI在垂直领域应用的研究思路具有一定的帮助作用。 #aigc #ai发展 #科研AI直接生成CAD的项目带逛 带逛3个AI生成CAD项目，第一个为 #texttocad 第二个为多智能体系统生成CAD的论文，第三个为AI生成具身智能环境的论文，最后展示了我自己用AI生成的简单CAD作品，对大家了解目前AI生成CAD的发展水平以及汲取AI在垂直领域应用的研究思路具有一定的帮助作用。 #aigc #ai发展 #科研",
           "url": "https://www.douyin.com/video/7644613028209528064"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "共创2.0万第五代无沟世吞发布！再一次创造历史！ #我的世界 #生电 #mc #红石 #世吞第五代无沟世吞发布！再一次创造历史！ #我的世界 #生电 #mc #红石 #世吞",
+          "title": "共创2.1万第五代无沟世吞发布！再一次创造历史！ #我的世界 #生电 #mc #红石 #世吞第五代无沟世吞发布！再一次创造历史！ #我的世界 #生电 #mc #红石 #世吞",
           "url": "https://www.douyin.com/video/7643383940081863945"
         },
         {
@@ -620,73 +769,55 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "4.9万用Claude Code一定要装这SKill！ 这是一个可以让你的Claude Code，变得更好用的开源项目，它的名字叫做andrej-karpathy-skills，短短一个月就涨到了10万 Star，但离谱的是，这个项目里只有一个65行markdown文档，为什么这么短的内容却有这么大的影响力呢？#vibecoding #claudecode #claude #github #开源项目用Claude Code一定要装这SKill！ 这是一个可以让你的Claude Code，变得更好用的开源项目，它的名字叫做andrej-karpathy-skills，短短一个月就涨到了10万 Star，但离谱的是，这个项目里只有一个65行markdown文档，为什么这么短的内容却有这么大的影响力呢？#vibecoding #claudecode #claude #github #开源项目",
-          "url": "https://www.douyin.com/video/7635237566043688238"
+          "title": "爱尔兰🇮🇪低龄留学 爱尔兰当地中学欢迎全世界各地的中学生们来体验#海外生活 #爱尔兰低龄留学 #爱尔兰语言学校",
+          "url": "https://www.douyin.com/video/7650652304354610074"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "447妈妈再也不用担心我片没翻译了🎉🎉🎉#F1 #ai #实时翻译 #potplayer妈妈再也不用担心我片没翻译了🎉🎉🎉#F1 #ai #实时翻译 #potplayer",
-          "url": "https://www.douyin.com/video/7646139947213660315"
+          "title": "野生东北虎“一胎产五崽”",
+          "url": "https://www.douyin.com/video/7589219407768274875?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "6.8万让Codex干活飞起 #codex #AI应用 #提效神器让Codex干活飞起 #codex #AI应用 #提效神器",
-          "url": "https://www.douyin.com/video/7646303972000681267"
+          "title": "#中考地理 #日积月累 #学习打卡ing #把知识装进脑袋 #中山市地理七上期末考 第三题难度大，考查知识点广。",
+          "url": "https://www.douyin.com/video/7160594861287132429?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "2026高考最新消息 今年低分考生的福音来了，如果你的分数在300分以上，均可尝试报考#高考 #升学志愿填报 #升学规划 #江苏高考 #高三家长必看",
-          "url": "https://www.douyin.com/video/7650344405723956819"
+          "title": "仅需600微信小程序是怎么做的？并且无年费，无小程序认证费，永久使用，享受微信支付超低费率0.2%#微信小程序",
+          "url": "https://www.douyin.com/video/7141556661130497314?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "蔡皋获国际安徒生奖",
-          "url": "https://www.douyin.com/video/7628419278835879214?source=Baiduspider"
+          "title": "汽配老板要转行，谁懂啊！#同城热点 #汽配 #转行 #小微企业 #沈阳 @DOU+小助手",
+          "url": "https://www.douyin.com/video/7484296121301437723?source=Baiduspider-sdc"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "绝对不可能有人会笑着看完我这个视频。#搞笑视频",
-          "url": "https://www.douyin.com/video/7418197437153611017?source=Baiduspider"
+          "title": "个人超喜欢的书亦烧仙草~你们觉得怎么样呢🆒#餐饮创业 #奶茶店创业 #实体店经营 #餐饮加盟 #2023创业",
+          "url": "https://www.douyin.com/video/7242566120669007137?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "几何画板11.4动画按钮的制作点在线段上的运动 #几何画板的应用",
-          "url": "https://www.douyin.com/video/7194341708518214970?source=Baiduspider"
+          "title": "200个摄影师拍6个美女模特，应该怎么拍？这种场面你会来拍吗？ #绿豆小兵 #汉服 #人像摄影 #拍摄现场",
+          "url": "https://www.douyin.com/video/6964238141481831716?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "雾灰河畔｜胖mm薄绒长袖长裤230斤睡衣甜美宽松新款微胖少女家居服#女生这款睡衣穿着很舒服#秋冬这套睡衣质量很好做工精细",
-          "url": "https://www.douyin.com/video/7582265200055192872?source=Baiduspider-sdc"
-        },
-        {
-          "platform": "Douyin",
-          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "不定期释放库存之冷门歌曲《悲剧人物》#张敬轩 #神级现场 #港乐 #行走的cd 回味一下教科书般的0换气声😎我永远为轩公的无敌唱功而折服！！！",
-          "url": "https://www.douyin.com/video/7300205806618807567?source=Baiduspider"
-        },
-        {
-          "platform": "Douyin",
-          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "我到佛山的第一天竟然地震了！愿世间没有灾难.. #广东河源地震 #南海影视城 #旗袍大赛 #关注我带你去旅行 #我们",
-          "url": "https://www.douyin.com/video/7208393053512535308?source=Baiduspider"
-        },
-        {
-          "platform": "Douyin",
-          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=favorite_collection",
-          "title": "挑战连续吃手剥笋第22天，今天整大笋王！模仿咕咕鸡失败#手剥笋 #抖音美食推荐官 #爱自己的100种方式从吃开始 @抖音小助手 @抖音美食达人助手 @抖音创作者中心",
-          "url": "https://www.douyin.com/video/7271209635875409207?source=Baiduspider-sdc"
+          "title": "哈弗大狗品类的五大优势，大狗及二代大狗的区别 时尚又富有个性的外观、宽敞 的空间、强劲又经济的动力组合、强悍的轻越野性能（四驱车型）、高性价比，这就是华歌推荐大狗品类的五大理由。 #哈弗大狗二代 #轻越野 #年轻人的车 ##泛越野SUV",
+          "url": "https://www.douyin.com/video/7467839272108723510?source=Baiduspider-sdc"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "841报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳",
+          "title": "847报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳报纸可不只能糊墙，还可以做个怀旧风的笔筒，容量巨～～大！ #变废为宝 #手工diy #废物利用 #手工 #收纳",
           "url": "https://www.douyin.com/video/7601184999748861318"
         },
         {
@@ -698,7 +829,7 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "9043Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图",
+          "title": "9135Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图Photoshop无痕改字 Photoshop无痕改字技巧#PS #ps教学 #抠图 #PS技巧 #p图",
           "url": "https://www.douyin.com/video/7613221005042431458"
         },
         {
@@ -710,19 +841,19 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "1.6万CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启",
+          "title": "1.8万CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启CS堵撤离点#三角洲行动#得吃百万哈弗币#赚钱最快玩法#游戏战术技巧 #三角洲行动回想赛季开启",
           "url": "https://www.douyin.com/video/7638528109360675050"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "1.0万前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹",
+          "title": "1.1万前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹前辈，连这种小事都做不到吗？ #雌小鬼 #短发 #萝莉控 #萝莉 #萌妹",
           "url": "https://www.douyin.com/video/7640864233253523566"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "19.5万美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights",
+          "title": "19.9万美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights美国南方大学行进乐队 大号声部演奏《Flashing Lights》#kanye #flashinglights",
           "url": "https://www.douyin.com/video/7640014201297433289"
         },
         {
@@ -734,25 +865,25 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "14.6万反反发布一条日常反反发布一条日常",
+          "title": "14.7万反反发布一条日常反反发布一条日常",
           "url": "https://www.douyin.com/video/7633375633239125477"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "35.8万你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣",
+          "title": "36.1万你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣你还在偷窥她的生活 对吗？#范 #情感 #情感共鸣",
           "url": "https://www.douyin.com/video/7635623093906673318"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "2.4万请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭",
+          "title": "2.5万请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭请漂亮女孩吃北京烤鸭 #小白鞋搭配袜 #请漂亮女孩吃饭#北京旅游 #北京烤鸭",
           "url": "https://www.douyin.com/video/7630008849424870586"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "3166神奇小物件，充满自己会拔插头#手机充电器神奇小物件，充满自己会拔插头#手机充电器",
+          "title": "3167神奇小物件，充满自己会拔插头#手机充电器神奇小物件，充满自己会拔插头#手机充电器",
           "url": "https://www.douyin.com/video/7628980310386290427"
         },
         {
@@ -806,13 +937,7 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "24.8万我跟垃圾短信“死磕”，没想到居然赚了3600块钱！ （双手叉腰，蹦跶出场）哟嗬～本堂主最近跟垃圾短信斗智斗勇，居然赚了整整3600块！是不是很厉害呀？ （掏出一叠小本本）以前收到这种烦人短信都是随手删掉，后来发现——它们居然都是违法的！本堂主一拍桌子：这不得让它们好好赔偿我的精神损失？ （掰着手指数数）让我给你讲讲我的辉煌战绩： ✨ 一条百度网盘短信 → 赔了500 ✨ 贷款骚扰几小时 → 秒收500 ✨ 1分钱买票被狂轰8条 → 怒赚2000 ✨ 360贷款短信 → 轻松到手100 ✨ 连续5条投诉信 → 又收500 （眨眨眼）其实超简单：留着短信别删，找到是谁发的，理直气壮去要赔偿！大部分公司都怂得很快呢～ （晃着钱袋子）现在本堂主的钱包又鼓啦！下次再收到这种短信，记得学我一样——该出手时就出手，让他们知道往生堂主可不是好惹的！ （转身蹦跳着离开）走啦走啦，还要去给客卿看看我的战利品呢～我跟垃圾短信“死磕”，没想到居然赚了3600块钱！ （双手叉腰，蹦跶出场）哟嗬～本堂主最近跟垃圾短信斗智斗勇，居然赚了整整3600块！是不是很厉害呀？ （掏出一叠小本本）以前收到这种烦人短信都是随手删掉，后来发现——它们居然都是违法的！本堂主一拍桌子：这不得让它们好好赔偿我的精神损失？ （掰着手指数数）让我给你讲讲我的辉煌战绩： ✨ 一条百度网盘短信 → 赔了500 ✨ 贷款骚扰几小时 → 秒收500 ✨ 1分钱买票被狂轰8条 → 怒赚2000 ✨ 360贷款短信 → 轻松到手100 ✨ 连续5条投诉信 → 又收500 （眨眨眼）其实超简单：留着短信别删，找到是谁发的，理直气壮去要赔偿！大部分公司都怂得很快呢～ （晃着钱袋子）现在本堂主的钱包又鼓啦！下次再收到这种短信，记得学我一样——该出手时就出手，让他们知道往生堂主可不是好惹的！ （转身蹦跳着离开）走啦走啦，还要去给客卿看看我的战利品呢～",
-          "url": "https://www.douyin.com/video/7578049375671209235"
-        },
-        {
-          "platform": "Douyin",
-          "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "1370SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作过程 #教程 #干货分享 #技术分享SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作过程 #教程 #干货分享 #技术分享",
+          "title": "1371SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作过程 #教程 #干货分享 #技术分享SW曲面第五讲，边界曲面，多种使用方式：绘制漏斗、船头、手帕、桌椅等绘制方式，由浅入深逐步对曲面学习🔥#solidworks教学 #制作过程 #教程 #干货分享 #技术分享",
           "url": "https://www.douyin.com/video/7276403081569422652"
         },
         {
@@ -836,7 +961,7 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "718陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车",
+          "title": "719陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车陆空一体无人机终于做好啦，两个方案，你觉得哪个方案好点？#穿越机 #FPV #空地一体无人机 #教程 #RC车",
           "url": "https://www.douyin.com/video/7495637449429044530"
         },
         {
@@ -980,44 +1105,44 @@
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "雅思口语题库：最近读过的故事 Describe a story (e.g. a fairy tale, etc.) you have read recently. You should say: What it is about When you read it Whether you liked it And explain what you have learned from it 重点词组： short story — 短篇小说 browsing online — 在网上浏览 before bed",
-          "url": "https://www.douyin.com/video/7650458378556885411"
+          "title": "糟糕我被肌肉奶爸包围了",
+          "url": "https://www.douyin.com/video/7580787966906240283?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "陕西这碗刀刀碗饦你吃过吗",
-          "url": "https://www.douyin.com/video/7614081780723880079?source=Baiduspider"
+          "title": "椭圆甲修型，注意点手法全流程演示超详细 #美甲 #美甲教程 #美甲分享 #美甲培训",
+          "url": "https://www.douyin.com/video/7395138203109444905?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "“黑椒菠萝生煎猪扒仔”肉滑鲜味十足值得推荐 #一起学做菜 #美食教程 #粤菜",
-          "url": "https://www.douyin.com/video/7421896642602847545?source=Baiduspider"
+          "title": "📖《初夏无心》#好看又过瘾的小说推荐 #女生必看 #超级好看小说推荐",
+          "url": "https://www.douyin.com/video/7399951916047797516?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "乌伦古湖是戈壁滩上的大型淡水湖，被誉为阿勒泰明珠，总面积1035平方公里，湖水面积827平方公里，自然景观十分壮观，是一个绝佳的休闲度假好去处。",
-          "url": "https://www.douyin.com/video/7413698876210695463?source=Baiduspider"
+          "title": "广春摄像头家用2025新款太阳能监控器360夜视高清旋转无电无网#广春摄像头 #太阳能摄像头推荐 #太阳能监控摄像头 #太阳能监控推荐 #家用摄像头360",
+          "url": "https://www.douyin.com/video/7586586117685792049?source=Baiduspider-sdc"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "沪剧 千千的情结心头萦 #沪剧经典唱段欣赏 #关注我每天分享精彩戏曲 #感谢一路陪伴一路支持🌹🌹",
-          "url": "https://www.douyin.com/video/7195467776335547708?source=Baiduspider"
+          "title": "最好的解压密码，周末喝上两口，唱一两曲放松放松……",
+          "url": "https://www.douyin.com/video/7234904905163509051?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "大型电视连续剧工笔画入门第二集#画 #充能计划 #谁说国画不抖音 @抖音小助手",
-          "url": "https://www.douyin.com/video/6835251712949898499?source=Baiduspider"
+          "title": "人人都能成为 Fitter，可以自己简单的 fitting 你的公路车。 #公路车fitting #自行车fitting #公路车 #骑行 #公路车选择",
+          "url": "https://www.douyin.com/video/7511963139815984441?source=Baiduspider"
         },
         {
           "platform": "Douyin",
           "section": "https://www.douyin.com/user/self?from_tab_name=main&showTab=like",
-          "title": "一场雨捂了个把月，终于可以出来透透气了。#户外徒步 #绛县红叶",
-          "url": "https://www.douyin.com/video/7563315808568347954?source=Baiduspider-sdc"
+          "title": "这波操作能打多少分？，丁俊晖眼睛瞪得像铜玲！ #台球 #斯诺克 #丁俊晖 #表情包 #这台球一打一个不吱声",
+          "url": "https://www.douyin.com/video/7490407094454111551?source=Baiduspider-sdc"
         }
       ],
       "notes": []
@@ -1039,7 +1164,7 @@
         {
           "section": "Playlists",
           "url": "https://www.youtube.com/feed/playlists",
-          "count": 2
+          "count": 6
         }
       ],
       "items": [
@@ -1047,6 +1172,13 @@
           "platform": "YouTube",
           "section": "Liked videos",
           "title": "全部播放",
+          "url": "https://www.youtube.com/watch?v=zHttZ3jGmrs&list=LL&pp=0gcJCbECa94AFGB0sAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Liked videos",
+          "title": "赞过的视频",
           "url": "https://www.youtube.com/watch?v=zHttZ3jGmrs&list=LL&pp=sAgC",
           "meta": ""
         },
@@ -1054,14 +1186,7 @@
           "platform": "YouTube",
           "section": "Liked videos",
           "title": "随机播放",
-          "url": "https://www.youtube.com/watch?v=U_5QcGhau9I&list=LL&pp=sAgC",
-          "meta": ""
-        },
-        {
-          "platform": "YouTube",
-          "section": "Liked videos",
-          "title": "随机播放",
-          "url": "https://www.youtube.com/watch?v=uyZ887mnh9s&list=LL&pp=sAgC",
+          "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg&list=LL&pp=sAgC",
           "meta": ""
         },
         {
@@ -1075,7 +1200,7 @@
           "platform": "YouTube",
           "section": "Liked videos",
           "title": "27:15",
-          "url": "https://www.youtube.com/watch?v=uiMsul6sKus&list=LL&index=2&pp=iAQB0gcJCToLAYcqIYzvsAgC",
+          "url": "https://www.youtube.com/watch?v=uiMsul6sKus&list=LL&index=2&pp=iAQBsAgC",
           "meta": ""
         },
         {
@@ -1089,7 +1214,7 @@
           "platform": "YouTube",
           "section": "Liked videos",
           "title": "12:03",
-          "url": "https://www.youtube.com/watch?v=U_5QcGhau9I&list=LL&index=4&t=56s&pp=iAQB0gcJCToLAYcqIYzvsAgC",
+          "url": "https://www.youtube.com/watch?v=U_5QcGhau9I&list=LL&index=4&t=56s&pp=iAQBsAgC",
           "meta": ""
         },
         {
@@ -1145,8 +1270,36 @@
           "platform": "YouTube",
           "section": "Watch later",
           "title": "ASMR mean girl does your makeup in school bathroom",
-          "url": "https://www.youtube.com/watch?v=7dCWt36jwjE&list=WL&index=6&t=58s&pp=iAQB0gcJCToLAYcqIYzvsAgC",
+          "url": "https://www.youtube.com/watch?v=7dCWt36jwjE&list=WL&index=6&t=58s&pp=iAQBsAgC",
           "meta": "Ices The Enchantress Ices The Enchantress"
+        },
+        {
+          "platform": "YouTube",
+          "section": "Playlists",
+          "title": "2 个视频",
+          "url": "https://www.youtube.com/watch?v=5-eSqP-iNnc&list=PL1ct-Aa7Ss1gQrXMqG8pTXSxowKMOhk_I&pp=sAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Playlists",
+          "title": "1 个视频",
+          "url": "https://www.youtube.com/watch?v=7dCWt36jwjE&list=PL1ct-Aa7Ss1j2Z4iul0AGxD_lPnvTBDvo&pp=sAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Playlists",
+          "title": "1 个视频",
+          "url": "https://www.youtube.com/watch?v=fGtTYha84vc&list=PL1ct-Aa7Ss1izCsIQCtE22zuCqGqzzbf2&pp=0gcJCUUDOCosWNinsAgC",
+          "meta": ""
+        },
+        {
+          "platform": "YouTube",
+          "section": "Playlists",
+          "title": "2 个视频",
+          "url": "https://www.youtube.com/watch?v=JuoqE2lpRUM&list=PL1ct-Aa7Ss1hoJgQA5CXmmvAPMasttR8R&pp=sAgC",
+          "meta": ""
         },
         {
           "platform": "YouTube",

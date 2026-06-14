@@ -68,6 +68,7 @@ const els = {
   themeToggle: document.querySelector("#themeToggle"),
   themeText: document.querySelector("#themeText"),
   cover: document.querySelector("#detailCover"),
+  detailFallbackCover: document.querySelector("#detailFallbackCover"),
   valueBadge: document.querySelector("#detailValue"),
   platform: document.querySelector("#detailPlatform"),
   category: document.querySelector("#detailCategory"),
@@ -322,10 +323,15 @@ function selectVideo(video) {
     els.cover.style.display = "";
     els.cover.src = getCoverUrl(video.cover);
     els.cover.alt = video.title;
+    if (els.detailFallbackCover) els.detailFallbackCover.style.display = "none";
   } else {
     els.cover.removeAttribute("src");
     els.cover.alt = "";
     els.cover.style.display = "none";
+    if (els.detailFallbackCover) {
+      els.detailFallbackCover.style.display = "";
+      els.detailFallbackCover.innerHTML = fallbackCoverMarkup(video, "thumb-placeholder");
+    }
   }
   els.valueBadge.textContent = `${video.value}价值`;
   els.platform.innerHTML = `${getPlatformIcon(video.platform)}${video.platform}`;
