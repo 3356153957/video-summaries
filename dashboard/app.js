@@ -31,6 +31,14 @@ window.handleImageError = function(img) {
   }
 };
 
+function getCoverUrl(cover) {
+  if (!cover) return "";
+  if (cover.startsWith("./covers/") && window.location.hostname.includes("github.io")) {
+    return cover.replace("./covers/", "https://raw.githubusercontent.com/3356153957/video-summaries/master/dashboard/covers/");
+  }
+  return cover;
+}
+
 function getPlatformIcon(platform) {
   if (platform === "Bilibili") {
     return `<svg class="platform-icon" viewBox="0 0 24 24" style="color:#fb7299"><path d="M17.8 2c.4 0 .8.2 1 .5l2.7 3.5c.3.5.2 1.1-.3 1.4-.2.1-.4.2-.6.2H3.4c-.6 0-1-.4-1-1 0-.2.1-.4.2-.6L5.3 2.5c.2-.3.6-.5 1-.5h11.5zM3 9h18c.6 0 1 .4 1 1v9.5c0 1.9-1.6 3.5-3.5 3.5H5.5C3.6 23 2 21.4 2 19.5V10c0-.6.4-1 1-1zm3 4.5c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5 1.5-.7 1.5-1.5-.7-1.5-1.5-1.5zm12 0c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5 1.5-.7 1.5-1.5-.7-1.5-1.5-1.5z"/></svg>`;
@@ -225,8 +233,9 @@ function renderList(filtered) {
     card.tabIndex = 0;
     const isNew = video.date_added === today;
     const newBadge = isNew ? `<span class="badge-new">NEW</span> ` : "";
-    const thumb = video.cover
-      ? `<img src="${video.cover}" alt="" loading="lazy" onerror="window.handleImageError(this)" /><template>${fallbackCoverMarkup(video)}</template>`
+    const coverUrl = getCoverUrl(video.cover);
+    const thumb = coverUrl
+      ? `<img src="${coverUrl}" alt="" loading="lazy" onerror="window.handleImageError(this)" /><template>${fallbackCoverMarkup(video)}</template>`
       : fallbackCoverMarkup(video);
     card.innerHTML = `
       <div class="thumb">
@@ -311,7 +320,7 @@ function selectVideo(video) {
   state.selected = video;
   if (video.cover) {
     els.cover.style.display = "";
-    els.cover.src = video.cover;
+    els.cover.src = getCoverUrl(video.cover);
     els.cover.alt = video.title;
   } else {
     els.cover.removeAttribute("src");
